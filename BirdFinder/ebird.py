@@ -28,10 +28,8 @@ def getEbirdTaxonomyDict(filename: str) -> dict:
 
         #TODO Take off the first row so the headers don't get stuffed into the dictionary
         for row in eBirdTaxonomyFileReader:
-            #Make a tuple of (name, code) to use as the key. POP removes the item from the list, 
-            #so we don't store the data in two places
-            #TODO does the key need to be a tuple? or could we just use Common Name?
-            key = (row.pop("COMMON_NAME"), row.pop("SPECIES_CODE"))
+            #Pop the common name out of the list to use as the key
+            key = row.pop("COMMON_NAME")
             #TODO Someday may want to check to see if key exists, but currently it would be unique:
             #if key in result:
             
@@ -92,8 +90,6 @@ def getSightingsForLocation(lat: float, long:float, daysback:int, distKM:int) ->
     sightings = []
     sightings = getListFromURL(URL)
 
-
-
     return sightings
 
 #Get recent places where a bird was seen 
@@ -110,11 +106,10 @@ def getLocationsForBird(lat: float, long:float, daysback:int, distKM:int, code: 
     return places
 
 #Returns a list of sightings of valid species/ISSF only
-#TODO MOVE FILTERING OF PRIVATE/PUBLIC HERE
-def filterSpecies(sightings: list, ebirdtaxonomy: dict, birdcodes:dict) -> list:
+def filterSpecies(sightings: list, ebirdtaxonomy: dict) -> list:
     results = []
     for bird in sightings:
-        if isValid(ebirdtaxonomy[(bird["comName"], birdcodes[bird["comName"]])]):
+        if isValid(ebirdtaxonomy[(bird["comName"])]):
             results.append(bird)
 
     return results

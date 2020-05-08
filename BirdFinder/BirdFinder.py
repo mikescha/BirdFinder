@@ -15,7 +15,7 @@ class ListType(Enum):
     STATEYEAR = 4 #want to find birds never seen in the current state during the current year
 
 #Loads the life list from a file
-def getNALifeDict(filename: str, ebirdtaxonomydict: dict, birdnamedict:dict) -> dict:
+def getNALifeDict(filename: str, ebirdtaxonomydict: dict) -> dict:
 # Assumes life list file is in the format you get from downloading all your ebird data:
 #
 # [ Submission ID, Common Name, Scientific Name, Taxonomic, Count, State/Province, County ...]
@@ -56,6 +56,7 @@ def getNALifeDict(filename: str, ebirdtaxonomydict: dict, birdnamedict:dict) -> 
             place = row[placecolumn]
             log.debug("Checking {} {}".format(bird, place))
 
+            #date seen is always in the 12th column, and the year is always the first four characters
             year = row[11][0 : 4]
 
             # Skip birds seen outside north america
@@ -74,9 +75,9 @@ def getNALifeDict(filename: str, ebirdtaxonomydict: dict, birdnamedict:dict) -> 
                     
             else:
                 #bird is not in lifelist
-                log.debug("Bird {},{} NOT in life list.".format(bird,birdnamedict[bird] ))
+                log.debug("Bird {} NOT in life list.".format(bird))
                 
-                if ebird.isValid(ebirdtaxonomydict[(bird,birdnamedict[bird])]):
+                if ebird.isValid(ebirdtaxonomydict[(bird)]):
                     log.debug("Is a species, so adding.")
                     lifedict[bird] = {place : {year}}
                 else:
@@ -138,16 +139,16 @@ log = init.get_module_logger(__name__)
 ebirdtaxonomy = ebird.getEbirdTaxonomyDict(init.ebirdtaxonomyfilename)
 
 #Build the mapping of common name to code
-birdcodes = ebird.getBirdName(ebirdtaxonomy)
+#birdcodes = ebird.getBirdName(ebirdtaxonomy)
 
 #Load life list
-lifedict = getNALifeDict(init.lifelistfilename, ebirdtaxonomy, birdcodes)
+lifedict = getNALifeDict(init.lifelistfilename, ebirdtaxonomy)
 if len(lifedict) == 0:
     log.critical("Major error happened getting life list")
     sys.exit()
 
 #Load and process region data to generate prioritization criteria
-data.loadRegionData("US-LA")
+regiondata = data.loadAllRegionData(ebirdtaxonomy)
 
 #lat & long for Abita Springs: 30.47, -90.03
 state = "US-LA"
@@ -176,7 +177,7 @@ if len(sightings) == 0:
     sys.exit()
 
 #remove anything that isn't a species from this list
-sightings = ebird.filterSpecies(sightings, ebirdtaxonomy, birdcodes)
+sightings = ebird.filterSpecies(sightings, ebirdtaxonomy)
 
 #Get list of birds we need
 needs = getNeedsList(findType, state, sightings, lifedict)
@@ -229,7 +230,7 @@ if len(placespublic) > 0:
     for p in placespublic:
         print("{}, {}, {}".format(p, placesdb[p]["lat"], placesdb[p]["lng"]))
         for b in placespublic[p]:
-            print("\t{}".format(b))
+            print("\t{} ({})".format(b,regiondata[state][b]))
 else:
     print("None found")
 
