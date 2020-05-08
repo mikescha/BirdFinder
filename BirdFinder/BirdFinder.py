@@ -130,6 +130,33 @@ def getNeedsList(finding: ListType, state: str, sightings: list, lifedict: dict)
         
     return needs
 
+def askUserForListType() -> ListType:
+    print("What type of list are you building?")
+    print("  1) State year list")
+    print("  2) State life list")
+    print("  3) Year list")
+    print("  4) Life list")
+
+    while True:
+        try:
+            n = input("Choose one: ")
+            n = int(n)
+            if n >= 1 and n <=4:
+                break
+        except ValueError:
+            print("Not a valid choice, please try again ...")
+    
+    if n == 1:
+        result = ListType.STATEYEAR
+    elif n == 2:
+        result = ListType.STATELIFE
+    elif n == 3:
+        result = ListType.YEAR
+    else:
+        result = ListType.LIFE
+
+    return result
+
 
 # turn on logging
 #from init import get_module_logger
@@ -157,7 +184,8 @@ lng = -90.03
 daysback = 7
 distKM = 25
 showprivateplaces = False
-findType = ListType.STATELIFE
+findType = askUserForListType()
+
 if findType == ListType.LIFE:
     findstr = "life list"
 elif findType == ListType.STATELIFE:
@@ -168,7 +196,9 @@ else:
     findstr = "year list"
 
 todomsg = "You asked for birds needed for your {}\n".format(findstr)
-todomsg += "I looked {} days back, within {}km of GPS coordinates {}, {}. \n".format(daysback, distKM, lat, lng)
+todomsg += "I am looking {} days back, within {}km of GPS coordinates {}, {}. \n".format(daysback, distKM, lat, lng)
+
+print(todomsg)
 
 sightings = ebird.getSightingsForLocation(lat, lng, daysback, distKM)
 if len(sightings) == 0:
