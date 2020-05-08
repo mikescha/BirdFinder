@@ -223,15 +223,18 @@ for b in needs:
                     placesprivate[p["locName"]] = {b["comName"]}
                     placesdb[p["locName"]] = {"lat" : p["lat"], "lng" : p["lng"]}
 #TODO make all the output into its own module
+#TODO probably want to make a giant string and then write the whole thing to the file, that
+#way if there is an error with the file, we can still print the results
+
 try:
     f = open("results.txt", "w")
     f.write(todomsg)
     f.write("\n\nPlaces you should go\n")
     f.write("-------------------\n")
     for p in placespublic:
-        f.write("{}, {}, {}".format(p, placesdb[p]["lat"], placesdb[p]["lng"]))
+        f.write("{}, {}, {}\n".format(p, placesdb[p]["lat"], placesdb[p]["lng"]))
         for b in placespublic[p]:
-            f.write("\t{} ({})".format(b,regiondata[state][b]))
+            f.write("\t{} ({})\n".format(b,regiondata[state][b]))
     
     if showprivateplaces:
         f.write("\n\Private places we can't go")
