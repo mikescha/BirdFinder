@@ -222,29 +222,35 @@ for b in needs:
                     log.debug("Adding a new private place {} for bird {}".format(p["locName"], b["comName"]))
                     placesprivate[p["locName"]] = {b["comName"]}
                     placesdb[p["locName"]] = {"lat" : p["lat"], "lng" : p["lng"]}
-
-print(todomsg)
-print("Places you should go")
-print("-------------------")
-if len(placespublic) > 0:
+#TODO make all the output into its own module
+try:
+    f = open("results.txt", "w")
+    f.write(todomsg)
+    f.write("\n\nPlaces you should go\n")
+    f.write("-------------------\n")
     for p in placespublic:
-        print("{}, {}, {}".format(p, placesdb[p]["lat"], placesdb[p]["lng"]))
+        f.write("{}, {}, {}".format(p, placesdb[p]["lat"], placesdb[p]["lng"]))
         for b in placespublic[p]:
-            print("\t{} ({})".format(b,regiondata[state][b]))
-else:
-    print("None found")
+            f.write("\t{} ({})".format(b,regiondata[state][b]))
+    
+    if showprivateplaces:
+        f.write("\n\Private places we can't go")
+        f.write("\n-------------------")
+        for p in placesprivate:
+            f.write("\n{}".format(p))
+            for b in placesprivate[p]:
+                f.write("\t{}".format(b))
+        else:
+            print("None found")
+    
+    f.close()
 
-if showprivateplaces:
-    print("\n\nPlaces we can't go")
-    print("-------------------")
-    for p in placesprivate:
-        print("\n{}".format(p))
-        for b in placesprivate[p]:
-            print("\t{}".format(b))
-    else:
-        print("None found")
+except:
+    print("TODO Fix the error handling")
+
 
 #Write results to Google map format
+#TODO make error handling match the above
 if len(placespublic) > 0:
     f = open("googlemap.csv", "w")
     f.write("Place, Latitude, Longitude, Birds\n")

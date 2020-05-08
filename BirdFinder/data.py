@@ -25,20 +25,25 @@ def getRegionFileName(region: str) -> str:
 def checkRegionDataFileValid(filename: str) -> bool:
     result = True
 
-    #If file exists
-    if os.path.isfile(filename):
+    try:
         #check that it is newer than each data file
         datalastmodified = os.path.getmtime(filename)
-        
+
+    except FileNotFoundError:
+        log.info("Data file doesn't exist")
+        result = False
+    
+    except:
+        log.info("Some other error. What went wrong, I wonder?")
+        result = False
+    
+    else:
         for r in init.regions:
             sourcelastmodified = os.path.getmtime(getRegionFileName(r))
             if datalastmodified <= sourcelastmodified:
                 log.info("Source data is newer than data file")
                 result = False
                 break
-    else:
-        log.info("Data file doesn't exist")
-        result = False
 
     return result
 
