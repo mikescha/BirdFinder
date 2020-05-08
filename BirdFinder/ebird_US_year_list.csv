@@ -1,0 +1,259 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,110,Mission- Bannworth Park,US-TX,02 Feb 2020,L2526526,S64063265
+2,Fulvous Whistling-Duck,2,Mission- Bannworth Park,US-TX,02 Feb 2020,L2526526,S64063265
+3,Snow Goose,25,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+4,Brant,75,Bodega Bay--Tides Wharf area,US-CA,10 Feb 2020,L504795,S64323455
+5,Cackling Goose,75,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+6,Canada Goose,14,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+7,Mute Swan,4,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+8,Wood Duck,2,"1071 Tauzin Island Road, Natchitoches, Louisiana, US (31.839, -93.101)",US-LA,07 Mar 2020,L10918461,S65545190
+9,Blue-winged Teal,20,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+10,Cinnamon Teal,1,Granger Lake--Willis Creek Park,US-TX,24 Feb 2020,L1176337,S64947449
+11,Northern Shoveler,1,Rockport Demo Bird Garden & Wetlands Pond (CTC 050),US-TX,25 Jan 2020,L453211,S63760008
+12,Gadwall,17,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+13,American Wigeon,40,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+14,Mallard,4,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+15,Mottled Duck,2,Rockport Demo Bird Garden & Wetlands Pond (CTC 050),US-TX,25 Jan 2020,L453211,S63760008
+16,Northern Pintail,16,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+17,Green-winged Teal,1,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+18,Canvasback,215,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+19,Redhead,1,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+20,Lesser Scaup,3,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+21,Surf Scoter,2,Bodega Bay--Tides Wharf area,US-CA,10 Feb 2020,L504795,S64323455
+22,Bufflehead,18,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+23,Common Goldeneye,2,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+24,Hooded Merganser,2,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+25,Red-breasted Merganser,100,Owl Canyon - ONLY (waterbirds from this site OK),US-CA,10 Feb 2020,L598128,S64326154
+26,Ruddy Duck,95,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+27,Plain Chachalaca,4,Resaca de la Palma SP WBC (Brownsville) (LTC 048),US-TX,31 Jan 2020,L129065,S63990001
+28,California Quail,12,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+29,Wild Turkey,8,Resaca de la Palma SP WBC (Brownsville) (LTC 048),US-TX,31 Jan 2020,L129065,S63990001
+30,Least Grebe,3,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+31,Pied-billed Grebe,7,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+32,Horned Grebe,16,Bodega Bay--Tides Wharf area,US-CA,10 Feb 2020,L504795,S64323455
+33,Eared Grebe,1,Campbell Cove and Hole in the Head - ONLY,US-CA,10 Feb 2020,L596958,S64329190
+34,Western Grebe,1,Bodega Bay--Tides Wharf area,US-CA,10 Feb 2020,L504795,S64323455
+35,Clark's Grebe,3,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+36,Rock Pigeon,85,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+37,Eurasian Collared-Dove,7,Rockport Demo Bird Garden & Wetlands Pond (CTC 050),US-TX,25 Jan 2020,L453211,S63760008
+38,Inca Dove,2,Santa Ana NWR--Willow Lakes,US-TX,03 Feb 2020,L1322059,S64097684
+39,Common Ground Dove,1,Resaca de la Palma SP WBC (Brownsville) (LTC 048),US-TX,31 Jan 2020,L129065,S63990001
+40,White-tipped Dove,12,Laguna Atascosa NWR--HQ and Kiskadee Trail,US-TX,30 Jan 2020,L288849,S63954875
+41,White-winged Dove,2,"Park Road, Austwell, Texas, US (28.316, -96.795)",US-TX,24 Jan 2020,L10567097,S63747851
+42,Mourning Dove,9,Rockport Demo Bird Garden & Wetlands Pond (CTC 050),US-TX,25 Jan 2020,L453211,S63760008
+43,Greater Roadrunner,1,"22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.232, -97.348)",US-TX,30 Jan 2020,L10652784,S63954853
+44,Yellow-billed Cuckoo,1,Abita Creek Flatwoods Preserve,US-LA,22 Apr 2020,L884459,S67653975
+45,Common Pauraque,3,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+46,Chimney Swift,9,"72011 Holly Street, Abita Springs, Louisiana, US (30.479, -90.04)",US-LA,30 Mar 2020,L11065062,S66531862
+47,White-throated Swift,2,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+48,Ruby-throated Hummingbird,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,02 Feb 2020,L128890,S64059812
+49,Anna's Hummingbird,7,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+50,Allen's Hummingbird,1,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+51,Buff-bellied Hummingbird,1,Estero Llano Grande SP--Tropical Zone,US-TX,01 Feb 2020,L1148441,S64017157
+52,Clapper Rail,1,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+53,Sora,1,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+54,Common Gallinule,3,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+55,American Coot,1,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+56,Sandhill Crane,6,"293 Farm to Market 2040, Austwell, Texas, US (28.353, -96.807)",US-TX,24 Jan 2020,L10545535,S63727555
+57,Whooping Crane,2,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+58,Black-necked Stilt,13,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+59,American Avocet,20,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+60,Black Oystercatcher,7,Bodega Head - offshore species and the bluff ONLY,US-CA,10 Feb 2020,L606176,S64330953
+61,Black-bellied Plover,6,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+62,Killdeer,1,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+63,Mountain Plover,12,"118 East Davilla Street, Granger, Texas, US (30.718, -97.442)",US-TX,23 Feb 2020,L10838374,S64918919
+64,Long-billed Curlew,3,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+65,Marbled Godwit,3,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+66,Ruddy Turnstone,15,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+67,Black Turnstone,3,Bodega Head - offshore species and the bluff ONLY,US-CA,10 Feb 2020,L606176,S64330953
+68,Surfbird,4,Bodega Head - offshore species and the bluff ONLY,US-CA,10 Feb 2020,L606176,S64330953
+69,Stilt Sandpiper,3,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+70,Sanderling,1,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+71,Least Sandpiper,1,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+72,Western Sandpiper,4,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+73,Wilson's Snipe,1,Santa Ana NWR--Observation Tower,US-TX,03 Feb 2020,L1154119,S64101232
+74,Spotted Sandpiper,1,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+75,Solitary Sandpiper,1,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+76,Greater Yellowlegs,4,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+77,Willet,1,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+78,Lesser Yellowlegs,2,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+79,Pigeon Guillemot,1,Point Defiance waterfront walk,US-WA,17 Feb 2020,L2121620,S64873526
+80,Laughing Gull,400,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+81,Mew Gull,13,Bodega Bay--Gaffney Pt. - includes Marine Lab and residence entrances,US-CA,10 Feb 2020,L1764188,S64330603
+82,Ring-billed Gull,8,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+83,Western Gull,80,Bodega Bay--Diekman's Store area,US-CA,10 Feb 2020,L744554,S64325259
+84,California Gull,3,Bodega Bay--Gaffney Pt. - includes Marine Lab and residence entrances,US-CA,10 Feb 2020,L1764188,S64330603
+85,Herring Gull,2,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+86,Glaucous-winged Gull,1,Point Defiance waterfront walk,US-WA,17 Feb 2020,L2121620,S64873526
+87,Gull-billed Tern,5,"41590 Lake Side Drive, Los Fresnos, Texas, US (26.234, -97.351)",US-TX,30 Jan 2020,L10652767,S63954761
+88,Caspian Tern,2,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+89,Forster's Tern,2,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+90,Royal Tern,2,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+91,Black Skimmer,300,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+92,Red-throated Loon,2,Bodega Bay--Tides Wharf area,US-CA,10 Feb 2020,L504795,S64323455
+93,Common Loon,2,Bodega Bay--Tides Wharf area,US-CA,10 Feb 2020,L504795,S64323455
+94,Anhinga,1,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+95,Brandt's Cormorant,2,Bodega Head - offshore species and the bluff ONLY,US-CA,10 Feb 2020,L606176,S64330953
+96,Pelagic Cormorant,20,Bodega Head - offshore species and the bluff ONLY,US-CA,10 Feb 2020,L606176,S64330953
+97,Neotropic Cormorant,4,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+98,Double-crested Cormorant,1,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+99,American White Pelican,26,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+100,Brown Pelican,2,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+101,Great Blue Heron,2,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+102,Great Egret,1,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+103,Snowy Egret,2,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+104,Little Blue Heron,3,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+105,Tricolored Heron,1,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+106,Reddish Egret,1,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+107,Green Heron,1,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+108,Black-crowned Night-Heron,1,Aransas NWR--Jones Lake (Calhoun Co.),US-TX,24 Jan 2020,L1021359,S63747727
+109,Yellow-crowned Night-Heron,6,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+110,White Ibis,12,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+111,White-faced Ibis,30,Santa Ana NWR--Observation Tower,US-TX,03 Feb 2020,L1154119,S64101232
+112,Roseate Spoonbill,1,"Unnamed Road, Austwell, Texas, US (28.297, -96.808)",US-TX,24 Jan 2020,L10567083,S63747749
+113,Black Vulture,8,"293 Farm to Market 2040, Austwell, Texas, US (28.353, -96.807)",US-TX,24 Jan 2020,L10545535,S63727555
+114,Turkey Vulture,14,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+115,Osprey,1,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+116,White-tailed Kite,1,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+117,Swallow-tailed Kite,4,Big Branch Marsh NWR--Boy Scout Rd.,US-LA,21 Mar 2020,L799384,S67542787
+118,Mississippi Kite,1,"500 Girod Street, Mandeville, Louisiana, US (30.358, -90.065)",US-LA,27 Apr 2020,L11280099,S68069120
+119,Northern Harrier,1,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+120,Sharp-shinned Hawk,1,Granger Lake--Willis Creek Park,US-TX,23 Feb 2020,L1176337,S66531868
+121,Cooper's Hawk,1,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+122,Bald Eagle,1,Point Defiance waterfront walk,US-WA,17 Feb 2020,L2121620,S64873526
+123,Common Black Hawk,1,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+124,Harris's Hawk,2,Laguna Atascosa NWR--Buena Vista Blvd. (within refuge),US-TX,30 Jan 2020,L723082,S63954899
+125,White-tailed Hawk,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,02 Feb 2020,L128890,S64059812
+126,Gray Hawk,1,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,02 Feb 2020,L128890,S64059812
+127,Red-shouldered Hawk,1,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+128,Red-tailed Hawk,1,Laguna Atascosa NWR--Buena Vista Blvd. (within refuge),US-TX,30 Jan 2020,L723082,S63954899
+129,Eastern Screech-Owl,1,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+130,Great Horned Owl,1,Newell Open Space,US-CA,08 Feb 2020,L2963042,S64246465
+131,Burrowing Owl,2,"County Road 352, Granger, Texas, US (30.756, -97.382)",US-TX,23 Feb 2020,L10838793,S64921306
+132,Barred Owl,2,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64885162
+133,Ringed Kingfisher,1,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+134,Belted Kingfisher,1,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+135,Green Kingfisher,2,Edinburg Scenic Wetlands WBC (LTC 061),US-TX,04 Feb 2020,L249889,S64121589
+136,Yellow-bellied Sapsucker,1,Resaca de la Palma SP WBC (Brownsville) (LTC 048),US-TX,31 Jan 2020,L129065,S63990001
+137,Red-headed Woodpecker,1,"Par Road 5a 72, Vidalia, Louisiana, US (31.583, -91.602)",US-LA,15 Mar 2020,L10969427,S65840734
+138,Acorn Woodpecker,12,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+139,Golden-fronted Woodpecker,1,Laguna Atascosa NWR--Buena Vista Blvd. (within refuge),US-TX,30 Jan 2020,L723082,S63954899
+140,Red-bellied Woodpecker,1,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64885162
+141,Downy Woodpecker,1,Newell Open Space,US-CA,08 Feb 2020,L2963042,S64246465
+142,Nuttall's Woodpecker,5,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+143,Ladder-backed Woodpecker,2,"22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.232, -97.348)",US-TX,30 Jan 2020,L10652784,S63954853
+144,Red-cockaded Woodpecker,2,Big Branch Marsh NWR--Boy Scout Rd.,US-LA,21 Mar 2020,L799384,S66048488
+145,Hairy Woodpecker,3,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+146,Pileated Woodpecker,1,Westwood Hills Park,US-CA,07 Feb 2020,L3056282,S64206187
+147,Northern Flicker,1,Lake Livingston SP,US-TX,20 Jan 2020,L457594,S63591104
+148,Crested Caracara,2,"293 Farm to Market 2040, Austwell, Texas, US (28.353, -96.807)",US-TX,24 Jan 2020,L10545535,S63727555
+149,American Kestrel,1,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+150,Peregrine Falcon,1,Anzalduas Park (LTC 068),US-TX,03 Feb 2020,L246727,S64090223
+151,Eastern Wood-Pewee,2,Abita Creek Flatwoods Preserve,US-LA,22 Apr 2020,L884459,S67653975
+152,Black Phoebe,1,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+153,Eastern Phoebe,2,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+154,Say's Phoebe,2,Newell Open Space,US-CA,08 Feb 2020,L2963042,S64246465
+155,Vermilion Flycatcher,1,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+156,Dusky-capped Flycatcher,1,Resaca de la Palma SP WBC (Brownsville) (LTC 048),US-TX,31 Jan 2020,L129065,S63990001
+157,Great Crested Flycatcher,2,Abita Springs--Abita Trace,US-LA,01 Apr 2020,L685494,S66531859
+158,Great Kiskadee,1,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+159,Tropical Kingbird,1,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+160,Couch's Kingbird,1,Aransas NWR--Heron Flats Trail (Aransas Co.),US-TX,24 Jan 2020,L1415138,S63747763
+161,Eastern Kingbird,1,Abita Creek Flatwoods Preserve,US-LA,22 Apr 2020,L884459,S67653975
+162,Scissor-tailed Flycatcher,4,"Park Road, Austwell, Texas, US (28.316, -96.795)",US-TX,24 Jan 2020,L10567097,S63747851
+163,White-eyed Vireo,1,"22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.232, -97.348)",US-TX,30 Jan 2020,L10652784,S63954853
+164,Hutton's Vireo,14,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+165,Yellow-throated Vireo,2,Abita Springs--Abita Trace,US-LA,20 Apr 2020,L685494,S67554478
+166,Blue-headed Vireo,2,Resaca de la Palma SP WBC (Brownsville) (LTC 048),US-TX,31 Jan 2020,L129065,S63990001
+167,Red-eyed Vireo,1,Abita Creek Flatwoods Preserve,US-LA,22 Apr 2020,L884459,S67653975
+168,Loggerhead Shrike,3,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+169,Green Jay,11,Laguna Atascosa NWR--HQ and Kiskadee Trail,US-TX,30 Jan 2020,L288849,S63954875
+170,Steller's Jay,12,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+171,Blue Jay,2,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64873546
+172,California Scrub-Jay,3,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+173,American Crow,2,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+174,Fish Crow,1,"5696 Louisiana 6 Business, Natchitoches, Louisiana, US (31.754, -93.108)",US-LA,08 Mar 2020,L10925401,S65581040
+175,Common Raven,2,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+176,Carolina Chickadee,3,Lake Livingston SP,US-TX,20 Jan 2020,L457594,S63591104
+177,Black-capped Chickadee,2,Dash Point SP (King Co.),US-WA,17 Feb 2020,L1002782,S64678540
+178,Chestnut-backed Chickadee,1,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+179,Oak Titmouse,18,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+180,Tufted Titmouse,1,Lake Livingston SP,US-TX,20 Jan 2020,L457594,S63591104
+181,Black-crested Titmouse,2,"22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.232, -97.348)",US-TX,30 Jan 2020,L10652784,S63954853
+182,Verdin,2,Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069),US-TX,02 Feb 2020,L128890,S64059812
+183,Horned Lark,6,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+184,Purple Martin,9,"805 Washington Street, Natchitoches, Louisiana, US (31.764, -93.086)",US-LA,08 Mar 2020,L11206680,S67543040
+185,Tree Swallow,6,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+186,Bushtit,15,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+187,Wrentit,2,Trancas Crossing Park,US-CA,07 Feb 2020,L1288778,S64208071
+188,Ruby-crowned Kinglet,1,Lake Livingston SP,US-TX,20 Jan 2020,L457594,S63591104
+189,Red-breasted Nuthatch,2,Bodega Bay--Diekman's Store area,US-CA,10 Feb 2020,L744554,S64325259
+190,White-breasted Nuthatch,5,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+191,Pygmy Nuthatch,2,"(38.5672,-122.4207)",US-CA,11 Feb 2020,L6027498,S64885554
+192,Brown-headed Nuthatch,2,Big Branch Marsh NWR--Boy Scout Rd.,US-LA,21 Mar 2020,L799384,S66048488
+193,Brown Creeper,1,Westwood Hills Park,US-CA,07 Feb 2020,L3056282,S64206187
+194,Blue-gray Gnatcatcher,3,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+195,House Wren,1,Aransas NWR--Big Tree Trail,US-TX,24 Jan 2020,L2338913,S63747864
+196,Pacific Wren,1,Owl Canyon - ONLY (waterbirds from this site OK),US-CA,10 Feb 2020,L598128,S64326154
+197,Marsh Wren,14,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+198,Carolina Wren,1,Lake Livingston SP,US-TX,20 Jan 2020,L457594,S63591104
+199,Bewick's Wren,1,"22688 Buena Vista Boulevard, Los Fresnos, Texas, US (26.232, -97.348)",US-TX,30 Jan 2020,L10652784,S63954853
+200,European Starling,100,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+201,Gray Catbird,3,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+202,Curve-billed Thrasher,2,Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026),US-TX,01 Feb 2020,L273764,S64001060
+203,Brown Thrasher,1,"71558 Saint James Street, Abita Springs, Louisiana, US (30.474, -90.032)",US-LA,27 Apr 2020,L11280079,S68069148
+204,Long-billed Thrasher,1,Laguna Atascosa NWR--HQ and Kiskadee Trail,US-TX,30 Jan 2020,L288849,S63954875
+205,Northern Mockingbird,1,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+206,Eastern Bluebird,2,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64873546
+207,Western Bluebird,6,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+208,Varied Thrush,1,"(38.5605,-122.4143)",US-CA,11 Feb 2020,L6821178,S64885915
+209,Hermit Thrush,1,Lake Livingston SP,US-TX,20 Jan 2020,L457594,S63591104
+210,Wood Thrush,1,"72011 Holly Street, Abita Springs, Louisiana, US (30.479, -90.04)",US-LA,30 Mar 2020,L11065062,S66531862
+211,Clay-colored Thrush,1,Edinburg Scenic Wetlands WBC (LTC 061),US-TX,04 Feb 2020,L249889,S64121589
+212,American Robin,6,Westwood Hills Park,US-CA,07 Feb 2020,L3056282,S64206187
+213,Cedar Waxwing,2,"38.5639x-122.4107 - Jan 30, 2017, 9:51 AM",US-CA,11 Feb 2020,L5423430,S64885687
+214,House Sparrow,8,Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026),US-TX,01 Feb 2020,L273764,S64001060
+215,American Pipit,4,Newell Open Space,US-CA,08 Feb 2020,L2963042,S64246465
+216,Sprague's Pipit,1,Anzalduas Park (LTC 068),US-TX,03 Feb 2020,L246727,S64090223
+217,House Finch,7,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+218,Pine Siskin,1,Trancas Crossing Park,US-CA,07 Feb 2020,L1288778,S64208071
+219,Lesser Goldfinch,6,Edinburg Scenic Wetlands WBC (LTC 061),US-TX,04 Feb 2020,L249889,S64121589
+220,Olive Sparrow,4,Laguna Atascosa NWR--HQ and Kiskadee Trail,US-TX,30 Jan 2020,L288849,S63954875
+221,Chipping Sparrow,6,Granger Lake--Comanche Bluff Trail,US-TX,23 Feb 2020,L1655895,S64918911
+222,Fox Sparrow,1,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+223,Dark-eyed Junco,32,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+224,White-crowned Sparrow,2,Westwood Hills Park,US-CA,07 Feb 2020,L3056282,S64206187
+225,Golden-crowned Sparrow,2,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+226,Harris's Sparrow,6,Granger Lake--Comanche Bluff Trail,US-TX,23 Feb 2020,L1655895,S64918911
+227,White-throated Sparrow,1,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64885162
+228,Vesper Sparrow,15,"41128 General Brant Road, Los Fresnos, Texas, US (26.192, -97.362)",US-TX,30 Jan 2020,L10652766,S63954752
+229,Savannah Sparrow,1,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+230,Song Sparrow,2,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+231,Lincoln's Sparrow,1,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+232,California Towhee,4,Westwood Hills Park,US-CA,07 Feb 2020,L3056282,S64206187
+233,Spotted Towhee,4,Skyline Wilderness Park,US-CA,06 Feb 2020,L631746,S64211239
+234,Eastern Towhee,1,Big Branch Marsh NWR--Boy Scout Rd.,US-LA,21 Mar 2020,L799384,S67542787
+235,Western Meadowlark,80,Newell Open Space,US-CA,08 Feb 2020,L2963042,S64246465
+236,Eastern Meadowlark,12,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64873546
+237,Altamira Oriole,1,Laguna Atascosa NWR--HQ and Kiskadee Trail,US-TX,30 Jan 2020,L288849,S63954875
+238,Red-winged Blackbird,100,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+239,Brown-headed Cowbird,1,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64873546
+240,Brewer's Blackbird,20,American Canyon Wetlands,US-CA,08 Feb 2020,L650670,S64256906
+241,Common Grackle,1,Webberville Park (Big)(HOTE 035),US-TX,22 Feb 2020,L1119372,S64873546
+242,Great-tailed Grackle,12,Rockport Beach Park,US-TX,25 Jan 2020,L338888,S63766209
+243,Prothonotary Warbler,3,Abita Creek Flatwoods Preserve,US-LA,22 Apr 2020,L884459,S67653975
+244,Orange-crowned Warbler,1,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+245,Nashville Warbler,1,Estero Llano Grande SP WBC (LTC 054),US-TX,01 Feb 2020,L259855,S64013058
+246,Common Yellowthroat,1,"Univ. of Texas, RGV (Brownsville)--Resaca Habitat",US-TX,31 Jan 2020,L278450,S63990217
+247,Hooded Warbler,1,Abita Springs--Abita Trace,US-LA,02 Apr 2020,L685494,S66552887
+248,Northern Parula,2,"64 Natchez Trace Parkway, Natchez, Mississippi, US (31.615, -91.257)",US-MS,15 Mar 2020,L11206657,S67542810
+249,Pine Warbler,2,Lake Livingston SP,US-TX,20 Jan 2020,L457594,S63591104
+250,Yellow-rumped Warbler,2,Aransas NWR--Wildlife Tower (Calhoun Co.),US-TX,24 Jan 2020,L1021344,S63747877
+251,Yellow-throated Warbler,1,Port Hudson SHS,US-LA,18 Mar 2020,L727361,S65944730
+252,Townsend's Warbler,1,Bodega Bay--Diekman's Store area,US-CA,10 Feb 2020,L744554,S64325259
+253,Wilson's Warbler,1,South Padre Is.--WBC/Conv. Center/Laguna Madre Trail (LTC 035),US-TX,29 Jan 2020,L283726,S63954736
+254,Summer Tanager,1,Estero Llano Grande SP--Tropical Zone,US-TX,01 Feb 2020,L1148441,S64017157
+255,Scarlet Tanager,1,Northlake Nature Center,US-LA,30 Apr 2020,L727350,S68136979
+256,Northern Cardinal,4,Rockport Demo Bird Garden & Wetlands Pond (CTC 050),US-TX,25 Jan 2020,L453211,S63760008
+257,Rose-breasted Grosbeak,1,Northlake Nature Center,US-LA,30 Apr 2020,L727350,S68136979
+258,Indigo Bunting,1,Hugh Ramsey Park (Harlingen Arroyo Colorado) WBC (LTC 026),US-TX,01 Feb 2020,L273764,S64001060
