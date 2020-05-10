@@ -212,9 +212,21 @@ def getPlacesDict(needs:dict, lat:float, lng:float, daysback:int, distKM:int) ->
 def getPlaceResults(place:str, placedata:dict, regiondata:dict, state:str) -> str:
     result = ""
     result += place + "\n"
+    
+    birdpriority = {}
+    for s in init.birdstatus:
+        birdpriority[s] = []
 
     for b in placedata["seen"]:
-        result += "\t{} ({})\n".format(b,regiondata[state][b])
+        if len(birdpriority[regiondata[state][b]]) > 0:
+            birdpriority[regiondata[state][b]].append(b)
+        else:
+            birdpriority[regiondata[state][b]] = [b]
+    
+    
+    for p in birdpriority:
+        for b in birdpriority[p]:
+            result += "\t{} ({})\n".format(b,p)
     
     result += "\n\n"
 
@@ -274,7 +286,7 @@ def printResults(todomsg:str, placesdict:dict, showprivate:bool, regiondata:dict
                     i += 1
                 if i > 0: #strip off the last |
                     species = species[0 : len(species) - 3]
-                f.write("{} ({}), {}, {}, {}\n", format(p, i, placesdict[p]["lat"], placesdict[p]["lng"], species))
+                f.write("{} ({}), {}, {}, {}\n".format(p, i, placesdict[p]["lat"], placesdict[p]["lng"], species))
         f.close()
         print("Successfully saved Google Map file.")
     except:

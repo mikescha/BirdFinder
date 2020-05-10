@@ -4,71 +4,88 @@ I am looking 7 days back, within 25km of GPS coordinates 30.47, -90.03.
 
 Public places you can go
 ------------------------
-Abita Creek Flatwoods Preserve
-	Northern Bobwhite (Rare)
-	Barred Owl (Unusual)
+Fontainebleau SP
+	Laughing Gull (Common)
+	Loggerhead Shrike (Common)
+	Royal Tern (Unusual)
+	Common Gallinule (Unusual)
+	Boat-tailed Grackle (Unusual)
+	Northern Rough-winged Swallow (Seasonal)
+	Bronzed Cowbird (Seasonal)
+	American Redstart (Seasonal)
+	Barn Swallow (Seasonal)
+	Bald Eagle (Seasonal)
+	Magnolia Warbler (Rare)
+
+
+Guste Island Road (Port Louis)
+	Snowy Egret (Common)
+	Common Gallinule (Unusual)
+	Forster's Tern (Unusual)
 	Brown-headed Cowbird (Unusual)
-	Blue Grosbeak (Seasonal)
-	Black Vulture (Common)
-	Orchard Oriole (Seasonal)
+	Northern Rough-winged Swallow (Seasonal)
+	Indigo Bunting (Seasonal)
 	Yellow-breasted Chat (Seasonal)
+	Green Heron (Seasonal)
+	Barn Swallow (Seasonal)
+	Painted Bunting (Seasonal)
+	Orchard Oriole (Seasonal)
 
 
 Big Branch NWR--Lake Rd.
-	Blue-winged Teal (Unusual)
-	Sora (Seasonal)
-	Black-necked Stilt (Unusual)
-	Boat-tailed Grackle (Unusual)
-	Forster's Tern (Unusual)
-	King Rail (Local)
 	Laughing Gull (Common)
-	Bronzed Cowbird (Seasonal)
-	Clapper Rail (Seasonal)
+	Snowy Egret (Common)
+	Loggerhead Shrike (Common)
+	White-winged Dove (Unusual)
 	Common Gallinule (Unusual)
-	Northern Rough-winged Swallow (Seasonal)
-	Great Horned Owl (Seasonal)
+	Forster's Tern (Unusual)
 	Tricolored Heron (Unusual)
 	Royal Tern (Unusual)
-	Bald Eagle (Seasonal)
-	White-winged Dove (Unusual)
+	Boat-tailed Grackle (Unusual)
 	Cattle Egret (Unusual)
-	Snowy Egret (Common)
 	Eurasian Collared-Dove (Unusual)
-	Purple Gallinule (Seasonal)
+	Blue-winged Teal (Unusual)
+	Black-necked Stilt (Unusual)
 	Brown-headed Cowbird (Unusual)
 	Least Bittern (Seasonal)
+	Clapper Rail (Seasonal)
+	Sora (Seasonal)
+	Bald Eagle (Seasonal)
+	Bronzed Cowbird (Seasonal)
 	Barn Swallow (Seasonal)
+	Purple Gallinule (Seasonal)
+	Northern Rough-winged Swallow (Seasonal)
 	Orchard Oriole (Seasonal)
-	Loggerhead Shrike (Common)
+	Great Horned Owl (Seasonal)
+	King Rail (Local)
 
 
 Big Branch Marsh NWR--Boy Scout Rd.
 	Snowy Egret (Common)
-	Brown-headed Cowbird (Unusual)
 	Laughing Gull (Common)
+	Common Gallinule (Unusual)
+	Brown-headed Cowbird (Unusual)
+	Boat-tailed Grackle (Unusual)
 	Blue Grosbeak (Seasonal)
 	Acadian Flycatcher (Seasonal)
-	Northern Waterthrush (Rare)
 	Barn Swallow (Seasonal)
-	Common Gallinule (Unusual)
-	Boat-tailed Grackle (Unusual)
 	Great Horned Owl (Seasonal)
 
 
-Fontainebleau SP
-	Magnolia Warbler (Rare)
-	Bronzed Cowbird (Seasonal)
-	Barn Swallow (Seasonal)
-	Common Gallinule (Unusual)
-	Boat-tailed Grackle (Unusual)
-	Loggerhead Shrike (Common)
-	American Redstart (Seasonal)
-
-
 Mandeville Lakefront
-	Laughing Gull (Common)
-	Royal Tern (Unusual)
-	Brown Pelican (Unusual)
 	Loggerhead Shrike (Common)
+	Laughing Gull (Common)
+	Brown Pelican (Unusual)
+	Royal Tern (Unusual)
+
+
+Abita Creek Flatwoods Preserve
+	Black Vulture (Common)
+	Brown-headed Cowbird (Unusual)
+	Barred Owl (Unusual)
+	Blue Grosbeak (Seasonal)
+	Yellow-breasted Chat (Seasonal)
+	Orchard Oriole (Seasonal)
+	Northern Bobwhite (Rare)
 
 
