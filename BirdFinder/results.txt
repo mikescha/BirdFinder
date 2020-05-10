@@ -4,88 +4,88 @@ I am looking 7 days back, within 25km of GPS coordinates 30.47, -90.03.
 
 Public places you can go
 ------------------------
-Fontainebleau SP
-	Laughing Gull (Common)
+Big Branch NWR--Lake Rd.
+	Snowy Egret (Common)
 	Loggerhead Shrike (Common)
+	Laughing Gull (Common)
+	Brown-headed Cowbird (Unusual)
+	Royal Tern (Unusual)
+	Black-necked Stilt (Unusual)
+	Tricolored Heron (Unusual)
+	Eurasian Collared-Dove (Unusual)
+	Cattle Egret (Unusual)
+	Forster's Tern (Unusual)
+	White-winged Dove (Unusual)
+	Boat-tailed Grackle (Unusual)
+	Common Gallinule (Unusual)
+	Blue-winged Teal (Unusual)
+	Sora (Seasonal)
+	Clapper Rail (Seasonal)
+	Bald Eagle (Seasonal)
+	Bronzed Cowbird (Seasonal)
+	Barn Swallow (Seasonal)
+	Northern Rough-winged Swallow (Seasonal)
+	Orchard Oriole (Seasonal)
+	Great Horned Owl (Seasonal)
+	Least Bittern (Seasonal)
+	Purple Gallinule (Seasonal)
+	King Rail (Local)
+
+
+Fontainebleau SP
+	Loggerhead Shrike (Common)
+	Laughing Gull (Common)
 	Royal Tern (Unusual)
 	Common Gallinule (Unusual)
 	Boat-tailed Grackle (Unusual)
 	Northern Rough-winged Swallow (Seasonal)
-	Bronzed Cowbird (Seasonal)
 	American Redstart (Seasonal)
-	Barn Swallow (Seasonal)
 	Bald Eagle (Seasonal)
+	Bronzed Cowbird (Seasonal)
+	Barn Swallow (Seasonal)
 	Magnolia Warbler (Rare)
 
 
 Guste Island Road (Port Louis)
 	Snowy Egret (Common)
-	Common Gallinule (Unusual)
 	Forster's Tern (Unusual)
 	Brown-headed Cowbird (Unusual)
-	Northern Rough-winged Swallow (Seasonal)
-	Indigo Bunting (Seasonal)
+	Common Gallinule (Unusual)
 	Yellow-breasted Chat (Seasonal)
-	Green Heron (Seasonal)
-	Barn Swallow (Seasonal)
-	Painted Bunting (Seasonal)
-	Orchard Oriole (Seasonal)
-
-
-Big Branch NWR--Lake Rd.
-	Laughing Gull (Common)
-	Snowy Egret (Common)
-	Loggerhead Shrike (Common)
-	White-winged Dove (Unusual)
-	Common Gallinule (Unusual)
-	Forster's Tern (Unusual)
-	Tricolored Heron (Unusual)
-	Royal Tern (Unusual)
-	Boat-tailed Grackle (Unusual)
-	Cattle Egret (Unusual)
-	Eurasian Collared-Dove (Unusual)
-	Blue-winged Teal (Unusual)
-	Black-necked Stilt (Unusual)
-	Brown-headed Cowbird (Unusual)
-	Least Bittern (Seasonal)
-	Clapper Rail (Seasonal)
-	Sora (Seasonal)
-	Bald Eagle (Seasonal)
-	Bronzed Cowbird (Seasonal)
-	Barn Swallow (Seasonal)
-	Purple Gallinule (Seasonal)
 	Northern Rough-winged Swallow (Seasonal)
 	Orchard Oriole (Seasonal)
-	Great Horned Owl (Seasonal)
-	King Rail (Local)
+	Painted Bunting (Seasonal)
+	Green Heron (Seasonal)
+	Indigo Bunting (Seasonal)
+	Barn Swallow (Seasonal)
 
 
 Big Branch Marsh NWR--Boy Scout Rd.
 	Snowy Egret (Common)
 	Laughing Gull (Common)
-	Common Gallinule (Unusual)
 	Brown-headed Cowbird (Unusual)
+	Common Gallinule (Unusual)
 	Boat-tailed Grackle (Unusual)
+	Great Horned Owl (Seasonal)
 	Blue Grosbeak (Seasonal)
 	Acadian Flycatcher (Seasonal)
 	Barn Swallow (Seasonal)
-	Great Horned Owl (Seasonal)
-
-
-Mandeville Lakefront
-	Loggerhead Shrike (Common)
-	Laughing Gull (Common)
-	Brown Pelican (Unusual)
-	Royal Tern (Unusual)
 
 
 Abita Creek Flatwoods Preserve
 	Black Vulture (Common)
 	Brown-headed Cowbird (Unusual)
 	Barred Owl (Unusual)
-	Blue Grosbeak (Seasonal)
 	Yellow-breasted Chat (Seasonal)
 	Orchard Oriole (Seasonal)
+	Blue Grosbeak (Seasonal)
 	Northern Bobwhite (Rare)
+
+
+Mandeville Lakefront
+	Loggerhead Shrike (Common)
+	Laughing Gull (Common)
+	Royal Tern (Unusual)
+	Brown Pelican (Unusual)
 
 

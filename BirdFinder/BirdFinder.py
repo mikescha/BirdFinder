@@ -3,6 +3,7 @@ import csv
 import sys
 import logging
 from enum import Enum
+from operator import itemgetter
 
 import ebird
 import init
@@ -232,17 +233,36 @@ def getPlaceResults(place:str, placedata:dict, regiondata:dict, state:str) -> st
 
     return result
 
+#make a list of all the keys, sorted in priority order
+#v1 = sort by count of birds
+def prioritizePlaces(placesdict:dict, regiondata:dict, state:str) -> list:
+    
+    #make a list of tuples, where first item is the key and the second is the count of birds for that key
+    result = []
+    for p in placesdict:
+        result.append( (p, len(placesdict[p]["seen"])))
+
+    list.sort(result, key=itemgetter(1), reverse=True)
+
+    #strip off the prioritization criteria
+    cleanresult = []
+    for p in result:
+        cleanresult.append(p[0])
+
+    return cleanresult
 
 #Print out all results
 def printResults(todomsg:str, placesdict:dict, showprivate:bool, regiondata:dict, state:str) -> bool:
     log.info("Get list of all places where birds we need have been seen")
 
     print("Saving results to file...")
-    
+        
     privateplaceresults = ""
     publicplaceresults = ""
 
-    for p in placesdict:
+    #The function returns a list of places in priority order. We'll use this as the key for 
+    #processing the places dictionary, so that we get the order correct in the output file
+    for p in prioritizePlaces(placesdict, regiondata, state):
         if placesdict[p]["private"] == True:
             privateplaceresults += getPlaceResults(p, placesdict[p], regiondata, state)
         else:
