@@ -140,7 +140,6 @@ def loadAllRegionData(ebirdtaxonomy : dict) -> dict:
         if checkRegionDataFileValid(datafile):
             with open(datafile, 'r') as openfile: 
                 data = json.load(openfile)
-                #TODO how to validate that the data file is properly structured?
                 if not(checkRegionDataFileContents(data, ebirdtaxonomy)):
                     raise
         else:

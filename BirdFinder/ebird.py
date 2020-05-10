@@ -25,8 +25,7 @@ def getEbirdTaxonomyDict(filename: str) -> dict:
 
     with open(filename, encoding='utf8') as csvfile:
         eBirdTaxonomyFileReader = csv.DictReader(csvfile)
-
-        #TODO Take off the first row so the headers don't get stuffed into the dictionary
+        
         for row in eBirdTaxonomyFileReader:
             #Pop the common name out of the list to use as the key
             key = row.pop("COMMON_NAME")

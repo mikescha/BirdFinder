@@ -88,6 +88,7 @@ def getNALifeDict(filename: str, ebirdtaxonomydict: dict) -> dict:
 
     return lifedict
 
+
 #Get list of birds we need to see
 def getNeedsList(finding: ListType, state: str, sightings: list, lifedict: dict) -> list:
     log.info("Get list of birds we need")
@@ -130,6 +131,8 @@ def getNeedsList(finding: ListType, state: str, sightings: list, lifedict: dict)
         
     return needs
 
+
+#Ask user which type of list they want to build
 def askUserForListType() -> ListType:
     print("What type of list are you building?")
     print("  1) State year list")
@@ -158,21 +161,144 @@ def askUserForListType() -> ListType:
     return result
 
 
+#Generate the message that summarizes what we're doing
+def getToDoMsg(findType:ListType, state:str, lat:float, lng:float, daysback:int, distKM:int) -> str:
+    result = ""
+    if findType == ListType.LIFE:
+        findstr = "life list"
+    elif findType == ListType.STATELIFE:
+        findstr = "state life list for the state {}".format(state)
+    elif findType == ListType.STATEYEAR:
+        findstr = "state year list for the state {}".format(state)
+    else:
+        findstr = "year list"
+
+    result = "You asked for birds needed for your {}\n".format(findstr)
+    result += "I am looking {} days back, within {}km of GPS coordinates {}, {}. \n".format(daysback, distKM, lat, lng)
+
+    return result
+
+
+#Generate the list of places we should go, along with the list of birds seen at each
+#places is a dict of { "locID" : (birds)}
+def getPlacesDict(needs:dict, lat:float, lng:float, daysback:int, distKM:int) -> dict:
+
+    log.info("Get list of all places where birds we need have been seen")
+    placesdict = {}
+    for b in needs:
+        #For each bird we need to see, get list of recent sightings for it.
+        locationlist = ebird.getLocationsForBird(lat, lng, daysback, distKM, b["speciesCode"])
+
+        if len(locationlist) > 0:
+            for p in locationlist:
+                #p is a place with a locID. if the place is in our dict then add the bird name. 
+                #If the place is NOT in our dict then add the place and the bird name
+            
+                if p["locName"] in placesdict:
+                    log.debug("Adding {} to public place {}".format(b["comName"], p["locName"]))
+                    placesdict[p["locName"]]["seen"].add(b["comName"])
+
+                else:
+                    #place is not in our list, 
+                    log.debug("Adding a new place {} for bird {}".format(p["locName"], b["comName"]))
+                    placesdict[p["locName"]] = {"lat" : p["lat"], "lng" : p["lng"], "private" : p["locationPrivate"], "seen" :{b["comName"]} }
+        else:
+            log.critical("Ebird says you need {} but then failed to return any locations".format(b["comName"]))
+    
+    return placesdict
+
+
+#Generate a string that contains all the birds seen for a particular place
+def getPlaceResults(place:str, placedata:dict, regiondata:dict, state:str) -> str:
+    result = ""
+    result += place + "\n"
+
+    for b in placedata["seen"]:
+        result += "\t{} ({})\n".format(b,regiondata[state][b])
+    
+    result += "\n\n"
+
+    return result
+
+
+#Print out all results
+def printResults(todomsg:str, placesdict:dict, showprivate:bool, regiondata:dict, state:str) -> bool:
+    log.info("Get list of all places where birds we need have been seen")
+
+    print("Saving results to file...")
+    
+    privateplaceresults = ""
+    publicplaceresults = ""
+
+    for p in placesdict:
+        if placesdict[p]["private"] == True:
+            privateplaceresults += getPlaceResults(p, placesdict[p], regiondata, state)
+        else:
+            publicplaceresults += getPlaceResults(p, placesdict[p], regiondata, state)
+    
+    try:
+        f = open("results.txt", "w")
+        f.write(todomsg)
+
+        if len(publicplaceresults) > 0:
+            f.write("\n\nPublic places you can go\n")
+            f.write("------------------------\n")
+            f.write(publicplaceresults)
+        else:
+            f.write("\nSorry, no public places found")
+
+        if showprivate:
+            if len(privateplaceresults) > 0:
+                f.write("\n\nPrivate places of interest")
+                f.write("\n--------------------------")
+                f.write(privateplaceresults)
+            else:
+                f.write("\nSorry, no private places found")
+    
+        f.close()
+        print("Successfully saved results file.")
+
+    except:
+        print("Error saving results file")
+
+    #Write results to Google map format
+    try:
+        f = open("googlemap.csv", "w")
+        f.write("Place, Latitude, Longitude, Birds\n")
+        for p in placesdict:
+            if placesdict[p]["private"] == False or (placesdict[p]["private"] == True and showprivate == True):
+                species = ""
+                i = 0
+                for bird in placesdict[p]["seen"]:
+                    species += "{} | ".format(bird)
+                    i += 1
+                if i > 0: #strip off the last |
+                    species = species[0 : len(species) - 3]
+                f.write("{} ({}), {}, {}, {}\n", format(p, i, placesdict[p]["lat"], placesdict[p]["lng"], species))
+        f.close()
+        print("Successfully saved Google Map file.")
+    except:
+        print("Could not save Google Map file.")
+
+
+
+#
+#
+#  Main program starts here
+#
+#
+
 # turn on logging
-#from init import get_module_logger
 log = init.get_module_logger(__name__)
 
 #Load the ebird taxonomy
 ebirdtaxonomy = ebird.getEbirdTaxonomyDict(init.ebirdtaxonomyfilename)
 
-#Build the mapping of common name to code
-#birdcodes = ebird.getBirdName(ebirdtaxonomy)
-
 #Load life list
 lifedict = getNALifeDict(init.lifelistfilename, ebirdtaxonomy)
 if len(lifedict) == 0:
     log.critical("Major error happened getting life list")
-    sys.exit()
+    sys.exit(0)
 
 #Load and process region data to generate prioritization criteria
 regiondata = data.loadAllRegionData(ebirdtaxonomy)
@@ -186,25 +312,13 @@ distKM = 25
 showprivateplaces = False
 findType = askUserForListType()
 
-if findType == ListType.LIFE:
-    findstr = "life list"
-elif findType == ListType.STATELIFE:
-    findstr = "state life list for the state {}".format(state)
-elif findType == ListType.STATEYEAR:
-    findstr = "state year list for the state {}".format(state)
-else:
-    findstr = "year list"
-
-todomsg = "You asked for birds needed for your {}\n".format(findstr)
-todomsg += "I am looking {} days back, within {}km of GPS coordinates {}, {}. \n".format(daysback, distKM, lat, lng)
-
+todomsg = getToDoMsg(findType, state, lat, lng, daysback, distKM)
 print(todomsg)
 
 sightings = ebird.getSightingsForLocation(lat, lng, daysback, distKM)
 if len(sightings) == 0:
-    print(todomsg)
-    print("Unfortunately, no sightings were reported.")
-    sys.exit()
+    print("Unfortunately, no sightings were reported by eBird for your criteria.")
+    sys.exit(0)
 
 #remove anything that isn't a species from this list
 sightings = ebird.filterSpecies(sightings, ebirdtaxonomy)
@@ -212,86 +326,11 @@ sightings = ebird.filterSpecies(sightings, ebirdtaxonomy)
 #Get list of birds we need
 needs = getNeedsList(findType, state, sightings, lifedict)
 if len(needs) == 0:
-    print("You asked for {}, but you've seen it all! No birds needed in this area.".format(findstr))
-    sys.exit()
+    print("You've seen it all! No birds needed in this area that meet your criteria.")
+    sys.exit(0)
 
-#build a list of all the places where the birds we need have been seen. 
-#places is a dict of { "locID" : (birds)}
-log.info("Get list of all places where birds we need have been seen")
-placespublic = {}
-placesprivate = {}
-placesdb ={}
+#get all the places where the birds we need have been seen. 
+placesdict = getPlacesDict(needs, lat, lng, daysback, distKM)
 
-for b in needs:
-    #Get list of recent sightings for each bird.
-    #take this dictionary and merge it with places
-
-    locationlist = ebird.getLocationsForBird(lat, lng, daysback, distKM, b["speciesCode"])
-    if len(locationlist) == 0:
-        log.critical("Ebird says you need {} but then failed to return any locations".format(b["comName"]))
-    else:
-        for p in locationlist:
-            #p is a place with a locID. if the place is in our dict then add the bird name. 
-            #If the place is NOT in our dict then add the place and the bird name
-            if p["locationPrivate"] == False:
-                if p["locName"] in placespublic:
-                    log.debug("Adding {} to public place {}".format(b["comName"], p["locName"]))
-                    placespublic[p["locName"]].add(b["comName"])
-                else:
-                    #place is not in our list, 
-                    log.debug("Adding a new place {} for bird {}".format(p["locName"], b["comName"]))
-                    placespublic[p["locName"]] = {b["comName"]}
-                    placesdb[p["locName"]] = {"lat" : p["lat"], "lng" : p["lng"]}
-            #else location IS private
-            elif showprivateplaces == True:
-                if p["locName"] in placesprivate:
-                    log.debug("Adding {} to private place {}".format(b["comName"], p["locName"]))
-                    placesprivate[p["locName"]].add(b["comName"])
-                else:
-                    #place is not in our list, 
-                    log.debug("Adding a new private place {} for bird {}".format(p["locName"], b["comName"]))
-                    placesprivate[p["locName"]] = {b["comName"]}
-                    placesdb[p["locName"]] = {"lat" : p["lat"], "lng" : p["lng"]}
-#TODO make all the output into its own module
-#TODO probably want to make a giant string and then write the whole thing to the file, that
-#way if there is an error with the file, we can still print the results
-
-try:
-    f = open("results.txt", "w")
-    f.write(todomsg)
-    f.write("\n\nPlaces you should go\n")
-    f.write("-------------------\n")
-    for p in placespublic:
-        f.write("{}, {}, {}\n".format(p, placesdb[p]["lat"], placesdb[p]["lng"]))
-        for b in placespublic[p]:
-            f.write("\t{} ({})\n".format(b,regiondata[state][b]))
-    
-    if showprivateplaces:
-        f.write("\n\Private places we can't go")
-        f.write("\n-------------------")
-        for p in placesprivate:
-            f.write("\n{}".format(p))
-            for b in placesprivate[p]:
-                f.write("\t{}".format(b))
-        else:
-            print("None found")
-    
-    f.close()
-
-except:
-    print("TODO Fix the error handling")
-
-
-#Write results to Google map format
-#TODO make error handling match the above
-if len(placespublic) > 0:
-    f = open("googlemap.csv", "w")
-    f.write("Place, Latitude, Longitude, Birds\n")
-    for place in placespublic:
-        species =""
-        i = 0
-        for bird in placespublic[place]:
-            species += "{} | ".format(bird)
-            i += 1
-        f.write("{} ({}), {}, {}, {}\n".format(place, i, placesdb[place]["lat"], placesdb[place]["lng"], species))
-    f.close()
+#generate the files with the results in them
+printResults(todomsg, placesdict, showprivateplaces, regiondata, state)

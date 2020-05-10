@@ -2,86 +2,73 @@ You asked for birds needed for your state year list for the state US-LA
 I am looking 7 days back, within 25km of GPS coordinates 30.47, -90.03. 
 
 
-Places you should go
--------------------
-Big Branch NWR--Lake Rd., 30.2781896, -89.9543972
+Public places you can go
+------------------------
+Abita Creek Flatwoods Preserve
+	Northern Bobwhite (Rare)
+	Barred Owl (Unusual)
+	Brown-headed Cowbird (Unusual)
+	Blue Grosbeak (Seasonal)
+	Black Vulture (Common)
+	Orchard Oriole (Seasonal)
+	Yellow-breasted Chat (Seasonal)
+
+
+Big Branch NWR--Lake Rd.
+	Blue-winged Teal (Unusual)
+	Sora (Seasonal)
+	Black-necked Stilt (Unusual)
+	Boat-tailed Grackle (Unusual)
+	Forster's Tern (Unusual)
+	King Rail (Local)
+	Laughing Gull (Common)
+	Bronzed Cowbird (Seasonal)
+	Clapper Rail (Seasonal)
+	Common Gallinule (Unusual)
+	Northern Rough-winged Swallow (Seasonal)
+	Great Horned Owl (Seasonal)
+	Tricolored Heron (Unusual)
+	Royal Tern (Unusual)
+	Bald Eagle (Seasonal)
+	White-winged Dove (Unusual)
+	Cattle Egret (Unusual)
+	Snowy Egret (Common)
+	Eurasian Collared-Dove (Unusual)
+	Purple Gallinule (Seasonal)
+	Brown-headed Cowbird (Unusual)
+	Least Bittern (Seasonal)
+	Barn Swallow (Seasonal)
+	Orchard Oriole (Seasonal)
+	Loggerhead Shrike (Common)
+
+
+Big Branch Marsh NWR--Boy Scout Rd.
 	Snowy Egret (Common)
 	Brown-headed Cowbird (Unusual)
-	Common Gallinule (Unusual)
-	Sora (Seasonal)
-	Least Bittern (Seasonal)
-	Cattle Egret (Unusual)
 	Laughing Gull (Common)
-	Clapper Rail (Seasonal)
-	White-winged Dove (Unusual)
-	Bald Eagle (Seasonal)
-	Loggerhead Shrike (Common)
-	Brown Pelican (Unusual)
-	Royal Tern (Unusual)
-	Boat-tailed Grackle (Unusual)
-	Northern Rough-winged Swallow (Seasonal)
-	Bronzed Cowbird (Seasonal)
+	Blue Grosbeak (Seasonal)
+	Acadian Flycatcher (Seasonal)
+	Northern Waterthrush (Rare)
 	Barn Swallow (Seasonal)
-	Orchard Oriole (Seasonal)
-	Eurasian Collared-Dove (Unusual)
-	Tricolored Heron (Unusual)
-	Purple Gallinule (Seasonal)
-	Forster's Tern (Unusual)
-Fontainebleau SP, 30.3371423, -90.0427437
-	Cattle Egret (Unusual)
-	Laughing Gull (Common)
-	Boat-tailed Grackle (Unusual)
-	Yellow-breasted Chat (Seasonal)
-	Brown-headed Cowbird (Unusual)
-	Orchard Oriole (Seasonal)
-	Spotted Sandpiper (Unusual)
 	Common Gallinule (Unusual)
-	American Redstart (Seasonal)
-	Green Heron (Seasonal)
-	Sora (Seasonal)
-	Purple Gallinule (Seasonal)
-	White Ibis (Common)
+	Boat-tailed Grackle (Unusual)
+	Great Horned Owl (Seasonal)
+
+
+Fontainebleau SP
 	Magnolia Warbler (Rare)
-	Loggerhead Shrike (Common)
 	Bronzed Cowbird (Seasonal)
 	Barn Swallow (Seasonal)
-	Royal Tern (Unusual)
-Mandeville Lakefront, 30.34843, -90.06126
+	Common Gallinule (Unusual)
+	Boat-tailed Grackle (Unusual)
 	Loggerhead Shrike (Common)
+	American Redstart (Seasonal)
+
+
+Mandeville Lakefront
 	Laughing Gull (Common)
+	Royal Tern (Unusual)
 	Brown Pelican (Unusual)
-	Royal Tern (Unusual)
-Madisonville--Tchefuncte River Mouth and Environs, 30.3867047, -90.1581216
-	Laughing Gull (Common)
-	Royal Tern (Unusual)
-	Bald Eagle (Seasonal)
-Big Branch Marsh NWR--Boy Scout Rd., 30.2819728, -89.9234819
-	Tree Swallow (Unusual)
-	Barn Swallow (Seasonal)
-	Orchard Oriole (Seasonal)
-	Brown-headed Cowbird (Unusual)
-	Bay-breasted Warbler (Rare)
-	Sora (Seasonal)
-	Black Vulture (Common)
-	Clapper Rail (Seasonal)
-	King Rail (Local)
-	Marsh Wren (Seasonal)
-	Bald Eagle (Seasonal)
-	Mottled Duck (Unusual)
-	Bronzed Cowbird (Seasonal)
-	Blue Grosbeak (Seasonal)
-Abita Creek Flatwoods Preserve, 30.5067503, -89.9659547
-	Northern Bobwhite (Rare)
-	Common Nighthawk (Seasonal)
-	Yellow-breasted Chat (Seasonal)
-	Orchard Oriole (Seasonal)
-	Brown-headed Cowbird (Unusual)
-	Black Vulture (Common)
-	Eastern Screech-Owl (Seasonal)
-	Blue Grosbeak (Seasonal)
-Fairview-Riverside SP, 30.4091352, -90.1403922
-	House Finch (Common)
-	Black Vulture (Common)
-	Brown-headed Cowbird (Unusual)
-Northlake Nature Center, 30.35118, -90.03614
-	Veery (Vagrant)
+	Loggerhead Shrike (Common)
+
+
