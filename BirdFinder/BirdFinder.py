@@ -214,20 +214,23 @@ def getPlaceResults(place:str, placedata:dict, regiondata:dict, state:str) -> st
     result = ""
     result += place + "\n"
     
+    #initalize data. We are making a dictionary of sighting categories (e.g. common, uncommon), and to each sighting category
+    #we will add all a list of all the birds seen at this place of this type. 
     birdpriority = {}
     for s in init.birdstatus:
         birdpriority[s] = []
 
     for b in placedata["seen"]:
-        if len(birdpriority[regiondata[state][b]]) > 0:
-            birdpriority[regiondata[state][b]].append(b)
+        birdfrequency = init.birdstatus[regiondata[state][b][0]]
+        if len(birdpriority[birdfrequency]) > 0:
+            birdpriority[birdfrequency].append(b)
         else:
-            birdpriority[regiondata[state][b]] = [b]
+            birdpriority[birdfrequency] = [b]
     
     
     for p in birdpriority:
         for b in birdpriority[p]:
-            result += "\t{} ({})\n".format(b,p)
+            result += "\t{} ({}, seen in {} states)\n".format(b,p,regiondata[state][b][1])
     
     result += "\n\n"
 
@@ -235,12 +238,12 @@ def getPlaceResults(place:str, placedata:dict, regiondata:dict, state:str) -> st
 
 #make a list of all the keys, sorted in priority order
 #v1 = sort by count of birds
-def prioritizePlaces(placesdict:dict, regiondata:dict, state:str) -> list:
+def prioritizePlaces(placesdict:dict) -> list:
     
     #make a list of tuples, where first item is the key and the second is the count of birds for that key
     result = []
     for p in placesdict:
-        result.append( (p, len(placesdict[p]["seen"])))
+        result.append( (p, len(placesdict[p]["seen"])) )
 
     list.sort(result, key=itemgetter(1), reverse=True)
 
@@ -261,8 +264,9 @@ def printResults(todomsg:str, placesdict:dict, showprivate:bool, regiondata:dict
     publicplaceresults = ""
 
     #The function returns a list of places in priority order. We'll use this as the key for 
-    #processing the places dictionary, so that we get the order correct in the output file
-    for p in prioritizePlaces(placesdict, regiondata, state):
+    #processing the places dictionary, so that we get the order correct in the output file. I did 
+    #it this way because we can't sort the dictionary.
+    for p in prioritizePlaces(placesdict):
         if placesdict[p]["private"] == True:
             privateplaceresults += getPlaceResults(p, placesdict[p], regiondata, state)
         else:
@@ -296,7 +300,7 @@ def printResults(todomsg:str, placesdict:dict, showprivate:bool, regiondata:dict
     #Write results to Google map format
     try:
         f = open("googlemap.csv", "w")
-        f.write("Place, Latitude, Longitude, Birds\n")
+        f.write("Place, Count, Latitude, Longitude, Birds\n")
         for p in placesdict:
             if placesdict[p]["private"] == False or (placesdict[p]["private"] == True and showprivate == True):
                 species = ""
@@ -306,7 +310,7 @@ def printResults(todomsg:str, placesdict:dict, showprivate:bool, regiondata:dict
                     i += 1
                 if i > 0: #strip off the last |
                     species = species[0 : len(species) - 3]
-                f.write("{} ({}), {}, {}, {}\n".format(p, i, placesdict[p]["lat"], placesdict[p]["lng"], species))
+                f.write("{} ({}), {}, {}, {}, {}\n".format(p.replace(",",""), i, i, placesdict[p]["lat"], placesdict[p]["lng"], species))
         f.close()
         print("Successfully saved Google Map file.")
     except:
@@ -335,11 +339,16 @@ if len(lifedict) == 0:
 #Load and process region data to generate prioritization criteria
 regiondata = data.loadAllRegionData(ebirdtaxonomy)
 
-#lat & long for Abita Springs: 30.47, -90.03
-state = "US-LA"
-lat = 30.47
-lng = -90.03
-daysback = 7
+#TODO Add GPS coordinates of the location to the name in the results file
+#TODO Ask user for city, state, then get GPS coordinates from that
+#TODO When a bird is rare or seasonal, put some special mark next in front of it like "***Screaming Eagle (Rare)
+#TODO Automatically upload the results to Google Maps
+
+state = "US-TX"
+#TODO if state not in regions then generate an error
+lat = 30.25
+lng = -97.76
+daysback = 10
 distKM = 25
 showprivateplaces = False
 findType = askUserForListType()

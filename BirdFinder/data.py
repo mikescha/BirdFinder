@@ -104,28 +104,54 @@ def loadRegion(r : str, ebirdtaxononmy : dict) -> dict:
 #Summarize all the columnar data into something useful
 def summarizeRegion(regiondata : dict) -> dict:
     #COMMON = If a bird is reported on at least 10% of checklists for 36 weeks of the year
-    #UNUSUAL = If a bird is reported  on at least 2% of checklists for 36 weeks
+    #UNUSUAL = If a bird is reported  on at least 2% of checklists for 24 weeks
     #SEASONAL = If a bird is reported on at least 2% of checklists for 12 weeks
     #LOCALIZED = None of the above, but reported on at least 0.5% of checklists for 24 weeks
     #RARE = Seen on 0.01% of checklists but at least 16 weeks
     #VAGRANT = the rest
 
-    frequencydata = ( (init.birdstatus[1], 0.10 ,  36), 
-                      (init.birdstatus[2], 0.02,   36),
-                      (init.birdstatus[3], 0.02,   12),
-                      (init.birdstatus[4], 0.005,  24),
-                      (init.birdstatus[5], 0.0001, 16),
-                      (init.birdstatus[6], 0,       0) )
+    frequencydata = ( (1, 0.10 ,  36), #common
+                      (2, 0.02,   24), #unusual
+                      (3, 0.01,    4), #seasonal
+                      (4, 0.005,  24), #localized
+                      (5, 0.0001, 16), #rare
+                      (6, 0,       0) )#vagrant
     summary = {}
 
     for bird in regiondata:
         for status in frequencydata:
+            #Next line makes an array of weeks where the frequency is greater than the target
+            #and then counts the number of elements in that array.
             weeks = len([freq for freq in regiondata[bird] if freq > status[1]])
             if weeks > status[2]:
-                summary[bird] = status[0]
+                summary[bird] = [ status[0], -1 ]
                 break
 
     return summary
+
+#Compare across regions, getting the count of how many other states a bird is seen in
+def compareRegions(data : dict):
+    #for each region...
+    for thisregion in init.regions:
+        #for each bird...
+        for b in data[thisregion]:
+            #if we haven't yet counted it, then count it
+            if data[thisregion][b][1] == -1:
+                found = []
+                #for each other region...
+                for thatregion in init.regions:
+                    #if the bird is there, count it if the frequency is better than rare
+                    #TODO: this means that vagrant birds won't get counted, is that OK?
+                    if b in data[thatregion]:
+                        #TODO find a better way to do this than with INTs. Maybe if x in (the list of frequencies that we want)...
+                        if data[thatregion][b][0] >= 1 and data[thatregion][b][0] <= 5:
+                            found.append(thatregion)
+                #now that we know where it's found, update the birds in all those places with the count
+                #so we dont have to go through counting multiple times
+                for f in found:
+                    data[f][b][1] = len(found)
+
+    return
 
 #open region file and parse it. 
 #return a dictionary of dictionaries, where the key 
@@ -133,6 +159,8 @@ def loadAllRegionData(ebirdtaxonomy : dict) -> dict:
     
     data = {}
     datafile = "regiondata.json"
+
+    #TODO 21 may: why does it keep creating the data file? 
 
     #Verify that we have saved region data, and it's newer than all the data file.
     try:
@@ -153,6 +181,12 @@ def loadAllRegionData(ebirdtaxonomy : dict) -> dict:
             regiondata = loadRegion(r, ebirdtaxonomy)
             data[r] = summarizeRegion(regiondata)
 
+        #TODO figure out how to do the "regionally common" calculation, i.e. a bird that is
+        #locally common in one area but rare in another should be higher pri than one that is 
+        #common everywhere
+        #return data, but having added the count of states where it is at least rare
+        compareRegions(data)
+
         #we created the file, now save for next time
         try:
             with open(datafile, 'w') as outfile:
@@ -160,6 +194,5 @@ def loadAllRegionData(ebirdtaxonomy : dict) -> dict:
         except:
             #if it can't be saved, no problem, we'll recreate it next time
             log.info("Failed to write region datafile")
-
 
     return data

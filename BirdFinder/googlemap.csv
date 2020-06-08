@@ -1,7 +1,56 @@
-Place, Latitude, Longitude, Birds
-Fontainebleau SP (11), 30.3371423, -90.0427437, Magnolia Warbler | Northern Rough-winged Swallow | Royal Tern | Common Gallinule | American Redstart | Loggerhead Shrike | Bald Eagle | Boat-tailed Grackle | Bronzed Cowbird | Laughing Gull | Barn Swallow
-Guste Island Road (Port Louis) (11), 30.4006032, -90.2185249, Yellow-breasted Chat | Forster's Tern | Brown-headed Cowbird | Northern Rough-winged Swallow | Orchard Oriole | Common Gallinule | Painted Bunting | Green Heron | Snowy Egret | Indigo Bunting | Barn Swallow
-Big Branch NWR--Lake Rd. (25), 30.2781896, -89.9543972, Sora | Brown-headed Cowbird | Royal Tern | Black-necked Stilt | Clapper Rail | Bald Eagle | Bronzed Cowbird | Barn Swallow | Tricolored Heron | Northern Rough-winged Swallow | Orchard Oriole | Snowy Egret | Eurasian Collared-Dove | Cattle Egret | King Rail | Forster's Tern | Great Horned Owl | White-winged Dove | Loggerhead Shrike | Boat-tailed Grackle | Least Bittern | Common Gallinule | Purple Gallinule | Laughing Gull | Blue-winged Teal
-Big Branch Marsh NWR--Boy Scout Rd. (9), 30.2819728, -89.9234819, Great Horned Owl | Brown-headed Cowbird | Common Gallinule | Blue Grosbeak | Snowy Egret | Boat-tailed Grackle | Acadian Flycatcher | Laughing Gull | Barn Swallow
-Mandeville Lakefront (4), 30.34843, -90.06126, Loggerhead Shrike | Royal Tern | Laughing Gull | Brown Pelican
-Abita Creek Flatwoods Preserve (7), 30.5067503, -89.9659547, Yellow-breasted Chat | Brown-headed Cowbird | Black Vulture | Orchard Oriole | Blue Grosbeak | Barred Owl | Northern Bobwhite
+Place, Count, Latitude, Longitude, Birds
+Mills Pond at Wells Branch (15), 15, 30.45, -97.68012, Red-eyed Vireo | American Robin | Cave Swallow | Purple Martin | Great Horned Owl | Barn Swallow | Cliff Swallow | Western Kingbird | Chimney Swift | Prothonotary Warbler | Yellow-bellied Flycatcher | Magnolia Warbler | Yellow-billed Cuckoo | Rock Pigeon | Downy Woodpecker
+Circle Acres Austin (7), 7, 30.2414336, -97.6969823, Red-eyed Vireo | Eastern Wood-Pewee | Painted Bunting | Black-chinned Hummingbird | Great Crested Flycatcher | Yellow-billed Cuckoo | Downy Woodpecker
+Barton Creek Wilderness Park (11), 11, 30.2707801, -97.8291214, Red-eyed Vireo | Purple Martin | Painted Bunting | Black-and-white Warbler | Black-chinned Hummingbird | Chuck-will's-widow | Chimney Swift | Bronzed Cowbird | Black-capped Vireo | Yellow-billed Cuckoo | Common Raven
+McKinney Falls SP (HOTE 039) (18), 18, 30.1836783, -97.7258349, Red-eyed Vireo | Eastern Wood-Pewee | Swainson's Hawk | Purple Martin | Painted Bunting | Northern Parula | Black-chinned Hummingbird | Barn Swallow | Cliff Swallow | Chuck-will's-widow | Western Kingbird | Chimney Swift | Yellow-billed Cuckoo | Cattle Egret | Common Raven | Franklin's Gull | Common Nighthawk | Downy Woodpecker
+Commons Ford Ranch Metro Park (22), 22, 30.3385837, -97.8927755, Red-eyed Vireo | Painted Bunting | Dickcissel | Black-chinned Hummingbird | Northern Parula | Brown-crested Flycatcher | Yellow-billed Cuckoo | Blue Grosbeak | Lark Sparrow | Great Horned Owl | Barn Swallow | Western Kingbird | Downy Woodpecker | Ash-throated Flycatcher | Yellow-throated Warbler | Chimney Swift | Cliff Swallow | Bronzed Cowbird | Wood Duck | Great Crested Flycatcher | Yellow-throated Vireo | Eastern Kingbird
+Webberville Park (Big & Little) (HOTE 035) (7), 7, 30.2208422, -97.5064087, Eastern Wood-Pewee | Black-chinned Hummingbird | Barn Swallow | Cliff Swallow | Yellow-billed Cuckoo | Cattle Egret | Downy Woodpecker
+Platt Lane (Travis Co.) (20), 20, 30.2319665, -97.6352835, Red-eyed Vireo | Painted Bunting | Northern Parula | Black-chinned Hummingbird | Yellow-billed Cuckoo | Cattle Egret | Barn Swallow | Western Kingbird | Northern Rough-winged Swallow | Common Nighthawk | Downy Woodpecker | Chimney Swift | Ruddy Duck | Cave Swallow | Swainson's Hawk | Purple Martin | Cliff Swallow | Wood Duck | Great Crested Flycatcher | Eastern Kingbird
+Balcones Canyonlands Preserve--Aralia Dr. (limited access) (6), 6, 30.3955691, -97.7985013, Painted Bunting | Black-chinned Hummingbird | Cliff Swallow | Golden-cheeked Warbler | Black-capped Vireo | Yellow-billed Cuckoo
+Walnut Creek Hike and Bike Trail Austin (9), 9, 30.29005, -97.65633, Red-eyed Vireo | Purple Martin | Painted Bunting | Barn Swallow | Cliff Swallow | Monk Parakeet | Great Crested Flycatcher | Yellow-billed Cuckoo | Downy Woodpecker
+Barton Creek at Loop 360 (4), 4, 30.2442387, -97.8020096, Red-eyed Vireo | Black-chinned Hummingbird | Warbling Vireo | Yellow-billed Cuckoo
+Hornsby Bend (HOTE 037) (18), 18, 30.2181988, -97.6458054, Red-eyed Vireo | Purple Martin | Painted Bunting | Black-chinned Hummingbird | Barn Swallow | Cliff Swallow | Mississippi Kite | Western Kingbird | Chimney Swift | Monk Parakeet | Wood Duck | Great Crested Flycatcher | Yellow-billed Cuckoo | Northern Rough-winged Swallow | Rock Pigeon | Downy Woodpecker | Cattle Egret | Ruddy Duck
+Riata Pond & Trails (7), 7, 30.4295816, -97.7377224, Purple Martin | Painted Bunting | Barn Swallow | Mississippi Kite | Chimney Swift | Cooper's Hawk | Yellow-billed Cuckoo
+St. Edwards Pk (NW Austin) (9), 9, 30.40675, -97.7903333, Broad-winged Hawk | Red-eyed Vireo | Bell's Vireo | Painted Bunting | Black-and-white Warbler | Black-chinned Hummingbird | Golden-cheeked Warbler | Chimney Swift | Yellow-billed Cuckoo
+Emma Long Metro Park (24), 24, 30.3316943, -97.8387451, Red-eyed Vireo | Painted Bunting | Black-and-white Warbler | Black-chinned Hummingbird | Cooper's Hawk | Hutton's Vireo | Yellow-billed Cuckoo | Woodhouse's Scrub-Jay | Barn Swallow | Western Kingbird | Downy Woodpecker | Yellow-throated Warbler | Golden-cheeked Warbler | Chimney Swift | Cave Swallow | Purple Martin | Cliff Swallow | Bronzed Cowbird | Rufous-crowned Sparrow | Wood Duck | Field Sparrow | Great Crested Flycatcher | Yellow-throated Vireo | Orchard Oriole
+Roy G. Guerrero Colorado River Metro Park (15), 15, 30.246172, -97.7049763, Eastern Wood-Pewee | Purple Martin | Painted Bunting | Rock Pigeon | Black-chinned Hummingbird | Barn Swallow | Cliff Swallow | Western Kingbird | Chimney Swift | Monk Parakeet | Wood Duck | Great Crested Flycatcher | Yellow-billed Cuckoo | Common Nighthawk | Downy Woodpecker
+Bauerle Ranch Park (9), 9, 30.1619743, -97.84338, Eastern Wood-Pewee | Painted Bunting | Black-chinned Hummingbird | Barn Swallow | Chimney Swift | Cooper's Hawk | Great Crested Flycatcher | Yellow-billed Cuckoo | Downy Woodpecker
+Bull Creek Greenbelt--Upper Austin (17), 17, 30.3776884, -97.7745867, Broad-winged Hawk | Red-eyed Vireo | Eastern Wood-Pewee | Painted Bunting | Black-chinned Hummingbird | Barn Swallow | Cliff Swallow | Golden-cheeked Warbler | Western Kingbird | Chimney Swift | Black-capped Vireo | Rufous-crowned Sparrow | Field Sparrow | Great Crested Flycatcher | Yellow-billed Cuckoo | Rock Pigeon | Blue Grosbeak
+Lady Bird Johnson Wildflower Ctr (HOTE 047) (2), 2, 30.1853476, -97.8745151, Barn Swallow | Yellow-billed Cuckoo
+Lakeway City Park and Greenbelt (10), 10, 30.3759482, -97.9672337, American Robin | Egyptian Goose | Purple Martin | Painted Bunting | Black-chinned Hummingbird | Barn Swallow | Bronzed Cowbird | Chimney Swift | Wood Duck | Northern Rough-winged Swallow
+Mabel Davis District Pk (5), 5, 30.2181908, -97.7408767, Purple Martin | Barn Swallow | Western Kingbird | Great Crested Flycatcher | Rock Pigeon
+Blunn Creek Preserve (2), 2, 30.2296366, -97.7471068, Great Crested Flycatcher | Purple Martin
+North Star Greenbelt Austin (2), 2, 30.3937044, -97.6956949, Downy Woodpecker | Purple Martin
+Oak Springs Austin (9), 9, 30.2715121, -97.7023226, Cave Swallow | Purple Martin | Barn Swallow | Chimney Swift | Western Kingbird | Monk Parakeet | Wood Duck | Great Crested Flycatcher | Common Nighthawk
+Lake Creek Trail--West (Williamson Co.) (11), 11, 30.4673656, -97.7771286, American Robin | Cave Swallow | Purple Martin | Black-chinned Hummingbird | Barn Swallow | Cliff Swallow | Western Kingbird | Chimney Swift | Monk Parakeet | Great Crested Flycatcher | Downy Woodpecker
+Gaines Creek Park Austin (6), 6, 30.24219, -97.833123, American Robin | Purple Martin | Barn Swallow | Cliff Swallow | Chimney Swift | Common Nighthawk
+Southeast Greenway Mueller (8), 8, 30.2904776, -97.6929778, Cave Swallow | Purple Martin | Common Nighthawk | Barn Swallow | Western Kingbird | Monk Parakeet | Rock Pigeon | Ruddy Duck
+Yett Creek Neighborhood Park (7), 7, 30.4297919, -97.7330339, Purple Martin | Painted Bunting | Black-chinned Hummingbird | Chimney Swift | Great Crested Flycatcher | Downy Woodpecker | Olive-sided Flycatcher
+Village Shopping Center Austin (Lesser Nighthawk locality) (5), 5, 30.3593669, -97.7341604, Purple Martin | Barn Swallow | Cliff Swallow | Chimney Swift | Common Nighthawk
+Walter E. Long Lake (HOTE-036) (7), 7, 30.2836775, -97.6080322, Purple Martin | Painted Bunting | Chuck-will's-widow | Western Kingbird | Cattle Egret | Common Nighthawk | Ruddy Duck
+Oak Hill Library ponds Austin (5), 5, 30.2158823, -97.855922, Purple Martin | Painted Bunting | Barn Swallow | Chimney Swift | Western Kingbird
+Rocking B Stables (2), 2, 30.3896092, -97.6286316, Barn Swallow | Western Kingbird
+Southwest Greenway & Butterfly Garden (Mueller) (2), 2, 30.2891992, -97.7030468, Rock Pigeon | Barn Swallow
+MetCenter Disc Golf Course Austin (4), 4, 30.2038198, -97.7057505, Rock Pigeon | Barn Swallow | Western Kingbird | Cattle Egret
+Walnut Creek Pk (N. Austin) (2), 2, 30.4004552, -97.6845074, Barn Swallow | Western Kingbird
+Quarries Park Austin (3), 3, 30.4086351, -97.7342892, Great Crested Flycatcher | Barn Swallow | Chimney Swift
+St. Andrew's Episcopal School Austin (10), 10, 30.2442401, -97.8531354, Eastern Wood-Pewee | Cave Swallow | Painted Bunting | Black-chinned Hummingbird | Barn Swallow | Cliff Swallow | Western Kingbird | American Goldfinch | Great Crested Flycatcher | Common Raven
+Comanche Trail Road (2), 2, 30.3966999, -97.8694992, Painted Bunting | Black-chinned Hummingbird
+Bull Creek District Park Austin (4), 4, 30.3677391, -97.7845891, Broad-winged Hawk | Black-chinned Hummingbird | Downy Woodpecker | Cliff Swallow
+Chaetura Canyon Sanctuary (restricted access) (4), 4, 30.3764071, -97.9223597, Painted Bunting | Black-chinned Hummingbird | Canyon Wren | Chimney Swift
+Shoal Creek Greenbelt--Seider Springs Park (4), 4, 30.305774, -97.747571, Common Nighthawk | Great Crested Flycatcher | Cave Swallow | Western Kingbird
+The Triangle Pond Austin (4), 4, 30.3128387, -97.7336454, Rock Pigeon | Wood Duck | Western Kingbird | Monk Parakeet
+Austin-Bergstrom Intl. Airport (AUS) (1), 1, 30.2023519, -97.666933, Western Kingbird
+Town Lake Park (HOTE 042) Austin (5), 5, 30.2649002, -97.7591019, Cliff Swallow | Chimney Swift | Western Kingbird | Rock Pigeon | Mallard
+Eilers Park/Deep Eddy Community Garden (1), 1, 30.2758007, -97.7720032, Cliff Swallow
+Onion Creek Greenway--Barkley Meadows (3), 3, 30.186523, -97.626068, Downy Woodpecker | Cliff Swallow | Cattle Egret
+Swifts Over Austin--O. Henry Middle School (3), 3, 30.2854934, -97.7737713, Mississippi Kite | Bronzed Cowbird | Chimney Swift
+Bartholomew District Park Austin (3), 3, 30.3031217, -97.6963949, Great Crested Flycatcher | Downy Woodpecker | Monk Parakeet
+Zilker Park (HOTE 043) (1), 1, 30.2670002, -97.7699966, Chuck-will's-widow
+Longhorn Dam area Austin (1), 1, 30.2501357, -97.7130168, Rock Pigeon
+Willowbrook Reach Austin (1), 1, 30.2919489, -97.711717, Monk Parakeet
+Montopolis Bridge Austin (1), 1, 30.2454258, -97.6904454, Mallard
+Metropolis Drive Retention Pond Austin (2), 2, 30.2090075, -97.6850232, Dickcissel | Cattle Egret
+Steck Valley Greenbelt Austin (3), 3, 30.3828438, -97.7581394, Cooper's Hawk | Great Crested Flycatcher | Common Raven
+Brackenridge Field Labs (U.Tx.) (1), 1, 30.282121, -97.7791786, Northern Parula
+Oakview Park Austin (1), 1, 30.4179859, -97.7702693, Great Horned Owl

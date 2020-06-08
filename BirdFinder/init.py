@@ -43,6 +43,6 @@ class EBirdDictColumns(Enum):
     EXTINCT = "EXTINCT"
     EXTINCT_YEAR = "EXTINCT_YEAR"
 
-regions = ["US-LA"]
+regions = ["US-LA", "US-TX", "US-CA"]
 
 birdstatus = ("None", "Common", "Unusual", "Seasonal", "Local", "Rare", "Vagrant")

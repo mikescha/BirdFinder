@@ -1,91 +1,536 @@
-You asked for birds needed for your state year list for the state US-LA
-I am looking 7 days back, within 25km of GPS coordinates 30.47, -90.03. 
+You asked for birds needed for your state year list for the state US-TX
+I am looking 10 days back, within 25km of GPS coordinates 30.25, -97.76. 
 
 
 Public places you can go
 ------------------------
-Big Branch NWR--Lake Rd.
-	Snowy Egret (Common)
-	Loggerhead Shrike (Common)
-	Laughing Gull (Common)
-	Brown-headed Cowbird (Unusual)
-	Royal Tern (Unusual)
-	Black-necked Stilt (Unusual)
-	Tricolored Heron (Unusual)
-	Eurasian Collared-Dove (Unusual)
-	Cattle Egret (Unusual)
-	Forster's Tern (Unusual)
-	White-winged Dove (Unusual)
-	Boat-tailed Grackle (Unusual)
-	Common Gallinule (Unusual)
-	Blue-winged Teal (Unusual)
-	Sora (Seasonal)
-	Clapper Rail (Seasonal)
-	Bald Eagle (Seasonal)
-	Bronzed Cowbird (Seasonal)
-	Barn Swallow (Seasonal)
-	Northern Rough-winged Swallow (Seasonal)
-	Orchard Oriole (Seasonal)
-	Great Horned Owl (Seasonal)
-	Least Bittern (Seasonal)
-	Purple Gallinule (Seasonal)
-	King Rail (Local)
+Emma Long Metro Park
+	Downy Woodpecker (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Cooper's Hawk (Unusual, seen in 3 states)
+	Woodhouse's Scrub-Jay (Unusual, seen in 2 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Cave Swallow (Unusual, seen in 2 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Field Sparrow (Unusual, seen in 2 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Black-and-white Warbler (Seasonal, seen in 3 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Yellow-throated Warbler (Seasonal, seen in 3 states)
+	Golden-cheeked Warbler (Seasonal, seen in 1 states)
+	Bronzed Cowbird (Seasonal, seen in 3 states)
+	Rufous-crowned Sparrow (Seasonal, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-throated Vireo (Seasonal, seen in 3 states)
+	Orchard Oriole (Seasonal, seen in 3 states)
+	Hutton's Vireo (Rare, seen in 2 states)
 
 
-Fontainebleau SP
-	Loggerhead Shrike (Common)
-	Laughing Gull (Common)
-	Royal Tern (Unusual)
-	Common Gallinule (Unusual)
-	Boat-tailed Grackle (Unusual)
-	Northern Rough-winged Swallow (Seasonal)
-	American Redstart (Seasonal)
-	Bald Eagle (Seasonal)
-	Bronzed Cowbird (Seasonal)
-	Barn Swallow (Seasonal)
-	Magnolia Warbler (Rare)
+Commons Ford Ranch Metro Park
+	Downy Woodpecker (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Lark Sparrow (Unusual, seen in 3 states)
+	Great Horned Owl (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Dickcissel (Seasonal, seen in 2 states)
+	Northern Parula (Seasonal, seen in 3 states)
+	Brown-crested Flycatcher (Seasonal, seen in 3 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+	Blue Grosbeak (Seasonal, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Ash-throated Flycatcher (Seasonal, seen in 3 states)
+	Yellow-throated Warbler (Seasonal, seen in 3 states)
+	Bronzed Cowbird (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-throated Vireo (Seasonal, seen in 3 states)
+	Eastern Kingbird (Seasonal, seen in 3 states)
 
 
-Guste Island Road (Port Louis)
-	Snowy Egret (Common)
-	Forster's Tern (Unusual)
-	Brown-headed Cowbird (Unusual)
-	Common Gallinule (Unusual)
-	Yellow-breasted Chat (Seasonal)
-	Northern Rough-winged Swallow (Seasonal)
-	Orchard Oriole (Seasonal)
-	Painted Bunting (Seasonal)
-	Green Heron (Seasonal)
-	Indigo Bunting (Seasonal)
-	Barn Swallow (Seasonal)
+Platt Lane (Travis Co.)
+	Downy Woodpecker (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Cattle Egret (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Northern Rough-winged Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Ruddy Duck (Unusual, seen in 3 states)
+	Cave Swallow (Unusual, seen in 2 states)
+	Swainson's Hawk (Unusual, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Northern Parula (Seasonal, seen in 3 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Eastern Kingbird (Seasonal, seen in 3 states)
 
 
-Big Branch Marsh NWR--Boy Scout Rd.
-	Snowy Egret (Common)
-	Laughing Gull (Common)
-	Brown-headed Cowbird (Unusual)
-	Common Gallinule (Unusual)
-	Boat-tailed Grackle (Unusual)
-	Great Horned Owl (Seasonal)
-	Blue Grosbeak (Seasonal)
-	Acadian Flycatcher (Seasonal)
-	Barn Swallow (Seasonal)
+McKinney Falls SP (HOTE 039)
+	Downy Woodpecker (Common, seen in 3 states)
+	Swainson's Hawk (Unusual, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Cattle Egret (Unusual, seen in 3 states)
+	Common Raven (Unusual, seen in 2 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Eastern Wood-Pewee (Seasonal, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Northern Parula (Seasonal, seen in 3 states)
+	Chuck-will's-widow (Seasonal, seen in 2 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+	Franklin's Gull (Seasonal, seen in 3 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
 
 
-Abita Creek Flatwoods Preserve
-	Black Vulture (Common)
-	Brown-headed Cowbird (Unusual)
-	Barred Owl (Unusual)
-	Yellow-breasted Chat (Seasonal)
-	Orchard Oriole (Seasonal)
-	Blue Grosbeak (Seasonal)
-	Northern Bobwhite (Rare)
+Hornsby Bend (HOTE 037)
+	Rock Pigeon (Common, seen in 3 states)
+	Downy Woodpecker (Common, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Northern Rough-winged Swallow (Unusual, seen in 3 states)
+	Cattle Egret (Unusual, seen in 3 states)
+	Ruddy Duck (Unusual, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Mississippi Kite (Seasonal, seen in 2 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
 
 
-Mandeville Lakefront
-	Loggerhead Shrike (Common)
-	Laughing Gull (Common)
-	Royal Tern (Unusual)
-	Brown Pelican (Unusual)
+Bull Creek Greenbelt--Upper, Austin
+	Rock Pigeon (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Field Sparrow (Unusual, seen in 2 states)
+	Broad-winged Hawk (Seasonal, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Eastern Wood-Pewee (Seasonal, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Golden-cheeked Warbler (Seasonal, seen in 1 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Black-capped Vireo (Seasonal, seen in 1 states)
+	Rufous-crowned Sparrow (Seasonal, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+	Blue Grosbeak (Seasonal, seen in 3 states)
+
+
+Mills Pond at Wells Branch
+	Rock Pigeon (Common, seen in 3 states)
+	Downy Woodpecker (Common, seen in 3 states)
+	American Robin (Unusual, seen in 3 states)
+	Cave Swallow (Unusual, seen in 2 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Great Horned Owl (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Prothonotary Warbler (Seasonal, seen in 3 states)
+	Yellow-bellied Flycatcher (Seasonal, seen in 2 states)
+	Magnolia Warbler (Seasonal, seen in 3 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Roy G. Guerrero Colorado River Metro Park
+	Rock Pigeon (Common, seen in 3 states)
+	Downy Woodpecker (Common, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Eastern Wood-Pewee (Seasonal, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+
+
+Barton Creek Wilderness Park
+	Purple Martin (Unusual, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Common Raven (Unusual, seen in 2 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Black-and-white Warbler (Seasonal, seen in 3 states)
+	Chuck-will's-widow (Seasonal, seen in 2 states)
+	Bronzed Cowbird (Seasonal, seen in 3 states)
+	Black-capped Vireo (Seasonal, seen in 1 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Lake Creek Trail--West (Williamson Co.)
+	Downy Woodpecker (Common, seen in 3 states)
+	American Robin (Unusual, seen in 3 states)
+	Cave Swallow (Unusual, seen in 2 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+
+
+Lakeway City Park and Greenbelt
+	American Robin (Unusual, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Northern Rough-winged Swallow (Unusual, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Bronzed Cowbird (Seasonal, seen in 3 states)
+	Egyptian Goose (Local, seen in 2 states)
+
+
+St. Andrew's Episcopal School, Austin
+	Cave Swallow (Unusual, seen in 2 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Common Raven (Unusual, seen in 2 states)
+	Eastern Wood-Pewee (Seasonal, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	American Goldfinch (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+
+
+Walnut Creek Hike and Bike Trail, Austin
+	Downy Woodpecker (Common, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+St. Edwards Pk (NW Austin)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Broad-winged Hawk (Seasonal, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Bell's Vireo (Seasonal, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Black-and-white Warbler (Seasonal, seen in 3 states)
+	Golden-cheeked Warbler (Seasonal, seen in 1 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Bauerle Ranch Park
+	Downy Woodpecker (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Cooper's Hawk (Unusual, seen in 3 states)
+	Eastern Wood-Pewee (Seasonal, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Oak Springs, Austin
+	Cave Swallow (Unusual, seen in 2 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+
+
+Southeast Greenway, Mueller
+	Rock Pigeon (Common, seen in 3 states)
+	Cave Swallow (Unusual, seen in 2 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Ruddy Duck (Unusual, seen in 3 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+
+
+Circle Acres, Austin
+	Downy Woodpecker (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Eastern Wood-Pewee (Seasonal, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Webberville Park (Big & Little) (HOTE 035)
+	Downy Woodpecker (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Cattle Egret (Unusual, seen in 3 states)
+	Eastern Wood-Pewee (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Riata Pond & Trails
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Cooper's Hawk (Unusual, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Mississippi Kite (Seasonal, seen in 2 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Yett Creek Neighborhood Park
+	Downy Woodpecker (Common, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Olive-sided Flycatcher (Seasonal, seen in 2 states)
+
+
+Walter E. Long Lake (HOTE-036)
+	Purple Martin (Unusual, seen in 3 states)
+	Cattle Egret (Unusual, seen in 3 states)
+	Ruddy Duck (Unusual, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Chuck-will's-widow (Seasonal, seen in 2 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+
+
+Balcones Canyonlands Preserve--Aralia Dr. (limited access)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Golden-cheeked Warbler (Seasonal, seen in 1 states)
+	Black-capped Vireo (Seasonal, seen in 1 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Gaines Creek Park, Austin
+	American Robin (Unusual, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+
+
+Mabel Davis District Pk
+	Rock Pigeon (Common, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+
+
+Village Shopping Center, Austin (Lesser Nighthawk locality)
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+
+
+Oak Hill Library ponds, Austin
+	Purple Martin (Unusual, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+
+
+Town Lake Park (HOTE 042), Austin
+	Rock Pigeon (Common, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Mallard (Unusual, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+
+
+Barton Creek at Loop 360
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Red-eyed Vireo (Seasonal, seen in 3 states)
+	Warbling Vireo (Seasonal, seen in 3 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+MetCenter Disc Golf Course, Austin
+	Rock Pigeon (Common, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+	Cattle Egret (Unusual, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+
+
+Bull Creek District Park, Austin
+	Downy Woodpecker (Common, seen in 3 states)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Broad-winged Hawk (Seasonal, seen in 3 states)
+
+
+Chaetura Canyon Sanctuary (restricted access)
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+	Canyon Wren (Seasonal, seen in 2 states)
+
+
+Shoal Creek Greenbelt--Seider Springs Park
+	Cave Swallow (Unusual, seen in 2 states)
+	Common Nighthawk (Seasonal, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+
+
+The Triangle Pond, Austin
+	Rock Pigeon (Common, seen in 3 states)
+	Wood Duck (Unusual, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+
+
+Quarries Park, Austin
+	Barn Swallow (Unusual, seen in 3 states)
+	Chimney Swift (Unusual, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+
+
+Onion Creek Greenway--Barkley Meadows
+	Downy Woodpecker (Common, seen in 3 states)
+	Cliff Swallow (Unusual, seen in 3 states)
+	Cattle Egret (Unusual, seen in 3 states)
+
+
+Swifts Over Austin--O. Henry Middle School
+	Chimney Swift (Unusual, seen in 2 states)
+	Mississippi Kite (Seasonal, seen in 2 states)
+	Bronzed Cowbird (Seasonal, seen in 3 states)
+
+
+Bartholomew District Park, Austin
+	Downy Woodpecker (Common, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+	Monk Parakeet (Seasonal, seen in 2 states)
+
+
+Steck Valley Greenbelt, Austin
+	Cooper's Hawk (Unusual, seen in 3 states)
+	Common Raven (Unusual, seen in 2 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+
+
+Lady Bird Johnson Wildflower Ctr (HOTE 047)
+	Barn Swallow (Unusual, seen in 3 states)
+	Yellow-billed Cuckoo (Seasonal, seen in 2 states)
+
+
+Blunn Creek Preserve
+	Purple Martin (Unusual, seen in 3 states)
+	Great Crested Flycatcher (Seasonal, seen in 2 states)
+
+
+North Star Greenbelt, Austin
+	Downy Woodpecker (Common, seen in 3 states)
+	Purple Martin (Unusual, seen in 3 states)
+
+
+Rocking B Stables
+	Barn Swallow (Unusual, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+
+
+Southwest Greenway & Butterfly Garden (Mueller)
+	Rock Pigeon (Common, seen in 3 states)
+	Barn Swallow (Unusual, seen in 3 states)
+
+
+Walnut Creek Pk (N. Austin)
+	Barn Swallow (Unusual, seen in 3 states)
+	Western Kingbird (Seasonal, seen in 3 states)
+
+
+Comanche Trail Road
+	Black-chinned Hummingbird (Unusual, seen in 3 states)
+	Painted Bunting (Seasonal, seen in 3 states)
+
+
+Metropolis Drive Retention Pond, Austin
+	Cattle Egret (Unusual, seen in 3 states)
+	Dickcissel (Seasonal, seen in 2 states)
+
+
+Austin-Bergstrom Intl. Airport (AUS)
+	Western Kingbird (Seasonal, seen in 3 states)
+
+
+Eilers Park/Deep Eddy Community Garden
+	Cliff Swallow (Unusual, seen in 3 states)
+
+
+Zilker Park (HOTE 043)
+	Chuck-will's-widow (Seasonal, seen in 2 states)
+
+
+Longhorn Dam area, Austin
+	Rock Pigeon (Common, seen in 3 states)
+
+
+Willowbrook Reach, Austin
+	Monk Parakeet (Seasonal, seen in 2 states)
+
+
+Montopolis Bridge, Austin
+	Mallard (Unusual, seen in 3 states)
+
+
+Brackenridge Field Labs (U.Tx.)
+	Northern Parula (Seasonal, seen in 3 states)
+
+
+Oakview Park, Austin
+	Great Horned Owl (Unusual, seen in 3 states)
 
 

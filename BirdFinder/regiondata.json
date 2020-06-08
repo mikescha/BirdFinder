@@ -1,448 +1,7084 @@
 {
+    "US-CA": {
+        "Abert's Towhee": [
+            5,
+            1
+        ],
+        "Acorn Woodpecker": [
+            1,
+            2
+        ],
+        "Alder Flycatcher": [
+            6,
+            -1
+        ],
+        "Allen's Hummingbird": [
+            2,
+            2
+        ],
+        "American Avocet": [
+            2,
+            3
+        ],
+        "American Bittern": [
+            4,
+            3
+        ],
+        "American Coot": [
+            1,
+            3
+        ],
+        "American Crow": [
+            1,
+            3
+        ],
+        "American Dipper": [
+            5,
+            1
+        ],
+        "American Golden-Plover": [
+            5,
+            3
+        ],
+        "American Goldfinch": [
+            2,
+            3
+        ],
+        "American Kestrel": [
+            2,
+            3
+        ],
+        "American Oystercatcher": [
+            5,
+            3
+        ],
+        "American Pipit": [
+            2,
+            3
+        ],
+        "American Redstart": [
+            5,
+            3
+        ],
+        "American Robin": [
+            1,
+            3
+        ],
+        "American Tree Sparrow": [
+            6,
+            -1
+        ],
+        "American White Pelican": [
+            2,
+            3
+        ],
+        "American Wigeon": [
+            2,
+            3
+        ],
+        "American Woodcock": [
+            6,
+            -1
+        ],
+        "Ancient Murrelet": [
+            5,
+            1
+        ],
+        "Anhinga": [
+            6,
+            -1
+        ],
+        "Anna's Hummingbird": [
+            1,
+            2
+        ],
+        "Arctic Loon": [
+            5,
+            1
+        ],
+        "Arctic Tern": [
+            5,
+            1
+        ],
+        "Arctic Warbler": [
+            6,
+            -1
+        ],
+        "Ash-throated Flycatcher": [
+            3,
+            3
+        ],
+        "Ashy Storm-Petrel": [
+            5,
+            1
+        ],
+        "Baikal Teal": [
+            6,
+            -1
+        ],
+        "Baird's Sandpiper": [
+            3,
+            3
+        ],
+        "Baird's Sparrow": [
+            6,
+            -1
+        ],
+        "Bald Eagle": [
+            3,
+            3
+        ],
+        "Baltimore Oriole": [
+            5,
+            3
+        ],
+        "Band-rumped Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Band-tailed Pigeon": [
+            2,
+            2
+        ],
+        "Bank Swallow": [
+            5,
+            3
+        ],
+        "Bar-tailed Godwit": [
+            5,
+            1
+        ],
+        "Barn Owl": [
+            3,
+            3
+        ],
+        "Barn Swallow": [
+            2,
+            3
+        ],
+        "Barred Owl": [
+            5,
+            3
+        ],
+        "Barrow's Goldeneye": [
+            5,
+            1
+        ],
+        "Bay-breasted Warbler": [
+            5,
+            3
+        ],
+        "Bell's Sparrow": [
+            3,
+            1
+        ],
+        "Bell's Vireo": [
+            3,
+            3
+        ],
+        "Belted Kingfisher": [
+            2,
+            3
+        ],
+        "Bendire's Thrasher": [
+            5,
+            1
+        ],
+        "Bewick's Wren": [
+            1,
+            3
+        ],
+        "Black Oystercatcher": [
+            2,
+            1
+        ],
+        "Black Phoebe": [
+            1,
+            2
+        ],
+        "Black Rail": [
+            5,
+            3
+        ],
+        "Black Rosy-Finch": [
+            6,
+            -1
+        ],
+        "Black Scoter": [
+            5,
+            3
+        ],
+        "Black Skimmer": [
+            3,
+            3
+        ],
+        "Black Storm-Petrel": [
+            5,
+            1
+        ],
+        "Black Swift": [
+            5,
+            1
+        ],
+        "Black Tern": [
+            5,
+            3
+        ],
+        "Black Turnstone": [
+            2,
+            1
+        ],
+        "Black Vulture": [
+            5,
+            3
+        ],
+        "Black-and-white Warbler": [
+            5,
+            3
+        ],
+        "Black-backed Woodpecker": [
+            5,
+            1
+        ],
+        "Black-bellied Plover": [
+            2,
+            3
+        ],
+        "Black-bellied Whistling-Duck": [
+            6,
+            -1
+        ],
+        "Black-billed Cuckoo": [
+            6,
+            -1
+        ],
+        "Black-billed Magpie": [
+            4,
+            1
+        ],
+        "Black-capped Chickadee": [
+            3,
+            1
+        ],
+        "Black-chinned Hummingbird": [
+            3,
+            3
+        ],
+        "Black-chinned Sparrow": [
+            5,
+            2
+        ],
+        "Black-crowned Night-Heron": [
+            2,
+            3
+        ],
+        "Black-footed Albatross": [
+            5,
+            1
+        ],
+        "Black-headed Grosbeak": [
+            3,
+            3
+        ],
+        "Black-headed Gull": [
+            6,
+            -1
+        ],
+        "Black-legged Kittiwake": [
+            5,
+            2
+        ],
+        "Black-necked Stilt": [
+            2,
+            3
+        ],
+        "Black-tailed Gnatcatcher": [
+            5,
+            2
+        ],
+        "Black-tailed Gull": [
+            6,
+            -1
+        ],
+        "Black-throated Blue Warbler": [
+            5,
+            3
+        ],
+        "Black-throated Gray Warbler": [
+            3,
+            3
+        ],
+        "Black-throated Green Warbler": [
+            5,
+            3
+        ],
+        "Black-throated Magpie-Jay": [
+            5,
+            1
+        ],
+        "Black-throated Sparrow": [
+            3,
+            2
+        ],
+        "Black-vented Shearwater": [
+            3,
+            1
+        ],
+        "Blackburnian Warbler": [
+            5,
+            3
+        ],
+        "Blackpoll Warbler": [
+            5,
+            3
+        ],
+        "Blue Grosbeak": [
+            3,
+            3
+        ],
+        "Blue Jay": [
+            6,
+            -1
+        ],
+        "Blue-crowned Parakeet": [
+            6,
+            -1
+        ],
+        "Blue-footed Booby": [
+            5,
+            1
+        ],
+        "Blue-gray Gnatcatcher": [
+            2,
+            3
+        ],
+        "Blue-headed Vireo": [
+            6,
+            -1
+        ],
+        "Blue-throated Mountain-gem": [
+            6,
+            -1
+        ],
+        "Blue-winged Teal": [
+            3,
+            3
+        ],
+        "Blue-winged Warbler": [
+            6,
+            -1
+        ],
+        "Bluethroat": [
+            6,
+            -1
+        ],
+        "Bobolink": [
+            5,
+            2
+        ],
+        "Bohemian Waxwing": [
+            6,
+            -1
+        ],
+        "Bonaparte's Gull": [
+            3,
+            3
+        ],
+        "Brambling": [
+            6,
+            -1
+        ],
+        "Brandt's Cormorant": [
+            2,
+            1
+        ],
+        "Brant": [
+            3,
+            1
+        ],
+        "Brewer's Blackbird": [
+            1,
+            3
+        ],
+        "Brewer's Sparrow": [
+            3,
+            2
+        ],
+        "Bridled Tern": [
+            6,
+            -1
+        ],
+        "Broad-billed Hummingbird": [
+            6,
+            -1
+        ],
+        "Broad-tailed Hummingbird": [
+            5,
+            3
+        ],
+        "Broad-winged Hawk": [
+            5,
+            3
+        ],
+        "Bronze Mannikin": [
+            5,
+            2
+        ],
+        "Bronzed Cowbird": [
+            5,
+            3
+        ],
+        "Brown Booby": [
+            5,
+            3
+        ],
+        "Brown Creeper": [
+            2,
+            3
+        ],
+        "Brown Pelican": [
+            2,
+            3
+        ],
+        "Brown Shrike": [
+            6,
+            -1
+        ],
+        "Brown Thrasher": [
+            5,
+            3
+        ],
+        "Brown-crested Flycatcher": [
+            5,
+            3
+        ],
+        "Brown-headed Cowbird": [
+            2,
+            3
+        ],
+        "Buff-breasted Flycatcher": [
+            6,
+            -1
+        ],
+        "Buff-breasted Sandpiper": [
+            6,
+            -1
+        ],
+        "Bufflehead": [
+            2,
+            3
+        ],
+        "Buller's Shearwater": [
+            5,
+            1
+        ],
+        "Bullock's Oriole": [
+            3,
+            3
+        ],
+        "Burrowing Owl": [
+            3,
+            3
+        ],
+        "Bushtit": [
+            1,
+            2
+        ],
+        "Cackling Goose": [
+            3,
+            3
+        ],
+        "Cactus Wren": [
+            3,
+            2
+        ],
+        "California Condor": [
+            5,
+            1
+        ],
+        "California Gnatcatcher": [
+            4,
+            1
+        ],
+        "California Gull": [
+            2,
+            3
+        ],
+        "California Quail": [
+            2,
+            1
+        ],
+        "California Scrub-Jay": [
+            1,
+            1
+        ],
+        "California Thrasher": [
+            2,
+            1
+        ],
+        "California Towhee": [
+            1,
+            1
+        ],
+        "Calliope Hummingbird": [
+            3,
+            3
+        ],
+        "Canada Goose": [
+            1,
+            3
+        ],
+        "Canada Jay": [
+            5,
+            1
+        ],
+        "Canada Warbler": [
+            6,
+            -1
+        ],
+        "Canvasback": [
+            3,
+            3
+        ],
+        "Canyon Wren": [
+            3,
+            2
+        ],
+        "Cape May Warbler": [
+            6,
+            -1
+        ],
+        "Caspian Tern": [
+            2,
+            3
+        ],
+        "Cassin's Auklet": [
+            5,
+            1
+        ],
+        "Cassin's Finch": [
+            3,
+            2
+        ],
+        "Cassin's Kingbird": [
+            2,
+            2
+        ],
+        "Cassin's Sparrow": [
+            6,
+            -1
+        ],
+        "Cassin's Vireo": [
+            3,
+            2
+        ],
+        "Cattle Egret": [
+            4,
+            3
+        ],
+        "Cave Swallow": [
+            6,
+            -1
+        ],
+        "Cedar Waxwing": [
+            2,
+            3
+        ],
+        "Cerulean Warbler": [
+            6,
+            -1
+        ],
+        "Chatham Albatross": [
+            6,
+            -1
+        ],
+        "Chestnut-backed Chickadee": [
+            1,
+            1
+        ],
+        "Chestnut-collared Longspur": [
+            5,
+            2
+        ],
+        "Chestnut-sided Warbler": [
+            5,
+            3
+        ],
+        "Chimney Swift": [
+            6,
+            -1
+        ],
+        "Chipping Sparrow": [
+            2,
+            3
+        ],
+        "Chukar": [
+            5,
+            1
+        ],
+        "Cinnamon Teal": [
+            2,
+            3
+        ],
+        "Cinnamon-rumped Seedeater": [
+            6,
+            -1
+        ],
+        "Citrine Wagtail": [
+            6,
+            -1
+        ],
+        "Clark's Grebe": [
+            2,
+            2
+        ],
+        "Clark's Nutcracker": [
+            3,
+            1
+        ],
+        "Clay-colored Sparrow": [
+            5,
+            3
+        ],
+        "Cliff Swallow": [
+            2,
+            3
+        ],
+        "Common Black Hawk": [
+            6,
+            -1
+        ],
+        "Common Crane": [
+            6,
+            -1
+        ],
+        "Common Cuckoo": [
+            6,
+            -1
+        ],
+        "Common Eider": [
+            6,
+            -1
+        ],
+        "Common Gallinule": [
+            2,
+            3
+        ],
+        "Common Goldeneye": [
+            3,
+            3
+        ],
+        "Common Grackle": [
+            6,
+            -1
+        ],
+        "Common Greenshank": [
+            6,
+            -1
+        ],
+        "Common Ground Dove": [
+            5,
+            3
+        ],
+        "Common Loon": [
+            2,
+            3
+        ],
+        "Common Merganser": [
+            2,
+            2
+        ],
+        "Common Murre": [
+            3,
+            1
+        ],
+        "Common Nighthawk": [
+            5,
+            3
+        ],
+        "Common Pochard": [
+            6,
+            -1
+        ],
+        "Common Poorwill": [
+            5,
+            2
+        ],
+        "Common Raven": [
+            1,
+            2
+        ],
+        "Common Redpoll": [
+            6,
+            -1
+        ],
+        "Common Ringed Plover": [
+            6,
+            -1
+        ],
+        "Common Rosefinch": [
+            6,
+            -1
+        ],
+        "Common Scoter": [
+            6,
+            -1
+        ],
+        "Common Shelduck": [
+            6,
+            -1
+        ],
+        "Common Snipe": [
+            6,
+            -1
+        ],
+        "Common Swift": [
+            6,
+            -1
+        ],
+        "Common Tern": [
+            5,
+            3
+        ],
+        "Common Yellowthroat": [
+            2,
+            3
+        ],
+        "Connecticut Warbler": [
+            6,
+            -1
+        ],
+        "Cook's Petrel": [
+            6,
+            -1
+        ],
+        "Cooper's Hawk": [
+            2,
+            3
+        ],
+        "Cordilleran Flycatcher": [
+            6,
+            -1
+        ],
+        "Cory's Shearwater": [
+            6,
+            -1
+        ],
+        "Costa's Hummingbird": [
+            3,
+            1
+        ],
+        "Couch's Kingbird": [
+            6,
+            -1
+        ],
+        "Craveri's Murrelet": [
+            5,
+            1
+        ],
+        "Crested Caracara": [
+            5,
+            3
+        ],
+        "Crissal Thrasher": [
+            5,
+            2
+        ],
+        "Curlew Sandpiper": [
+            6,
+            -1
+        ],
+        "Curve-billed Thrasher": [
+            5,
+            2
+        ],
+        "Dark-eyed Junco": [
+            1,
+            3
+        ],
+        "Demoiselle Crane": [
+            6,
+            -1
+        ],
+        "Dickcissel": [
+            6,
+            -1
+        ],
+        "Double-crested Cormorant": [
+            1,
+            3
+        ],
+        "Downy Woodpecker": [
+            2,
+            3
+        ],
+        "Dunlin": [
+            2,
+            3
+        ],
+        "Dusky Flycatcher": [
+            3,
+            2
+        ],
+        "Dusky Warbler": [
+            6,
+            -1
+        ],
+        "Dusky-capped Flycatcher": [
+            5,
+            2
+        ],
+        "Eared Grebe": [
+            2,
+            3
+        ],
+        "Eastern Kingbird": [
+            5,
+            3
+        ],
+        "Eastern Meadowlark": [
+            6,
+            -1
+        ],
+        "Eastern Phoebe": [
+            5,
+            3
+        ],
+        "Eastern Whip-poor-will": [
+            6,
+            -1
+        ],
+        "Eastern Wood-Pewee": [
+            6,
+            -1
+        ],
+        "Eastern Yellow Wagtail": [
+            6,
+            -1
+        ],
+        "Egyptian Goose": [
+            4,
+            2
+        ],
+        "Elegant Tern": [
+            3,
+            1
+        ],
+        "Elf Owl": [
+            6,
+            -1
+        ],
+        "Emperor Goose": [
+            6,
+            -1
+        ],
+        "Eurasian Collared-Dove": [
+            1,
+            3
+        ],
+        "Eurasian Dotterel": [
+            6,
+            -1
+        ],
+        "Eurasian Kestrel": [
+            6,
+            -1
+        ],
+        "Eurasian Skylark": [
+            6,
+            -1
+        ],
+        "Eurasian Wigeon": [
+            3,
+            1
+        ],
+        "Eurasian Wryneck": [
+            6,
+            -1
+        ],
+        "European Goldfinch": [
+            5,
+            1
+        ],
+        "European Starling": [
+            1,
+            3
+        ],
+        "Evening Grosbeak": [
+            5,
+            1
+        ],
+        "Eyebrowed Thrush": [
+            6,
+            -1
+        ],
+        "Falcated Duck": [
+            6,
+            -1
+        ],
+        "Ferruginous Hawk": [
+            3,
+            3
+        ],
+        "Field Sparrow": [
+            6,
+            -1
+        ],
+        "Flammulated Owl": [
+            5,
+            2
+        ],
+        "Flesh-footed Shearwater": [
+            5,
+            1
+        ],
+        "Fork-tailed Flycatcher": [
+            6,
+            -1
+        ],
+        "Fork-tailed Storm-Petrel": [
+            5,
+            1
+        ],
+        "Forster's Tern": [
+            2,
+            3
+        ],
+        "Fox Sparrow": [
+            2,
+            3
+        ],
+        "Franklin's Gull": [
+            5,
+            3
+        ],
+        "Fulvous Whistling-Duck": [
+            6,
+            -1
+        ],
+        "Gadwall": [
+            2,
+            3
+        ],
+        "Gambel's Quail": [
+            3,
+            2
+        ],
+        "Garganey": [
+            5,
+            1
+        ],
+        "Gila Woodpecker": [
+            5,
+            1
+        ],
+        "Gilded Flicker": [
+            6,
+            -1
+        ],
+        "Glaucous Gull": [
+            5,
+            3
+        ],
+        "Glaucous-winged Gull": [
+            3,
+            1
+        ],
+        "Glossy Ibis": [
+            6,
+            -1
+        ],
+        "Golden Eagle": [
+            3,
+            2
+        ],
+        "Golden-crowned Kinglet": [
+            3,
+            3
+        ],
+        "Golden-crowned Sparrow": [
+            2,
+            2
+        ],
+        "Golden-winged Warbler": [
+            6,
+            -1
+        ],
+        "Grace's Warbler": [
+            5,
+            2
+        ],
+        "Grasshopper Sparrow": [
+            5,
+            3
+        ],
+        "Gray Catbird": [
+            5,
+            3
+        ],
+        "Gray Flycatcher": [
+            5,
+            2
+        ],
+        "Gray Hawk": [
+            6,
+            -1
+        ],
+        "Gray Vireo": [
+            5,
+            2
+        ],
+        "Gray-cheeked Thrush": [
+            6,
+            -1
+        ],
+        "Gray-crowned Rosy-Finch": [
+            5,
+            1
+        ],
+        "Gray-faced Petrel": [
+            6,
+            -1
+        ],
+        "Great Black-backed Gull": [
+            6,
+            -1
+        ],
+        "Great Blue Heron": [
+            1,
+            3
+        ],
+        "Great Crested Flycatcher": [
+            6,
+            -1
+        ],
+        "Great Egret": [
+            1,
+            3
+        ],
+        "Great Frigatebird": [
+            6,
+            -1
+        ],
+        "Great Gray Owl": [
+            5,
+            1
+        ],
+        "Great Horned Owl": [
+            2,
+            3
+        ],
+        "Great Shearwater": [
+            6,
+            -1
+        ],
+        "Great-tailed Grackle": [
+            2,
+            3
+        ],
+        "Greater Pewee": [
+            6,
+            -1
+        ],
+        "Greater Roadrunner": [
+            3,
+            3
+        ],
+        "Greater Sage-Grouse": [
+            5,
+            1
+        ],
+        "Greater Sand-Plover": [
+            6,
+            -1
+        ],
+        "Greater Scaup": [
+            3,
+            3
+        ],
+        "Greater White-fronted Goose": [
+            2,
+            3
+        ],
+        "Greater Yellowlegs": [
+            2,
+            3
+        ],
+        "Green Heron": [
+            2,
+            3
+        ],
+        "Green-tailed Towhee": [
+            3,
+            3
+        ],
+        "Green-winged Teal": [
+            2,
+            3
+        ],
+        "Groove-billed Ani": [
+            6,
+            -1
+        ],
+        "Guadalupe Murrelet": [
+            6,
+            -1
+        ],
+        "Gull-billed Tern": [
+            5,
+            3
+        ],
+        "Gyrfalcon": [
+            6,
+            -1
+        ],
+        "Hairy Woodpecker": [
+            2,
+            3
+        ],
+        "Hammond's Flycatcher": [
+            3,
+            2
+        ],
+        "Harlequin Duck": [
+            5,
+            1
+        ],
+        "Harris's Hawk": [
+            5,
+            2
+        ],
+        "Harris's Sparrow": [
+            5,
+            3
+        ],
+        "Hawaiian Petrel": [
+            6,
+            -1
+        ],
+        "Hawfinch": [
+            6,
+            -1
+        ],
+        "Heermann's Gull": [
+            2,
+            1
+        ],
+        "Hepatic Tanager": [
+            5,
+            2
+        ],
+        "Hermit Thrush": [
+            2,
+            3
+        ],
+        "Hermit Warbler": [
+            3,
+            1
+        ],
+        "Herring Gull": [
+            3,
+            3
+        ],
+        "Hooded Merganser": [
+            3,
+            3
+        ],
+        "Hooded Oriole": [
+            3,
+            2
+        ],
+        "Hooded Warbler": [
+            5,
+            3
+        ],
+        "Horned Grebe": [
+            3,
+            3
+        ],
+        "Horned Lark": [
+            2,
+            3
+        ],
+        "Horned Puffin": [
+            6,
+            -1
+        ],
+        "House Finch": [
+            1,
+            3
+        ],
+        "House Sparrow": [
+            1,
+            3
+        ],
+        "House Wren": [
+            2,
+            3
+        ],
+        "Hudsonian Godwit": [
+            6,
+            -1
+        ],
+        "Hutton's Vireo": [
+            2,
+            2
+        ],
+        "Iceland Gull": [
+            3,
+            3
+        ],
+        "Inca Dove": [
+            5,
+            3
+        ],
+        "Indian Peafowl": [
+            5,
+            1
+        ],
+        "Indigo Bunting": [
+            5,
+            3
+        ],
+        "Island Scrub-Jay": [
+            5,
+            1
+        ],
+        "Ivory Gull": [
+            6,
+            -1
+        ],
+        "Jouanin's Petrel": [
+            6,
+            -1
+        ],
+        "Juniper Titmouse": [
+            5,
+            2
+        ],
+        "Kelp Gull": [
+            6,
+            -1
+        ],
+        "Kentucky Warbler": [
+            6,
+            -1
+        ],
+        "Kermadec Petrel": [
+            6,
+            -1
+        ],
+        "Killdeer": [
+            1,
+            3
+        ],
+        "King Eider": [
+            6,
+            -1
+        ],
+        "Ladder-backed Woodpecker": [
+            5,
+            2
+        ],
+        "Lapland Longspur": [
+            5,
+            2
+        ],
+        "Lark Bunting": [
+            5,
+            2
+        ],
+        "Lark Sparrow": [
+            2,
+            3
+        ],
+        "Laughing Gull": [
+            5,
+            3
+        ],
+        "Lawrence's Goldfinch": [
+            3,
+            1
+        ],
+        "Laysan Albatross": [
+            5,
+            1
+        ],
+        "Lazuli Bunting": [
+            3,
+            2
+        ],
+        "LeConte's Sparrow": [
+            6,
+            -1
+        ],
+        "LeConte's Thrasher": [
+            5,
+            1
+        ],
+        "Leach's Storm-Petrel": [
+            5,
+            1
+        ],
+        "Least Bittern": [
+            5,
+            3
+        ],
+        "Least Flycatcher": [
+            5,
+            3
+        ],
+        "Least Sandpiper": [
+            2,
+            3
+        ],
+        "Least Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Least Tern": [
+            3,
+            3
+        ],
+        "Lesser Black-backed Gull": [
+            5,
+            3
+        ],
+        "Lesser Frigatebird": [
+            6,
+            -1
+        ],
+        "Lesser Goldfinch": [
+            1,
+            2
+        ],
+        "Lesser Nighthawk": [
+            5,
+            2
+        ],
+        "Lesser Sand-Plover": [
+            6,
+            -1
+        ],
+        "Lesser Scaup": [
+            3,
+            3
+        ],
+        "Lesser Yellowlegs": [
+            3,
+            3
+        ],
+        "Lewis's Woodpecker": [
+            4,
+            2
+        ],
+        "Lilac-crowned Parrot": [
+            5,
+            2
+        ],
+        "Lincoln's Sparrow": [
+            2,
+            3
+        ],
+        "Little Blue Heron": [
+            5,
+            3
+        ],
+        "Little Bunting": [
+            6,
+            -1
+        ],
+        "Little Gull": [
+            5,
+            2
+        ],
+        "Little Stint": [
+            6,
+            -1
+        ],
+        "Loggerhead Shrike": [
+            2,
+            3
+        ],
+        "Long-billed Curlew": [
+            2,
+            3
+        ],
+        "Long-billed Dowitcher": [
+            2,
+            3
+        ],
+        "Long-billed Murrelet": [
+            6,
+            -1
+        ],
+        "Long-eared Owl": [
+            5,
+            2
+        ],
+        "Long-tailed Duck": [
+            5,
+            3
+        ],
+        "Long-tailed Jaeger": [
+            5,
+            1
+        ],
+        "Louisiana Waterthrush": [
+            6,
+            -1
+        ],
+        "Lucy's Warbler": [
+            5,
+            2
+        ],
+        "MacGillivray's Warbler": [
+            3,
+            3
+        ],
+        "Magnificent Frigatebird": [
+            6,
+            -1
+        ],
+        "Magnolia Warbler": [
+            5,
+            3
+        ],
+        "Mallard": [
+            1,
+            3
+        ],
+        "Mandarin Duck": [
+            5,
+            1
+        ],
+        "Manx Shearwater": [
+            5,
+            1
+        ],
+        "Marbled Godwit": [
+            2,
+            3
+        ],
+        "Marbled Murrelet": [
+            5,
+            1
+        ],
+        "Marsh Sandpiper": [
+            6,
+            -1
+        ],
+        "Marsh Wren": [
+            2,
+            3
+        ],
+        "Masked Booby": [
+            5,
+            3
+        ],
+        "McCown's Longspur": [
+            6,
+            -1
+        ],
+        "Merlin": [
+            3,
+            3
+        ],
+        "Mew Gull": [
+            3,
+            1
+        ],
+        "Mexican Duck": [
+            6,
+            -1
+        ],
+        "Mexican Whip-poor-will": [
+            6,
+            -1
+        ],
+        "Mississippi Kite": [
+            6,
+            -1
+        ],
+        "Mitred Parakeet": [
+            5,
+            1
+        ],
+        "Monk Parakeet": [
+            6,
+            -1
+        ],
+        "Mottled Petrel": [
+            6,
+            -1
+        ],
+        "Mountain Bluebird": [
+            3,
+            2
+        ],
+        "Mountain Chickadee": [
+            2,
+            2
+        ],
+        "Mountain Plover": [
+            5,
+            2
+        ],
+        "Mountain Quail": [
+            3,
+            1
+        ],
+        "Mourning Dove": [
+            1,
+            3
+        ],
+        "Mourning Warbler": [
+            6,
+            -1
+        ],
+        "Murphy's Petrel": [
+            6,
+            -1
+        ],
+        "Mute Swan": [
+            4,
+            2
+        ],
+        "Nanday Parakeet": [
+            5,
+            1
+        ],
+        "Nashville Warbler": [
+            3,
+            3
+        ],
+        "Nazca Booby": [
+            5,
+            1
+        ],
+        "Nelson's Sparrow": [
+            5,
+            3
+        ],
+        "Neotropic Cormorant": [
+            5,
+            3
+        ],
+        "Newell's Shearwater": [
+            6,
+            -1
+        ],
+        "Northern Cardinal": [
+            5,
+            3
+        ],
+        "Northern Flicker": [
+            1,
+            3
+        ],
+        "Northern Fulmar": [
+            5,
+            1
+        ],
+        "Northern Gannet": [
+            5,
+            3
+        ],
+        "Northern Goshawk": [
+            5,
+            1
+        ],
+        "Northern Harrier": [
+            2,
+            3
+        ],
+        "Northern Mockingbird": [
+            1,
+            3
+        ],
+        "Northern Parula": [
+            5,
+            3
+        ],
+        "Northern Pintail": [
+            2,
+            3
+        ],
+        "Northern Pygmy-Owl": [
+            5,
+            1
+        ],
+        "Northern Red Bishop": [
+            5,
+            2
+        ],
+        "Northern Rough-winged Swallow": [
+            2,
+            3
+        ],
+        "Northern Saw-whet Owl": [
+            5,
+            1
+        ],
+        "Northern Shoveler": [
+            2,
+            3
+        ],
+        "Northern Shrike": [
+            5,
+            1
+        ],
+        "Northern Waterthrush": [
+            5,
+            3
+        ],
+        "Northern Wheatear": [
+            6,
+            -1
+        ],
+        "Nuttall's Woodpecker": [
+            1,
+            1
+        ],
+        "Nutting's Flycatcher": [
+            6,
+            -1
+        ],
+        "Oak Titmouse": [
+            1,
+            1
+        ],
+        "Olive-backed Pipit": [
+            6,
+            -1
+        ],
+        "Olive-sided Flycatcher": [
+            3,
+            2
+        ],
+        "Orange-cheeked Waxbill": [
+            5,
+            1
+        ],
+        "Orange-crowned Warbler": [
+            2,
+            3
+        ],
+        "Orchard Oriole": [
+            5,
+            3
+        ],
+        "Oriental Turtle-Dove": [
+            6,
+            -1
+        ],
+        "Osprey": [
+            2,
+            3
+        ],
+        "Ovenbird": [
+            5,
+            3
+        ],
+        "Pacific Golden-Plover": [
+            5,
+            1
+        ],
+        "Pacific Loon": [
+            3,
+            2
+        ],
+        "Pacific Wren": [
+            3,
+            1
+        ],
+        "Pacific-slope Flycatcher": [
+            2,
+            1
+        ],
+        "Painted Bunting": [
+            5,
+            3
+        ],
+        "Painted Redstart": [
+            5,
+            2
+        ],
+        "Palm Warbler": [
+            3,
+            3
+        ],
+        "Parakeet Auklet": [
+            6,
+            -1
+        ],
+        "Parasitic Jaeger": [
+            3,
+            1
+        ],
+        "Parkinson's Petrel": [
+            6,
+            -1
+        ],
+        "Pectoral Sandpiper": [
+            3,
+            3
+        ],
+        "Pelagic Cormorant": [
+            2,
+            1
+        ],
+        "Peregrine Falcon": [
+            2,
+            3
+        ],
+        "Phainopepla": [
+            2,
+            2
+        ],
+        "Philadelphia Vireo": [
+            6,
+            -1
+        ],
+        "Pied-billed Grebe": [
+            2,
+            3
+        ],
+        "Pigeon Guillemot": [
+            3,
+            1
+        ],
+        "Pileated Woodpecker": [
+            3,
+            3
+        ],
+        "Pin-tailed Whydah": [
+            5,
+            1
+        ],
+        "Pine Grosbeak": [
+            5,
+            1
+        ],
+        "Pine Siskin": [
+            2,
+            3
+        ],
+        "Pine Warbler": [
+            5,
+            3
+        ],
+        "Pink-backed Pelican": [
+            6,
+            -1
+        ],
+        "Pink-footed Shearwater": [
+            3,
+            1
+        ],
+        "Pinyon Jay": [
+            5,
+            1
+        ],
+        "Piping Plover": [
+            6,
+            -1
+        ],
+        "Plumbeous Vireo": [
+            5,
+            2
+        ],
+        "Pomarine Jaeger": [
+            5,
+            3
+        ],
+        "Prairie Falcon": [
+            3,
+            2
+        ],
+        "Prairie Warbler": [
+            5,
+            3
+        ],
+        "Prothonotary Warbler": [
+            5,
+            3
+        ],
+        "Purple Finch": [
+            2,
+            3
+        ],
+        "Purple Gallinule": [
+            6,
+            -1
+        ],
+        "Purple Martin": [
+            5,
+            3
+        ],
+        "Purple Sandpiper": [
+            6,
+            -1
+        ],
+        "Pygmy Nuthatch": [
+            2,
+            2
+        ],
+        "Pyrrhuloxia": [
+            6,
+            -1
+        ],
+        "Red Crossbill": [
+            5,
+            2
+        ],
+        "Red Knot": [
+            5,
+            3
+        ],
+        "Red Phalarope": [
+            5,
+            1
+        ],
+        "Red-billed Tropicbird": [
+            6,
+            -1
+        ],
+        "Red-breasted Merganser": [
+            3,
+            3
+        ],
+        "Red-breasted Nuthatch": [
+            2,
+            3
+        ],
+        "Red-breasted Sapsucker": [
+            2,
+            1
+        ],
+        "Red-crowned Parrot": [
+            3,
+            2
+        ],
+        "Red-eyed Vireo": [
+            5,
+            3
+        ],
+        "Red-faced Warbler": [
+            6,
+            -1
+        ],
+        "Red-flanked Bluetail": [
+            6,
+            -1
+        ],
+        "Red-footed Booby": [
+            5,
+            1
+        ],
+        "Red-legged Kittiwake": [
+            6,
+            -1
+        ],
+        "Red-lored Parrot": [
+            5,
+            2
+        ],
+        "Red-masked Parakeet": [
+            5,
+            1
+        ],
+        "Red-naped Sapsucker": [
+            5,
+            2
+        ],
+        "Red-necked Grebe": [
+            5,
+            1
+        ],
+        "Red-necked Phalarope": [
+            3,
+            2
+        ],
+        "Red-necked Stint": [
+            6,
+            -1
+        ],
+        "Red-shouldered Hawk": [
+            1,
+            3
+        ],
+        "Red-tailed Hawk": [
+            1,
+            3
+        ],
+        "Red-tailed Tropicbird": [
+            6,
+            -1
+        ],
+        "Red-throated Loon": [
+            3,
+            2
+        ],
+        "Red-throated Pipit": [
+            5,
+            1
+        ],
+        "Red-whiskered Bulbul": [
+            5,
+            1
+        ],
+        "Red-winged Blackbird": [
+            1,
+            3
+        ],
+        "Reddish Egret": [
+            5,
+            3
+        ],
+        "Redhead": [
+            3,
+            3
+        ],
+        "Rhinoceros Auklet": [
+            5,
+            1
+        ],
+        "Ridgway's Rail": [
+            4,
+            1
+        ],
+        "Ring-billed Gull": [
+            2,
+            3
+        ],
+        "Ring-necked Duck": [
+            2,
+            3
+        ],
+        "Ring-necked Pheasant": [
+            3,
+            2
+        ],
+        "Ringed Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Rivoli's Hummingbird": [
+            6,
+            -1
+        ],
+        "Rock Pigeon": [
+            1,
+            3
+        ],
+        "Rock Sandpiper": [
+            5,
+            1
+        ],
+        "Rock Wren": [
+            3,
+            2
+        ],
+        "Rose-breasted Grosbeak": [
+            5,
+            3
+        ],
+        "Rose-ringed Parakeet": [
+            5,
+            1
+        ],
+        "Roseate Spoonbill": [
+            6,
+            -1
+        ],
+        "Ross's Goose": [
+            3,
+            3
+        ],
+        "Ross's Gull": [
+            6,
+            -1
+        ],
+        "Rough-legged Hawk": [
+            5,
+            2
+        ],
+        "Royal Tern": [
+            3,
+            3
+        ],
+        "Ruby-crowned Kinglet": [
+            2,
+            3
+        ],
+        "Ruby-throated Hummingbird": [
+            6,
+            -1
+        ],
+        "Ruddy Duck": [
+            2,
+            3
+        ],
+        "Ruddy Ground Dove": [
+            5,
+            1
+        ],
+        "Ruddy Turnstone": [
+            3,
+            3
+        ],
+        "Ruff": [
+            5,
+            1
+        ],
+        "Ruffed Grouse": [
+            5,
+            1
+        ],
+        "Rufous Hummingbird": [
+            3,
+            3
+        ],
+        "Rufous-backed Robin": [
+            6,
+            -1
+        ],
+        "Rufous-crowned Sparrow": [
+            3,
+            2
+        ],
+        "Rustic Bunting": [
+            6,
+            -1
+        ],
+        "Rusty Blackbird": [
+            5,
+            3
+        ],
+        "Sabine's Gull": [
+            5,
+            2
+        ],
+        "Sage Thrasher": [
+            5,
+            2
+        ],
+        "Sagebrush Sparrow": [
+            5,
+            2
+        ],
+        "Salvin's Albatross": [
+            6,
+            -1
+        ],
+        "Sanderling": [
+            2,
+            3
+        ],
+        "Sandhill Crane": [
+            3,
+            3
+        ],
+        "Savannah Sparrow": [
+            2,
+            3
+        ],
+        "Say's Phoebe": [
+            2,
+            3
+        ],
+        "Scaly-breasted Munia": [
+            3,
+            2
+        ],
+        "Scarlet Tanager": [
+            5,
+            3
+        ],
+        "Scissor-tailed Flycatcher": [
+            5,
+            3
+        ],
+        "Scott's Oriole": [
+            5,
+            2
+        ],
+        "Scripps's Murrelet": [
+            5,
+            1
+        ],
+        "Sedge Wren": [
+            6,
+            -1
+        ],
+        "Semipalmated Plover": [
+            3,
+            3
+        ],
+        "Semipalmated Sandpiper": [
+            5,
+            3
+        ],
+        "Sharp-shinned Hawk": [
+            2,
+            3
+        ],
+        "Sharp-tailed Sandpiper": [
+            6,
+            -1
+        ],
+        "Short-billed Dowitcher": [
+            3,
+            3
+        ],
+        "Short-eared Owl": [
+            5,
+            3
+        ],
+        "Short-tailed Albatross": [
+            6,
+            -1
+        ],
+        "Short-tailed Shearwater": [
+            5,
+            1
+        ],
+        "Slaty-backed Gull": [
+            6,
+            -1
+        ],
+        "Smew": [
+            6,
+            -1
+        ],
+        "Smith's Longspur": [
+            6,
+            -1
+        ],
+        "Snow Bunting": [
+            6,
+            -1
+        ],
+        "Snow Goose": [
+            3,
+            3
+        ],
+        "Snowy Egret": [
+            1,
+            3
+        ],
+        "Snowy Owl": [
+            6,
+            -1
+        ],
+        "Snowy Plover": [
+            3,
+            3
+        ],
+        "Solitary Sandpiper": [
+            5,
+            3
+        ],
+        "Song Sparrow": [
+            1,
+            3
+        ],
+        "Sooty Grouse": [
+            5,
+            1
+        ],
+        "Sooty Shearwater": [
+            3,
+            1
+        ],
+        "Sooty Tern": [
+            6,
+            -1
+        ],
+        "Sora": [
+            3,
+            3
+        ],
+        "South Polar Skua": [
+            5,
+            1
+        ],
+        "Spotted Dove": [
+            5,
+            1
+        ],
+        "Spotted Owl": [
+            5,
+            1
+        ],
+        "Spotted Sandpiper": [
+            2,
+            3
+        ],
+        "Spotted Towhee": [
+            1,
+            3
+        ],
+        "Sprague's Pipit": [
+            6,
+            -1
+        ],
+        "Stejneger's Petrel": [
+            6,
+            -1
+        ],
+        "Stejneger's Scoter": [
+            6,
+            -1
+        ],
+        "Steller's Jay": [
+            2,
+            2
+        ],
+        "Stilt Sandpiper": [
+            5,
+            3
+        ],
+        "Streak-backed Oriole": [
+            6,
+            -1
+        ],
+        "Streaked Shearwater": [
+            6,
+            -1
+        ],
+        "Sulphur-bellied Flycatcher": [
+            6,
+            -1
+        ],
+        "Summer Tanager": [
+            5,
+            3
+        ],
+        "Surf Scoter": [
+            2,
+            3
+        ],
+        "Surfbird": [
+            3,
+            1
+        ],
+        "Swainson's Hawk": [
+            3,
+            3
+        ],
+        "Swainson's Thrush": [
+            3,
+            3
+        ],
+        "Swallow-tailed Gull": [
+            6,
+            -1
+        ],
+        "Swallow-tailed Kite": [
+            6,
+            -1
+        ],
+        "Swamp Sparrow": [
+            5,
+            3
+        ],
+        "Swinhoe's White-eye": [
+            5,
+            1
+        ],
+        "Taiga Flycatcher": [
+            6,
+            -1
+        ],
+        "Tennessee Warbler": [
+            5,
+            3
+        ],
+        "Thick-billed Kingbird": [
+            5,
+            1
+        ],
+        "Thick-billed Murre": [
+            6,
+            -1
+        ],
+        "Townsend's Solitaire": [
+            3,
+            2
+        ],
+        "Townsend's Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Townsend's Warbler": [
+            2,
+            2
+        ],
+        "Tree Swallow": [
+            2,
+            3
+        ],
+        "Tricolored Blackbird": [
+            3,
+            1
+        ],
+        "Tricolored Heron": [
+            5,
+            3
+        ],
+        "Tricolored Munia": [
+            6,
+            -1
+        ],
+        "Tristram's Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Tropical Kingbird": [
+            5,
+            3
+        ],
+        "Tropical Parula": [
+            6,
+            -1
+        ],
+        "Trumpeter Swan": [
+            5,
+            1
+        ],
+        "Tufted Duck": [
+            5,
+            1
+        ],
+        "Tufted Puffin": [
+            5,
+            1
+        ],
+        "Tundra Bean-Goose": [
+            6,
+            -1
+        ],
+        "Tundra Swan": [
+            3,
+            1
+        ],
+        "Turkey Vulture": [
+            1,
+            3
+        ],
+        "Turquoise-fronted Parrot": [
+            6,
+            -1
+        ],
+        "Upland Sandpiper": [
+            6,
+            -1
+        ],
+        "Varied Bunting": [
+            6,
+            -1
+        ],
+        "Varied Thrush": [
+            3,
+            2
+        ],
+        "Vaux's Swift": [
+            3,
+            2
+        ],
+        "Veery": [
+            6,
+            -1
+        ],
+        "Verdin": [
+            3,
+            2
+        ],
+        "Vermilion Flycatcher": [
+            3,
+            3
+        ],
+        "Vesper Sparrow": [
+            5,
+            3
+        ],
+        "Violet-crowned Hummingbird": [
+            6,
+            -1
+        ],
+        "Violet-green Swallow": [
+            2,
+            2
+        ],
+        "Virginia Rail": [
+            3,
+            3
+        ],
+        "Virginia's Warbler": [
+            5,
+            2
+        ],
+        "Wandering Tattler": [
+            3,
+            1
+        ],
+        "Warbling Vireo": [
+            2,
+            3
+        ],
+        "Wedge-rumped Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Wedge-tailed Shearwater": [
+            6,
+            -1
+        ],
+        "Western Bluebird": [
+            1,
+            2
+        ],
+        "Western Grebe": [
+            2,
+            3
+        ],
+        "Western Gull": [
+            1,
+            1
+        ],
+        "Western Kingbird": [
+            3,
+            3
+        ],
+        "Western Meadowlark": [
+            2,
+            3
+        ],
+        "Western Sandpiper": [
+            2,
+            3
+        ],
+        "Western Screech-Owl": [
+            4,
+            2
+        ],
+        "Western Tanager": [
+            3,
+            3
+        ],
+        "Western Wood-Pewee": [
+            3,
+            2
+        ],
+        "Whimbrel": [
+            2,
+            3
+        ],
+        "White Ibis": [
+            6,
+            -1
+        ],
+        "White Wagtail": [
+            6,
+            -1
+        ],
+        "White-breasted Nuthatch": [
+            2,
+            3
+        ],
+        "White-chinned Petrel": [
+            6,
+            -1
+        ],
+        "White-crowned Sparrow": [
+            2,
+            3
+        ],
+        "White-eyed Vireo": [
+            6,
+            -1
+        ],
+        "White-faced Ibis": [
+            2,
+            3
+        ],
+        "White-fronted Parrot": [
+            6,
+            -1
+        ],
+        "White-headed Woodpecker": [
+            3,
+            1
+        ],
+        "White-rumped Sandpiper": [
+            6,
+            -1
+        ],
+        "White-tailed Kite": [
+            2,
+            3
+        ],
+        "White-tailed Ptarmigan": [
+            6,
+            -1
+        ],
+        "White-throated Sparrow": [
+            3,
+            3
+        ],
+        "White-throated Swift": [
+            2,
+            2
+        ],
+        "White-winged Crossbill": [
+            6,
+            -1
+        ],
+        "White-winged Dove": [
+            3,
+            3
+        ],
+        "White-winged Parakeet": [
+            6,
+            -1
+        ],
+        "White-winged Scoter": [
+            5,
+            3
+        ],
+        "Whooper Swan": [
+            6,
+            -1
+        ],
+        "Wild Turkey": [
+            2,
+            3
+        ],
+        "Willet": [
+            2,
+            3
+        ],
+        "Williamson's Sapsucker": [
+            5,
+            2
+        ],
+        "Willow Flycatcher": [
+            3,
+            2
+        ],
+        "Wilson's Phalarope": [
+            3,
+            3
+        ],
+        "Wilson's Plover": [
+            6,
+            -1
+        ],
+        "Wilson's Snipe": [
+            3,
+            3
+        ],
+        "Wilson's Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Wilson's Warbler": [
+            2,
+            3
+        ],
+        "Winter Wren": [
+            6,
+            -1
+        ],
+        "Wood Duck": [
+            2,
+            3
+        ],
+        "Wood Sandpiper": [
+            6,
+            -1
+        ],
+        "Wood Stork": [
+            5,
+            3
+        ],
+        "Wood Thrush": [
+            6,
+            -1
+        ],
+        "Woodhouse's Scrub-Jay": [
+            5,
+            2
+        ],
+        "Worm-eating Warbler": [
+            5,
+            3
+        ],
+        "Wrentit": [
+            2,
+            1
+        ],
+        "Yellow Rail": [
+            6,
+            -1
+        ],
+        "Yellow Warbler": [
+            2,
+            3
+        ],
+        "Yellow-bellied Flycatcher": [
+            6,
+            -1
+        ],
+        "Yellow-bellied Sapsucker": [
+            5,
+            3
+        ],
+        "Yellow-billed Cuckoo": [
+            6,
+            -1
+        ],
+        "Yellow-billed Loon": [
+            5,
+            1
+        ],
+        "Yellow-billed Magpie": [
+            2,
+            1
+        ],
+        "Yellow-breasted Chat": [
+            3,
+            3
+        ],
+        "Yellow-browed Warbler": [
+            6,
+            -1
+        ],
+        "Yellow-chevroned Parakeet": [
+            5,
+            1
+        ],
+        "Yellow-crowned Night-Heron": [
+            5,
+            3
+        ],
+        "Yellow-footed Gull": [
+            5,
+            1
+        ],
+        "Yellow-green Vireo": [
+            6,
+            -1
+        ],
+        "Yellow-headed Blackbird": [
+            3,
+            3
+        ],
+        "Yellow-headed Parrot": [
+            5,
+            2
+        ],
+        "Yellow-rumped Warbler": [
+            2,
+            3
+        ],
+        "Yellow-throated Vireo": [
+            5,
+            3
+        ],
+        "Yellow-throated Warbler": [
+            5,
+            3
+        ],
+        "Zone-tailed Hawk": [
+            5,
+            2
+        ]
+    },
     "US-LA": {
-        "Acadian Flycatcher": "Seasonal",
-        "Alder Flycatcher": "Vagrant",
-        "Allen's Hummingbird": "Vagrant",
-        "American Avocet": "Seasonal",
-        "American Bittern": "Rare",
-        "American Black Duck": "Vagrant",
-        "American Coot": "Unusual",
-        "American Crow": "Common",
-        "American Flamingo": "Vagrant",
-        "American Golden-Plover": "Rare",
-        "American Goldfinch": "Seasonal",
-        "American Kestrel": "Seasonal",
-        "American Oystercatcher": "Local",
-        "American Pipit": "Seasonal",
-        "American Redstart": "Seasonal",
-        "American Robin": "Unusual",
-        "American White Pelican": "Seasonal",
-        "American Wigeon": "Seasonal",
-        "American Woodcock": "Rare",
-        "Anhinga": "Common",
-        "Anna's Hummingbird": "Vagrant",
-        "Arctic Tern": "Vagrant",
-        "Ash-throated Flycatcher": "Rare",
-        "Audubon's Shearwater": "Vagrant",
-        "Bachman's Sparrow": "Rare",
-        "Baird's Sandpiper": "Rare",
-        "Baird's Sparrow": "Vagrant",
-        "Bald Eagle": "Seasonal",
-        "Baltimore Oriole": "Seasonal",
-        "Band-rumped Storm-Petrel": "Vagrant",
-        "Bank Swallow": "Rare",
-        "Barn Owl": "Rare",
-        "Barn Swallow": "Seasonal",
-        "Barred Owl": "Unusual",
-        "Bay-breasted Warbler": "Rare",
-        "Bell's Vireo": "Rare",
-        "Belted Kingfisher": "Unusual",
-        "Bewick's Wren": "Rare",
-        "Black Rail": "Rare",
-        "Black Scoter": "Rare",
-        "Black Skimmer": "Seasonal",
-        "Black Tern": "Seasonal",
-        "Black Vulture": "Common",
-        "Black-and-white Warbler": "Seasonal",
-        "Black-bellied Plover": "Unusual",
-        "Black-bellied Whistling-Duck": "Unusual",
-        "Black-billed Cuckoo": "Rare",
-        "Black-capped Vireo": "Vagrant",
-        "Black-chinned Hummingbird": "Rare",
-        "Black-crowned Night-Heron": "Unusual",
-        "Black-headed Grosbeak": "Rare",
-        "Black-headed Gull": "Vagrant",
-        "Black-legged Kittiwake": "Vagrant",
-        "Black-necked Stilt": "Unusual",
-        "Black-throated Blue Warbler": "Rare",
-        "Black-throated Gray Warbler": "Rare",
-        "Black-throated Green Warbler": "Rare",
-        "Black-whiskered Vireo": "Vagrant",
-        "Blackburnian Warbler": "Rare",
-        "Blackpoll Warbler": "Rare",
-        "Blue Grosbeak": "Seasonal",
-        "Blue Jay": "Common",
-        "Blue-gray Gnatcatcher": "Common",
-        "Blue-headed Vireo": "Seasonal",
-        "Blue-winged Teal": "Unusual",
-        "Blue-winged Warbler": "Rare",
-        "Boat-tailed Grackle": "Unusual",
-        "Bobolink": "Rare",
-        "Bonaparte's Gull": "Rare",
-        "Brewer's Blackbird": "Rare",
-        "Brewer's Sparrow": "Vagrant",
-        "Bridled Tern": "Vagrant",
-        "Broad-billed Hummingbird": "Rare",
-        "Broad-tailed Hummingbird": "Rare",
-        "Broad-winged Hawk": "Seasonal",
-        "Bronzed Cowbird": "Seasonal",
-        "Brown Booby": "Rare",
-        "Brown Creeper": "Seasonal",
-        "Brown Pelican": "Unusual",
-        "Brown Thrasher": "Common",
-        "Brown-chested Martin": "Vagrant",
-        "Brown-crested Flycatcher": "Rare",
-        "Brown-headed Cowbird": "Unusual",
-        "Brown-headed Nuthatch": "Unusual",
-        "Buff-bellied Hummingbird": "Rare",
-        "Buff-breasted Sandpiper": "Rare",
-        "Bufflehead": "Seasonal",
-        "Bullock's Oriole": "Rare",
-        "Burrowing Owl": "Rare",
-        "Cackling Goose": "Rare",
-        "California Gull": "Rare",
-        "Calliope Hummingbird": "Rare",
-        "Canada Goose": "Unusual",
-        "Canada Warbler": "Rare",
-        "Canvasback": "Seasonal",
-        "Cape May Warbler": "Vagrant",
-        "Carolina Chickadee": "Common",
-        "Carolina Wren": "Common",
-        "Caspian Tern": "Unusual",
-        "Cassin's Sparrow": "Vagrant",
-        "Cassin's Vireo": "Vagrant",
-        "Cattle Egret": "Unusual",
-        "Cave Swallow": "Rare",
-        "Cedar Waxwing": "Seasonal",
-        "Cerulean Warbler": "Vagrant",
-        "Chestnut-collared Longspur": "Vagrant",
-        "Chestnut-sided Warbler": "Rare",
-        "Chihuahuan Raven": "Vagrant",
-        "Chimney Swift": "Seasonal",
-        "Chipping Sparrow": "Unusual",
-        "Chuck-will's-widow": "Rare",
-        "Cinnamon Teal": "Rare",
-        "Clapper Rail": "Seasonal",
-        "Clay-colored Sparrow": "Rare",
-        "Cliff Swallow": "Seasonal",
-        "Common Gallinule": "Unusual",
-        "Common Goldeneye": "Rare",
-        "Common Grackle": "Common",
-        "Common Ground Dove": "Rare",
-        "Common Loon": "Seasonal",
-        "Common Merganser": "Vagrant",
-        "Common Nighthawk": "Seasonal",
-        "Common Tern": "Rare",
-        "Common Yellowthroat": "Unusual",
-        "Connecticut Warbler": "Vagrant",
-        "Cooper's Hawk": "Unusual",
-        "Cordilleran Flycatcher": "Vagrant",
-        "Cory's Shearwater": "Vagrant",
-        "Couch's Kingbird": "Rare",
-        "Crested Caracara": "Local",
-        "Crowned Slaty Flycatcher": "Vagrant",
-        "Curlew Sandpiper": "Vagrant",
-        "Curve-billed Thrasher": "Vagrant",
-        "Dark-eyed Junco": "Seasonal",
-        "Dickcissel": "Seasonal",
-        "Double-crested Cormorant": "Unusual",
-        "Downy Woodpecker": "Common",
-        "Dunlin": "Seasonal",
-        "Dusky-capped Flycatcher": "Vagrant",
-        "Eared Grebe": "Rare",
-        "Eastern Bluebird": "Common",
-        "Eastern Kingbird": "Seasonal",
-        "Eastern Meadowlark": "Unusual",
-        "Eastern Phoebe": "Seasonal",
-        "Eastern Screech-Owl": "Seasonal",
-        "Eastern Towhee": "Unusual",
-        "Eastern Whip-poor-will": "Rare",
-        "Eastern Wood-Pewee": "Seasonal",
-        "Eurasian Collared-Dove": "Unusual",
-        "Eurasian Wigeon": "Vagrant",
-        "European Starling": "Common",
-        "Ferruginous Hawk": "Rare",
-        "Field Sparrow": "Seasonal",
-        "Fish Crow": "Common",
-        "Flammulated Owl": "Vagrant",
-        "Fork-tailed Flycatcher": "Vagrant",
-        "Forster's Tern": "Unusual",
-        "Fox Sparrow": "Rare",
-        "Franklin's Gull": "Rare",
-        "Fulvous Whistling-Duck": "Local",
-        "Gadwall": "Seasonal",
-        "Glaucous Gull": "Rare",
-        "Glossy Ibis": "Local",
-        "Golden Eagle": "Vagrant",
-        "Golden-crowned Kinglet": "Seasonal",
-        "Golden-crowned Sparrow": "Vagrant",
-        "Golden-winged Warbler": "Rare",
-        "Grasshopper Sparrow": "Rare",
-        "Gray Catbird": "Unusual",
-        "Gray Flycatcher": "Vagrant",
-        "Gray Kingbird": "Vagrant",
-        "Gray-cheeked Thrush": "Vagrant",
-        "Great Black-backed Gull": "Rare",
-        "Great Blue Heron": "Common",
-        "Great Crested Flycatcher": "Seasonal",
-        "Great Egret": "Common",
-        "Great Horned Owl": "Seasonal",
-        "Great Kiskadee": "Rare",
-        "Great Shearwater": "Vagrant",
-        "Great-tailed Grackle": "Seasonal",
-        "Greater Roadrunner": "Rare",
-        "Greater Scaup": "Rare",
-        "Greater White-fronted Goose": "Seasonal",
-        "Greater Yellowlegs": "Unusual",
-        "Green Heron": "Seasonal",
-        "Green-breasted Mango": "Vagrant",
-        "Green-tailed Towhee": "Rare",
-        "Green-winged Teal": "Seasonal",
-        "Groove-billed Ani": "Rare",
-        "Gull-billed Tern": "Seasonal",
-        "Hairy Woodpecker": "Unusual",
-        "Harris's Hawk": "Vagrant",
-        "Harris's Sparrow": "Rare",
-        "Henslow's Sparrow": "Rare",
-        "Hermit Thrush": "Seasonal",
-        "Herring Gull": "Seasonal",
-        "Hooded Merganser": "Seasonal",
-        "Hooded Warbler": "Seasonal",
-        "Horned Grebe": "Rare",
-        "Horned Lark": "Rare",
-        "House Finch": "Common",
-        "House Sparrow": "Common",
-        "House Wren": "Seasonal",
-        "Hudsonian Godwit": "Vagrant",
-        "Iceland Gull": "Rare",
-        "Inca Dove": "Unusual",
-        "Indigo Bunting": "Seasonal",
-        "Jabiru": "Vagrant",
-        "Kentucky Warbler": "Seasonal",
-        "Killdeer": "Common",
-        "King Rail": "Local",
-        "Ladder-backed Woodpecker": "Vagrant",
-        "Lapland Longspur": "Vagrant",
-        "Lark Bunting": "Vagrant",
-        "Lark Sparrow": "Rare",
-        "Laughing Gull": "Common",
-        "Lazuli Bunting": "Vagrant",
-        "LeConte's Sparrow": "Rare",
-        "Leach's Storm-Petrel": "Vagrant",
-        "Least Bittern": "Seasonal",
-        "Least Flycatcher": "Rare",
-        "Least Sandpiper": "Unusual",
-        "Least Tern": "Seasonal",
-        "Lesser Black-backed Gull": "Rare",
-        "Lesser Goldfinch": "Vagrant",
-        "Lesser Nighthawk": "Vagrant",
-        "Lesser Scaup": "Seasonal",
-        "Lesser Yellowlegs": "Unusual",
-        "Limpkin": "Rare",
-        "Lincoln's Sparrow": "Local",
-        "Little Blue Heron": "Common",
-        "Little Gull": "Vagrant",
-        "Loggerhead Shrike": "Common",
-        "Long-billed Curlew": "Rare",
-        "Long-billed Dowitcher": "Local",
-        "Long-eared Owl": "Vagrant",
-        "Long-tailed Duck": "Rare",
-        "Long-tailed Jaeger": "Vagrant",
-        "Louisiana Waterthrush": "Rare",
-        "Lucifer Hummingbird": "Vagrant",
-        "Lucy's Warbler": "Vagrant",
-        "MacGillivray's Warbler": "Rare",
-        "Magnificent Frigatebird": "Seasonal",
-        "Magnolia Warbler": "Rare",
-        "Mallard": "Unusual",
-        "Mangrove Cuckoo": "Vagrant",
-        "Marbled Godwit": "Local",
-        "Marsh Wren": "Seasonal",
-        "Masked Booby": "Rare",
-        "Masked Duck": "Vagrant",
-        "Merlin": "Seasonal",
-        "Mew Gull": "Vagrant",
-        "Mexican Violetear": "Vagrant",
-        "Mississippi Kite": "Seasonal",
-        "Monk Parakeet": "Seasonal",
-        "Mottled Duck": "Unusual",
-        "Mountain Bluebird": "Vagrant",
-        "Mountain Plover": "Vagrant",
-        "Mourning Dove": "Common",
-        "Mourning Warbler": "Vagrant",
-        "Nashville Warbler": "Rare",
-        "Nelson's Sparrow": "Rare",
-        "Neotropic Cormorant": "Unusual",
-        "Northern Bobwhite": "Rare",
-        "Northern Cardinal": "Common",
-        "Northern Flicker": "Unusual",
-        "Northern Gannet": "Rare",
-        "Northern Harrier": "Seasonal",
-        "Northern Mockingbird": "Common",
-        "Northern Parula": "Seasonal",
-        "Northern Pintail": "Seasonal",
-        "Northern Rough-winged Swallow": "Seasonal",
-        "Northern Shoveler": "Seasonal",
-        "Northern Waterthrush": "Rare",
-        "Northern Wheatear": "Vagrant",
-        "Olive-sided Flycatcher": "Vagrant",
-        "Orange-crowned Warbler": "Seasonal",
-        "Orchard Oriole": "Seasonal",
-        "Osprey": "Unusual",
-        "Ovenbird": "Rare",
-        "Pacific Loon": "Vagrant",
-        "Pacific-slope Flycatcher": "Vagrant",
-        "Painted Bunting": "Seasonal",
-        "Painted Redstart": "Vagrant",
-        "Palm Warbler": "Seasonal",
-        "Parasitic Jaeger": "Vagrant",
-        "Pectoral Sandpiper": "Seasonal",
-        "Peregrine Falcon": "Seasonal",
-        "Philadelphia Vireo": "Rare",
-        "Pied-billed Grebe": "Unusual",
-        "Pileated Woodpecker": "Common",
-        "Pine Siskin": "Seasonal",
-        "Pine Warbler": "Unusual",
-        "Piping Plover": "Local",
-        "Pomarine Jaeger": "Rare",
-        "Prairie Falcon": "Vagrant",
-        "Prairie Warbler": "Local",
-        "Prothonotary Warbler": "Seasonal",
-        "Purple Finch": "Rare",
-        "Purple Gallinule": "Seasonal",
-        "Purple Martin": "Seasonal",
-        "Purple Sandpiper": "Vagrant",
-        "Pyrrhuloxia": "Vagrant",
-        "Razorbill": "Vagrant",
-        "Red Crossbill": "Vagrant",
-        "Red Knot": "Rare",
-        "Red Phalarope": "Vagrant",
-        "Red-bellied Woodpecker": "Common",
-        "Red-billed Tropicbird": "Vagrant",
-        "Red-breasted Merganser": "Rare",
-        "Red-breasted Nuthatch": "Seasonal",
-        "Red-cockaded Woodpecker": "Local",
-        "Red-eyed Vireo": "Seasonal",
-        "Red-footed Booby": "Vagrant",
-        "Red-headed Woodpecker": "Unusual",
-        "Red-naped Sapsucker": "Vagrant",
-        "Red-necked Grebe": "Vagrant",
-        "Red-necked Phalarope": "Vagrant",
-        "Red-shouldered Hawk": "Common",
-        "Red-tailed Hawk": "Unusual",
-        "Red-throated Loon": "Vagrant",
-        "Red-winged Blackbird": "Common",
-        "Reddish Egret": "Seasonal",
-        "Redhead": "Seasonal",
-        "Ring-billed Gull": "Seasonal",
-        "Ring-necked Duck": "Seasonal",
-        "Ringed Kingfisher": "Rare",
-        "Rivoli's Hummingbird": "Vagrant",
-        "Rock Pigeon": "Unusual",
-        "Rock Wren": "Vagrant",
-        "Rose-breasted Grosbeak": "Rare",
-        "Roseate Spoonbill": "Unusual",
-        "Ross's Goose": "Rare",
-        "Rough-legged Hawk": "Vagrant",
-        "Royal Tern": "Unusual",
-        "Ruby-crowned Kinglet": "Seasonal",
-        "Ruby-throated Hummingbird": "Unusual",
-        "Ruddy Duck": "Seasonal",
-        "Ruddy Turnstone": "Seasonal",
-        "Ruff": "Vagrant",
-        "Rufous Hummingbird": "Seasonal",
-        "Rusty Blackbird": "Rare",
-        "Sabine's Gull": "Vagrant",
-        "Sage Thrasher": "Vagrant",
-        "Sanderling": "Unusual",
-        "Sandhill Crane": "Rare",
-        "Sandwich Tern": "Seasonal",
-        "Savannah Sparrow": "Seasonal",
-        "Say's Phoebe": "Rare",
-        "Scaly-breasted Munia": "Vagrant",
-        "Scarlet Tanager": "Rare",
-        "Scissor-tailed Flycatcher": "Seasonal",
-        "Scott's Oriole": "Vagrant",
-        "Seaside Sparrow": "Seasonal",
-        "Sedge Wren": "Seasonal",
-        "Semipalmated Plover": "Seasonal",
-        "Semipalmated Sandpiper": "Seasonal",
-        "Sharp-shinned Hawk": "Seasonal",
-        "Shiny Cowbird": "Rare",
-        "Short-billed Dowitcher": "Local",
-        "Short-eared Owl": "Rare",
-        "Smith's Longspur": "Vagrant",
-        "Snow Goose": "Seasonal",
-        "Snowy Egret": "Common",
-        "Snowy Plover": "Rare",
-        "Solitary Sandpiper": "Seasonal",
-        "Song Sparrow": "Seasonal",
-        "Sooty Shearwater": "Vagrant",
-        "Sooty Tern": "Rare",
-        "Sora": "Seasonal",
-        "Spotted Sandpiper": "Unusual",
-        "Spotted Towhee": "Rare",
-        "Sprague's Pipit": "Rare",
-        "Stilt Sandpiper": "Local",
-        "Sulphur-bellied Flycatcher": "Vagrant",
-        "Summer Tanager": "Seasonal",
-        "Surf Scoter": "Rare",
-        "Swainson's Hawk": "Rare",
-        "Swainson's Thrush": "Rare",
-        "Swainson's Warbler": "Seasonal",
-        "Swallow-tailed Kite": "Seasonal",
-        "Swamp Sparrow": "Seasonal",
-        "Tennessee Warbler": "Seasonal",
-        "Townsend's Solitaire": "Vagrant",
-        "Townsend's Warbler": "Vagrant",
-        "Tree Swallow": "Unusual",
-        "Tricolored Heron": "Unusual",
-        "Tropical Kingbird": "Rare",
-        "Trumpeter Swan": "Vagrant",
-        "Tufted Titmouse": "Common",
-        "Tundra Swan": "Vagrant",
-        "Turkey Vulture": "Common",
-        "Upland Sandpiper": "Rare",
-        "Varied Bunting": "Vagrant",
-        "Vaux's Swift": "Rare",
-        "Veery": "Vagrant",
-        "Vermilion Flycatcher": "Rare",
-        "Vesper Sparrow": "Rare",
-        "Virginia Rail": "Local",
-        "Warbling Vireo": "Rare",
-        "Western Grebe": "Rare",
-        "Western Kingbird": "Rare",
-        "Western Meadowlark": "Rare",
-        "Western Sandpiper": "Seasonal",
-        "Western Tanager": "Rare",
-        "Western Wood-Pewee": "Vagrant",
-        "Whimbrel": "Rare",
-        "White Ibis": "Common",
-        "White-breasted Nuthatch": "Seasonal",
-        "White-crowned Sparrow": "Seasonal",
-        "White-eyed Vireo": "Unusual",
-        "White-faced Ibis": "Unusual",
-        "White-rumped Sandpiper": "Vagrant",
-        "White-tailed Hawk": "Rare",
-        "White-tailed Kite": "Rare",
-        "White-throated Sparrow": "Seasonal",
-        "White-winged Dove": "Unusual",
-        "White-winged Scoter": "Rare",
-        "Whooping Crane": "Rare",
-        "Wild Turkey": "Rare",
-        "Willet": "Unusual",
-        "Willow Flycatcher": "Vagrant",
-        "Wilson's Phalarope": "Rare",
-        "Wilson's Plover": "Seasonal",
-        "Wilson's Snipe": "Seasonal",
-        "Wilson's Storm-Petrel": "Vagrant",
-        "Wilson's Warbler": "Seasonal",
-        "Winter Wren": "Seasonal",
-        "Wood Duck": "Unusual",
-        "Wood Stork": "Seasonal",
-        "Wood Thrush": "Seasonal",
-        "Worm-eating Warbler": "Rare",
-        "Yellow Rail": "Rare",
-        "Yellow Warbler": "Seasonal",
-        "Yellow-bellied Flycatcher": "Rare",
-        "Yellow-bellied Sapsucker": "Seasonal",
-        "Yellow-billed Cuckoo": "Seasonal",
-        "Yellow-breasted Chat": "Seasonal",
-        "Yellow-crowned Night-Heron": "Seasonal",
-        "Yellow-green Vireo": "Vagrant",
-        "Yellow-headed Blackbird": "Rare",
-        "Yellow-rumped Warbler": "Seasonal",
-        "Yellow-throated Vireo": "Seasonal",
-        "Yellow-throated Warbler": "Seasonal"
+        "Acadian Flycatcher": [
+            3,
+            2
+        ],
+        "Alder Flycatcher": [
+            3,
+            2
+        ],
+        "Allen's Hummingbird": [
+            6,
+            -1
+        ],
+        "American Avocet": [
+            3,
+            3
+        ],
+        "American Bittern": [
+            5,
+            3
+        ],
+        "American Black Duck": [
+            6,
+            -1
+        ],
+        "American Coot": [
+            2,
+            3
+        ],
+        "American Crow": [
+            1,
+            3
+        ],
+        "American Flamingo": [
+            6,
+            -1
+        ],
+        "American Golden-Plover": [
+            3,
+            3
+        ],
+        "American Goldfinch": [
+            3,
+            3
+        ],
+        "American Kestrel": [
+            2,
+            3
+        ],
+        "American Oystercatcher": [
+            3,
+            3
+        ],
+        "American Pipit": [
+            3,
+            3
+        ],
+        "American Redstart": [
+            3,
+            3
+        ],
+        "American Robin": [
+            2,
+            3
+        ],
+        "American White Pelican": [
+            2,
+            3
+        ],
+        "American Wigeon": [
+            3,
+            3
+        ],
+        "American Woodcock": [
+            3,
+            2
+        ],
+        "Anhinga": [
+            1,
+            2
+        ],
+        "Anna's Hummingbird": [
+            6,
+            -1
+        ],
+        "Arctic Tern": [
+            6,
+            -1
+        ],
+        "Ash-throated Flycatcher": [
+            5,
+            3
+        ],
+        "Audubon's Shearwater": [
+            6,
+            -1
+        ],
+        "Bachman's Sparrow": [
+            5,
+            2
+        ],
+        "Baird's Sandpiper": [
+            5,
+            3
+        ],
+        "Baird's Sparrow": [
+            6,
+            -1
+        ],
+        "Bald Eagle": [
+            2,
+            3
+        ],
+        "Baltimore Oriole": [
+            3,
+            3
+        ],
+        "Band-rumped Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Bank Swallow": [
+            3,
+            3
+        ],
+        "Barn Owl": [
+            5,
+            3
+        ],
+        "Barn Swallow": [
+            2,
+            3
+        ],
+        "Barred Owl": [
+            2,
+            3
+        ],
+        "Bay-breasted Warbler": [
+            5,
+            3
+        ],
+        "Bell's Vireo": [
+            5,
+            3
+        ],
+        "Belted Kingfisher": [
+            2,
+            3
+        ],
+        "Bewick's Wren": [
+            5,
+            3
+        ],
+        "Black Rail": [
+            5,
+            3
+        ],
+        "Black Scoter": [
+            5,
+            3
+        ],
+        "Black Skimmer": [
+            2,
+            3
+        ],
+        "Black Tern": [
+            3,
+            3
+        ],
+        "Black Vulture": [
+            1,
+            3
+        ],
+        "Black-and-white Warbler": [
+            3,
+            3
+        ],
+        "Black-bellied Plover": [
+            2,
+            3
+        ],
+        "Black-bellied Whistling-Duck": [
+            2,
+            2
+        ],
+        "Black-billed Cuckoo": [
+            5,
+            2
+        ],
+        "Black-capped Vireo": [
+            6,
+            -1
+        ],
+        "Black-chinned Hummingbird": [
+            3,
+            3
+        ],
+        "Black-crowned Night-Heron": [
+            2,
+            3
+        ],
+        "Black-headed Grosbeak": [
+            5,
+            3
+        ],
+        "Black-headed Gull": [
+            6,
+            -1
+        ],
+        "Black-legged Kittiwake": [
+            6,
+            -1
+        ],
+        "Black-necked Stilt": [
+            2,
+            3
+        ],
+        "Black-throated Blue Warbler": [
+            5,
+            3
+        ],
+        "Black-throated Gray Warbler": [
+            5,
+            3
+        ],
+        "Black-throated Green Warbler": [
+            3,
+            3
+        ],
+        "Black-whiskered Vireo": [
+            6,
+            -1
+        ],
+        "Blackburnian Warbler": [
+            3,
+            3
+        ],
+        "Blackpoll Warbler": [
+            5,
+            3
+        ],
+        "Blue Grosbeak": [
+            2,
+            3
+        ],
+        "Blue Jay": [
+            1,
+            2
+        ],
+        "Blue-gray Gnatcatcher": [
+            1,
+            3
+        ],
+        "Blue-headed Vireo": [
+            2,
+            2
+        ],
+        "Blue-winged Teal": [
+            2,
+            3
+        ],
+        "Blue-winged Warbler": [
+            3,
+            2
+        ],
+        "Boat-tailed Grackle": [
+            2,
+            2
+        ],
+        "Bobolink": [
+            5,
+            2
+        ],
+        "Bonaparte's Gull": [
+            3,
+            3
+        ],
+        "Brewer's Blackbird": [
+            3,
+            3
+        ],
+        "Brewer's Sparrow": [
+            6,
+            -1
+        ],
+        "Bridled Tern": [
+            6,
+            -1
+        ],
+        "Broad-billed Hummingbird": [
+            5,
+            2
+        ],
+        "Broad-tailed Hummingbird": [
+            5,
+            3
+        ],
+        "Broad-winged Hawk": [
+            2,
+            3
+        ],
+        "Bronzed Cowbird": [
+            3,
+            3
+        ],
+        "Brown Booby": [
+            5,
+            3
+        ],
+        "Brown Creeper": [
+            3,
+            3
+        ],
+        "Brown Pelican": [
+            2,
+            3
+        ],
+        "Brown Thrasher": [
+            1,
+            3
+        ],
+        "Brown-chested Martin": [
+            6,
+            -1
+        ],
+        "Brown-crested Flycatcher": [
+            5,
+            3
+        ],
+        "Brown-headed Cowbird": [
+            2,
+            3
+        ],
+        "Brown-headed Nuthatch": [
+            2,
+            2
+        ],
+        "Buff-bellied Hummingbird": [
+            3,
+            2
+        ],
+        "Buff-breasted Sandpiper": [
+            5,
+            2
+        ],
+        "Bufflehead": [
+            3,
+            3
+        ],
+        "Bullock's Oriole": [
+            5,
+            3
+        ],
+        "Burrowing Owl": [
+            5,
+            3
+        ],
+        "Cackling Goose": [
+            5,
+            3
+        ],
+        "California Gull": [
+            5,
+            3
+        ],
+        "Calliope Hummingbird": [
+            3,
+            3
+        ],
+        "Canada Goose": [
+            2,
+            3
+        ],
+        "Canada Warbler": [
+            3,
+            2
+        ],
+        "Canvasback": [
+            3,
+            3
+        ],
+        "Cape May Warbler": [
+            6,
+            -1
+        ],
+        "Carolina Chickadee": [
+            1,
+            2
+        ],
+        "Carolina Wren": [
+            1,
+            2
+        ],
+        "Caspian Tern": [
+            2,
+            3
+        ],
+        "Cassin's Sparrow": [
+            6,
+            -1
+        ],
+        "Cassin's Vireo": [
+            6,
+            -1
+        ],
+        "Cattle Egret": [
+            2,
+            3
+        ],
+        "Cave Swallow": [
+            3,
+            2
+        ],
+        "Cedar Waxwing": [
+            2,
+            3
+        ],
+        "Cerulean Warbler": [
+            6,
+            -1
+        ],
+        "Chestnut-collared Longspur": [
+            6,
+            -1
+        ],
+        "Chestnut-sided Warbler": [
+            3,
+            3
+        ],
+        "Chihuahuan Raven": [
+            6,
+            -1
+        ],
+        "Chimney Swift": [
+            2,
+            2
+        ],
+        "Chipping Sparrow": [
+            2,
+            3
+        ],
+        "Chuck-will's-widow": [
+            3,
+            2
+        ],
+        "Cinnamon Teal": [
+            5,
+            3
+        ],
+        "Clapper Rail": [
+            2,
+            2
+        ],
+        "Clay-colored Sparrow": [
+            5,
+            3
+        ],
+        "Cliff Swallow": [
+            2,
+            3
+        ],
+        "Common Gallinule": [
+            2,
+            3
+        ],
+        "Common Goldeneye": [
+            5,
+            3
+        ],
+        "Common Grackle": [
+            1,
+            2
+        ],
+        "Common Ground Dove": [
+            5,
+            3
+        ],
+        "Common Loon": [
+            3,
+            3
+        ],
+        "Common Merganser": [
+            6,
+            -1
+        ],
+        "Common Nighthawk": [
+            3,
+            3
+        ],
+        "Common Tern": [
+            3,
+            3
+        ],
+        "Common Yellowthroat": [
+            2,
+            3
+        ],
+        "Connecticut Warbler": [
+            6,
+            -1
+        ],
+        "Cooper's Hawk": [
+            2,
+            3
+        ],
+        "Cordilleran Flycatcher": [
+            6,
+            -1
+        ],
+        "Cory's Shearwater": [
+            6,
+            -1
+        ],
+        "Couch's Kingbird": [
+            5,
+            2
+        ],
+        "Crested Caracara": [
+            3,
+            3
+        ],
+        "Crowned Slaty Flycatcher": [
+            6,
+            -1
+        ],
+        "Curlew Sandpiper": [
+            6,
+            -1
+        ],
+        "Curve-billed Thrasher": [
+            6,
+            -1
+        ],
+        "Dark-eyed Junco": [
+            3,
+            3
+        ],
+        "Dickcissel": [
+            3,
+            2
+        ],
+        "Double-crested Cormorant": [
+            2,
+            3
+        ],
+        "Downy Woodpecker": [
+            1,
+            3
+        ],
+        "Dunlin": [
+            2,
+            3
+        ],
+        "Dusky-capped Flycatcher": [
+            6,
+            -1
+        ],
+        "Eared Grebe": [
+            5,
+            3
+        ],
+        "Eastern Bluebird": [
+            1,
+            2
+        ],
+        "Eastern Kingbird": [
+            2,
+            3
+        ],
+        "Eastern Meadowlark": [
+            2,
+            2
+        ],
+        "Eastern Phoebe": [
+            2,
+            3
+        ],
+        "Eastern Screech-Owl": [
+            3,
+            2
+        ],
+        "Eastern Towhee": [
+            2,
+            2
+        ],
+        "Eastern Whip-poor-will": [
+            5,
+            2
+        ],
+        "Eastern Wood-Pewee": [
+            2,
+            2
+        ],
+        "Eurasian Collared-Dove": [
+            2,
+            3
+        ],
+        "Eurasian Wigeon": [
+            6,
+            -1
+        ],
+        "European Starling": [
+            1,
+            3
+        ],
+        "Ferruginous Hawk": [
+            5,
+            3
+        ],
+        "Field Sparrow": [
+            3,
+            2
+        ],
+        "Fish Crow": [
+            1,
+            2
+        ],
+        "Flammulated Owl": [
+            6,
+            -1
+        ],
+        "Fork-tailed Flycatcher": [
+            6,
+            -1
+        ],
+        "Forster's Tern": [
+            2,
+            3
+        ],
+        "Fox Sparrow": [
+            3,
+            3
+        ],
+        "Franklin's Gull": [
+            5,
+            3
+        ],
+        "Fulvous Whistling-Duck": [
+            3,
+            2
+        ],
+        "Gadwall": [
+            3,
+            3
+        ],
+        "Glaucous Gull": [
+            5,
+            3
+        ],
+        "Glossy Ibis": [
+            3,
+            2
+        ],
+        "Golden Eagle": [
+            6,
+            -1
+        ],
+        "Golden-crowned Kinglet": [
+            3,
+            3
+        ],
+        "Golden-crowned Sparrow": [
+            6,
+            -1
+        ],
+        "Golden-winged Warbler": [
+            5,
+            2
+        ],
+        "Grasshopper Sparrow": [
+            5,
+            3
+        ],
+        "Gray Catbird": [
+            2,
+            3
+        ],
+        "Gray Flycatcher": [
+            6,
+            -1
+        ],
+        "Gray Kingbird": [
+            6,
+            -1
+        ],
+        "Gray-cheeked Thrush": [
+            6,
+            -1
+        ],
+        "Great Black-backed Gull": [
+            5,
+            2
+        ],
+        "Great Blue Heron": [
+            1,
+            3
+        ],
+        "Great Crested Flycatcher": [
+            2,
+            2
+        ],
+        "Great Egret": [
+            1,
+            3
+        ],
+        "Great Horned Owl": [
+            2,
+            3
+        ],
+        "Great Kiskadee": [
+            5,
+            2
+        ],
+        "Great Shearwater": [
+            6,
+            -1
+        ],
+        "Great-tailed Grackle": [
+            2,
+            3
+        ],
+        "Greater Roadrunner": [
+            5,
+            3
+        ],
+        "Greater Scaup": [
+            5,
+            3
+        ],
+        "Greater White-fronted Goose": [
+            3,
+            3
+        ],
+        "Greater Yellowlegs": [
+            2,
+            3
+        ],
+        "Green Heron": [
+            2,
+            3
+        ],
+        "Green-breasted Mango": [
+            6,
+            -1
+        ],
+        "Green-tailed Towhee": [
+            5,
+            3
+        ],
+        "Green-winged Teal": [
+            3,
+            3
+        ],
+        "Groove-billed Ani": [
+            5,
+            2
+        ],
+        "Gull-billed Tern": [
+            3,
+            3
+        ],
+        "Hairy Woodpecker": [
+            2,
+            3
+        ],
+        "Harris's Hawk": [
+            6,
+            -1
+        ],
+        "Harris's Sparrow": [
+            5,
+            3
+        ],
+        "Henslow's Sparrow": [
+            5,
+            2
+        ],
+        "Hermit Thrush": [
+            3,
+            3
+        ],
+        "Herring Gull": [
+            2,
+            3
+        ],
+        "Hooded Merganser": [
+            3,
+            3
+        ],
+        "Hooded Warbler": [
+            2,
+            3
+        ],
+        "Horned Grebe": [
+            3,
+            3
+        ],
+        "Horned Lark": [
+            5,
+            3
+        ],
+        "House Finch": [
+            1,
+            3
+        ],
+        "House Sparrow": [
+            1,
+            3
+        ],
+        "House Wren": [
+            2,
+            3
+        ],
+        "Hudsonian Godwit": [
+            6,
+            -1
+        ],
+        "Iceland Gull": [
+            5,
+            3
+        ],
+        "Inca Dove": [
+            2,
+            3
+        ],
+        "Indigo Bunting": [
+            2,
+            3
+        ],
+        "Jabiru": [
+            6,
+            -1
+        ],
+        "Kentucky Warbler": [
+            3,
+            2
+        ],
+        "Killdeer": [
+            1,
+            3
+        ],
+        "King Rail": [
+            3,
+            2
+        ],
+        "Ladder-backed Woodpecker": [
+            6,
+            -1
+        ],
+        "Lapland Longspur": [
+            6,
+            -1
+        ],
+        "Lark Bunting": [
+            6,
+            -1
+        ],
+        "Lark Sparrow": [
+            3,
+            3
+        ],
+        "Laughing Gull": [
+            1,
+            3
+        ],
+        "Lazuli Bunting": [
+            6,
+            -1
+        ],
+        "LeConte's Sparrow": [
+            3,
+            2
+        ],
+        "Leach's Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Least Bittern": [
+            3,
+            3
+        ],
+        "Least Flycatcher": [
+            3,
+            3
+        ],
+        "Least Sandpiper": [
+            2,
+            3
+        ],
+        "Least Tern": [
+            3,
+            3
+        ],
+        "Lesser Black-backed Gull": [
+            3,
+            3
+        ],
+        "Lesser Goldfinch": [
+            6,
+            -1
+        ],
+        "Lesser Nighthawk": [
+            6,
+            -1
+        ],
+        "Lesser Scaup": [
+            3,
+            3
+        ],
+        "Lesser Yellowlegs": [
+            2,
+            3
+        ],
+        "Limpkin": [
+            5,
+            1
+        ],
+        "Lincoln's Sparrow": [
+            3,
+            3
+        ],
+        "Little Blue Heron": [
+            1,
+            3
+        ],
+        "Little Gull": [
+            6,
+            -1
+        ],
+        "Loggerhead Shrike": [
+            1,
+            3
+        ],
+        "Long-billed Curlew": [
+            5,
+            3
+        ],
+        "Long-billed Dowitcher": [
+            3,
+            3
+        ],
+        "Long-eared Owl": [
+            6,
+            -1
+        ],
+        "Long-tailed Duck": [
+            5,
+            3
+        ],
+        "Long-tailed Jaeger": [
+            6,
+            -1
+        ],
+        "Louisiana Waterthrush": [
+            3,
+            2
+        ],
+        "Lucifer Hummingbird": [
+            6,
+            -1
+        ],
+        "Lucy's Warbler": [
+            6,
+            -1
+        ],
+        "MacGillivray's Warbler": [
+            5,
+            3
+        ],
+        "Magnificent Frigatebird": [
+            3,
+            2
+        ],
+        "Magnolia Warbler": [
+            3,
+            3
+        ],
+        "Mallard": [
+            2,
+            3
+        ],
+        "Mangrove Cuckoo": [
+            6,
+            -1
+        ],
+        "Marbled Godwit": [
+            3,
+            3
+        ],
+        "Marsh Wren": [
+            2,
+            3
+        ],
+        "Masked Booby": [
+            5,
+            3
+        ],
+        "Masked Duck": [
+            6,
+            -1
+        ],
+        "Merlin": [
+            3,
+            3
+        ],
+        "Mew Gull": [
+            6,
+            -1
+        ],
+        "Mexican Violetear": [
+            6,
+            -1
+        ],
+        "Mississippi Kite": [
+            3,
+            2
+        ],
+        "Monk Parakeet": [
+            2,
+            2
+        ],
+        "Mottled Duck": [
+            2,
+            2
+        ],
+        "Mountain Bluebird": [
+            6,
+            -1
+        ],
+        "Mountain Plover": [
+            6,
+            -1
+        ],
+        "Mourning Dove": [
+            1,
+            3
+        ],
+        "Mourning Warbler": [
+            6,
+            -1
+        ],
+        "Nashville Warbler": [
+            3,
+            3
+        ],
+        "Nelson's Sparrow": [
+            3,
+            3
+        ],
+        "Neotropic Cormorant": [
+            2,
+            3
+        ],
+        "Northern Bobwhite": [
+            3,
+            2
+        ],
+        "Northern Cardinal": [
+            1,
+            3
+        ],
+        "Northern Flicker": [
+            2,
+            3
+        ],
+        "Northern Gannet": [
+            5,
+            3
+        ],
+        "Northern Harrier": [
+            2,
+            3
+        ],
+        "Northern Mockingbird": [
+            1,
+            3
+        ],
+        "Northern Parula": [
+            2,
+            3
+        ],
+        "Northern Pintail": [
+            3,
+            3
+        ],
+        "Northern Rough-winged Swallow": [
+            2,
+            3
+        ],
+        "Northern Shoveler": [
+            2,
+            3
+        ],
+        "Northern Waterthrush": [
+            3,
+            3
+        ],
+        "Northern Wheatear": [
+            6,
+            -1
+        ],
+        "Olive-sided Flycatcher": [
+            6,
+            -1
+        ],
+        "Orange-crowned Warbler": [
+            2,
+            3
+        ],
+        "Orchard Oriole": [
+            3,
+            3
+        ],
+        "Osprey": [
+            2,
+            3
+        ],
+        "Ovenbird": [
+            3,
+            3
+        ],
+        "Pacific Loon": [
+            6,
+            -1
+        ],
+        "Pacific-slope Flycatcher": [
+            6,
+            -1
+        ],
+        "Painted Bunting": [
+            2,
+            3
+        ],
+        "Painted Redstart": [
+            6,
+            -1
+        ],
+        "Palm Warbler": [
+            2,
+            3
+        ],
+        "Parasitic Jaeger": [
+            6,
+            -1
+        ],
+        "Pectoral Sandpiper": [
+            3,
+            3
+        ],
+        "Peregrine Falcon": [
+            3,
+            3
+        ],
+        "Philadelphia Vireo": [
+            3,
+            2
+        ],
+        "Pied-billed Grebe": [
+            2,
+            3
+        ],
+        "Pileated Woodpecker": [
+            1,
+            3
+        ],
+        "Pine Siskin": [
+            3,
+            3
+        ],
+        "Pine Warbler": [
+            2,
+            3
+        ],
+        "Piping Plover": [
+            3,
+            2
+        ],
+        "Pomarine Jaeger": [
+            5,
+            3
+        ],
+        "Prairie Falcon": [
+            6,
+            -1
+        ],
+        "Prairie Warbler": [
+            3,
+            3
+        ],
+        "Prothonotary Warbler": [
+            2,
+            3
+        ],
+        "Purple Finch": [
+            3,
+            3
+        ],
+        "Purple Gallinule": [
+            3,
+            2
+        ],
+        "Purple Martin": [
+            2,
+            3
+        ],
+        "Purple Sandpiper": [
+            6,
+            -1
+        ],
+        "Pyrrhuloxia": [
+            6,
+            -1
+        ],
+        "Razorbill": [
+            6,
+            -1
+        ],
+        "Red Crossbill": [
+            6,
+            -1
+        ],
+        "Red Knot": [
+            3,
+            3
+        ],
+        "Red Phalarope": [
+            6,
+            -1
+        ],
+        "Red-bellied Woodpecker": [
+            1,
+            2
+        ],
+        "Red-billed Tropicbird": [
+            6,
+            -1
+        ],
+        "Red-breasted Merganser": [
+            3,
+            3
+        ],
+        "Red-breasted Nuthatch": [
+            3,
+            3
+        ],
+        "Red-cockaded Woodpecker": [
+            3,
+            2
+        ],
+        "Red-eyed Vireo": [
+            2,
+            3
+        ],
+        "Red-footed Booby": [
+            6,
+            -1
+        ],
+        "Red-headed Woodpecker": [
+            2,
+            2
+        ],
+        "Red-naped Sapsucker": [
+            6,
+            -1
+        ],
+        "Red-necked Grebe": [
+            6,
+            -1
+        ],
+        "Red-necked Phalarope": [
+            6,
+            -1
+        ],
+        "Red-shouldered Hawk": [
+            1,
+            3
+        ],
+        "Red-tailed Hawk": [
+            2,
+            3
+        ],
+        "Red-throated Loon": [
+            6,
+            -1
+        ],
+        "Red-winged Blackbird": [
+            1,
+            3
+        ],
+        "Reddish Egret": [
+            3,
+            3
+        ],
+        "Redhead": [
+            3,
+            3
+        ],
+        "Ring-billed Gull": [
+            2,
+            3
+        ],
+        "Ring-necked Duck": [
+            3,
+            3
+        ],
+        "Ringed Kingfisher": [
+            5,
+            2
+        ],
+        "Rivoli's Hummingbird": [
+            6,
+            -1
+        ],
+        "Rock Pigeon": [
+            2,
+            3
+        ],
+        "Rock Wren": [
+            6,
+            -1
+        ],
+        "Rose-breasted Grosbeak": [
+            3,
+            3
+        ],
+        "Roseate Spoonbill": [
+            2,
+            2
+        ],
+        "Ross's Goose": [
+            3,
+            3
+        ],
+        "Rough-legged Hawk": [
+            6,
+            -1
+        ],
+        "Royal Tern": [
+            2,
+            3
+        ],
+        "Ruby-crowned Kinglet": [
+            2,
+            3
+        ],
+        "Ruby-throated Hummingbird": [
+            2,
+            2
+        ],
+        "Ruddy Duck": [
+            3,
+            3
+        ],
+        "Ruddy Turnstone": [
+            2,
+            3
+        ],
+        "Ruff": [
+            6,
+            -1
+        ],
+        "Rufous Hummingbird": [
+            3,
+            3
+        ],
+        "Rusty Blackbird": [
+            3,
+            3
+        ],
+        "Sabine's Gull": [
+            6,
+            -1
+        ],
+        "Sage Thrasher": [
+            6,
+            -1
+        ],
+        "Sanderling": [
+            2,
+            3
+        ],
+        "Sandhill Crane": [
+            3,
+            3
+        ],
+        "Sandwich Tern": [
+            3,
+            2
+        ],
+        "Savannah Sparrow": [
+            2,
+            3
+        ],
+        "Say's Phoebe": [
+            5,
+            3
+        ],
+        "Scaly-breasted Munia": [
+            6,
+            -1
+        ],
+        "Scarlet Tanager": [
+            3,
+            3
+        ],
+        "Scissor-tailed Flycatcher": [
+            2,
+            3
+        ],
+        "Scott's Oriole": [
+            6,
+            -1
+        ],
+        "Seaside Sparrow": [
+            3,
+            2
+        ],
+        "Sedge Wren": [
+            3,
+            2
+        ],
+        "Semipalmated Plover": [
+            2,
+            3
+        ],
+        "Semipalmated Sandpiper": [
+            3,
+            3
+        ],
+        "Sharp-shinned Hawk": [
+            3,
+            3
+        ],
+        "Shiny Cowbird": [
+            5,
+            1
+        ],
+        "Short-billed Dowitcher": [
+            3,
+            3
+        ],
+        "Short-eared Owl": [
+            5,
+            3
+        ],
+        "Smith's Longspur": [
+            6,
+            -1
+        ],
+        "Snow Goose": [
+            3,
+            3
+        ],
+        "Snowy Egret": [
+            1,
+            3
+        ],
+        "Snowy Plover": [
+            3,
+            3
+        ],
+        "Solitary Sandpiper": [
+            3,
+            3
+        ],
+        "Song Sparrow": [
+            3,
+            3
+        ],
+        "Sooty Shearwater": [
+            6,
+            -1
+        ],
+        "Sooty Tern": [
+            5,
+            2
+        ],
+        "Sora": [
+            3,
+            3
+        ],
+        "Spotted Sandpiper": [
+            2,
+            3
+        ],
+        "Spotted Towhee": [
+            5,
+            3
+        ],
+        "Sprague's Pipit": [
+            5,
+            2
+        ],
+        "Stilt Sandpiper": [
+            3,
+            3
+        ],
+        "Sulphur-bellied Flycatcher": [
+            6,
+            -1
+        ],
+        "Summer Tanager": [
+            2,
+            3
+        ],
+        "Surf Scoter": [
+            5,
+            3
+        ],
+        "Swainson's Hawk": [
+            5,
+            3
+        ],
+        "Swainson's Thrush": [
+            3,
+            3
+        ],
+        "Swainson's Warbler": [
+            3,
+            2
+        ],
+        "Swallow-tailed Kite": [
+            3,
+            2
+        ],
+        "Swamp Sparrow": [
+            2,
+            3
+        ],
+        "Tennessee Warbler": [
+            3,
+            3
+        ],
+        "Townsend's Solitaire": [
+            6,
+            -1
+        ],
+        "Townsend's Warbler": [
+            6,
+            -1
+        ],
+        "Tree Swallow": [
+            2,
+            3
+        ],
+        "Tricolored Heron": [
+            2,
+            3
+        ],
+        "Tropical Kingbird": [
+            5,
+            3
+        ],
+        "Trumpeter Swan": [
+            6,
+            -1
+        ],
+        "Tufted Titmouse": [
+            1,
+            2
+        ],
+        "Tundra Swan": [
+            6,
+            -1
+        ],
+        "Turkey Vulture": [
+            1,
+            3
+        ],
+        "Upland Sandpiper": [
+            3,
+            2
+        ],
+        "Varied Bunting": [
+            6,
+            -1
+        ],
+        "Vaux's Swift": [
+            5,
+            2
+        ],
+        "Veery": [
+            6,
+            -1
+        ],
+        "Vermilion Flycatcher": [
+            3,
+            3
+        ],
+        "Vesper Sparrow": [
+            3,
+            3
+        ],
+        "Virginia Rail": [
+            3,
+            3
+        ],
+        "Warbling Vireo": [
+            5,
+            3
+        ],
+        "Western Grebe": [
+            5,
+            3
+        ],
+        "Western Kingbird": [
+            5,
+            3
+        ],
+        "Western Meadowlark": [
+            5,
+            3
+        ],
+        "Western Sandpiper": [
+            3,
+            3
+        ],
+        "Western Tanager": [
+            5,
+            3
+        ],
+        "Western Wood-Pewee": [
+            6,
+            -1
+        ],
+        "Whimbrel": [
+            3,
+            3
+        ],
+        "White Ibis": [
+            1,
+            2
+        ],
+        "White-breasted Nuthatch": [
+            3,
+            3
+        ],
+        "White-crowned Sparrow": [
+            2,
+            3
+        ],
+        "White-eyed Vireo": [
+            2,
+            2
+        ],
+        "White-faced Ibis": [
+            2,
+            3
+        ],
+        "White-rumped Sandpiper": [
+            3,
+            2
+        ],
+        "White-tailed Hawk": [
+            5,
+            2
+        ],
+        "White-tailed Kite": [
+            5,
+            3
+        ],
+        "White-throated Sparrow": [
+            2,
+            3
+        ],
+        "White-winged Dove": [
+            2,
+            3
+        ],
+        "White-winged Scoter": [
+            5,
+            3
+        ],
+        "Whooping Crane": [
+            5,
+            2
+        ],
+        "Wild Turkey": [
+            3,
+            3
+        ],
+        "Willet": [
+            2,
+            3
+        ],
+        "Willow Flycatcher": [
+            6,
+            -1
+        ],
+        "Wilson's Phalarope": [
+            5,
+            3
+        ],
+        "Wilson's Plover": [
+            3,
+            2
+        ],
+        "Wilson's Snipe": [
+            3,
+            3
+        ],
+        "Wilson's Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Wilson's Warbler": [
+            3,
+            3
+        ],
+        "Winter Wren": [
+            3,
+            2
+        ],
+        "Wood Duck": [
+            2,
+            3
+        ],
+        "Wood Stork": [
+            3,
+            3
+        ],
+        "Wood Thrush": [
+            3,
+            2
+        ],
+        "Worm-eating Warbler": [
+            3,
+            3
+        ],
+        "Yellow Rail": [
+            5,
+            2
+        ],
+        "Yellow Warbler": [
+            3,
+            3
+        ],
+        "Yellow-bellied Flycatcher": [
+            5,
+            2
+        ],
+        "Yellow-bellied Sapsucker": [
+            2,
+            3
+        ],
+        "Yellow-billed Cuckoo": [
+            2,
+            2
+        ],
+        "Yellow-breasted Chat": [
+            3,
+            3
+        ],
+        "Yellow-crowned Night-Heron": [
+            2,
+            3
+        ],
+        "Yellow-green Vireo": [
+            6,
+            -1
+        ],
+        "Yellow-headed Blackbird": [
+            5,
+            3
+        ],
+        "Yellow-rumped Warbler": [
+            2,
+            3
+        ],
+        "Yellow-throated Vireo": [
+            2,
+            3
+        ],
+        "Yellow-throated Warbler": [
+            3,
+            3
+        ]
+    },
+    "US-TX": {
+        "Acadian Flycatcher": [
+            3,
+            2
+        ],
+        "Acorn Woodpecker": [
+            3,
+            2
+        ],
+        "African Collared-Dove": [
+            6,
+            -1
+        ],
+        "Alder Flycatcher": [
+            5,
+            2
+        ],
+        "Allen's Hummingbird": [
+            5,
+            2
+        ],
+        "Altamira Oriole": [
+            3,
+            1
+        ],
+        "Amazon Kingfisher": [
+            6,
+            -1
+        ],
+        "American Avocet": [
+            2,
+            3
+        ],
+        "American Bittern": [
+            4,
+            3
+        ],
+        "American Black Duck": [
+            6,
+            -1
+        ],
+        "American Coot": [
+            2,
+            3
+        ],
+        "American Crow": [
+            1,
+            3
+        ],
+        "American Dipper": [
+            6,
+            -1
+        ],
+        "American Flamingo": [
+            5,
+            1
+        ],
+        "American Golden-Plover": [
+            3,
+            3
+        ],
+        "American Goldfinch": [
+            3,
+            3
+        ],
+        "American Kestrel": [
+            2,
+            3
+        ],
+        "American Oystercatcher": [
+            3,
+            3
+        ],
+        "American Pipit": [
+            3,
+            3
+        ],
+        "American Redstart": [
+            3,
+            3
+        ],
+        "American Robin": [
+            2,
+            3
+        ],
+        "American Tree Sparrow": [
+            5,
+            1
+        ],
+        "American White Pelican": [
+            2,
+            3
+        ],
+        "American Wigeon": [
+            2,
+            3
+        ],
+        "American Woodcock": [
+            5,
+            2
+        ],
+        "Amethyst-throated Mountain-gem": [
+            6,
+            -1
+        ],
+        "Anhinga": [
+            2,
+            2
+        ],
+        "Anna's Hummingbird": [
+            5,
+            2
+        ],
+        "Aplomado Falcon": [
+            5,
+            1
+        ],
+        "Arctic Tern": [
+            6,
+            -1
+        ],
+        "Ash-throated Flycatcher": [
+            3,
+            3
+        ],
+        "Audubon's Oriole": [
+            3,
+            1
+        ],
+        "Audubon's Shearwater": [
+            6,
+            -1
+        ],
+        "Aztec Thrush": [
+            6,
+            -1
+        ],
+        "Bachman's Sparrow": [
+            5,
+            2
+        ],
+        "Baird's Sandpiper": [
+            3,
+            3
+        ],
+        "Baird's Sparrow": [
+            6,
+            -1
+        ],
+        "Bald Eagle": [
+            3,
+            3
+        ],
+        "Baltimore Oriole": [
+            3,
+            3
+        ],
+        "Band-rumped Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Band-tailed Pigeon": [
+            5,
+            2
+        ],
+        "Bank Swallow": [
+            3,
+            3
+        ],
+        "Bar-tailed Godwit": [
+            6,
+            -1
+        ],
+        "Bare-throated Tiger-Heron": [
+            6,
+            -1
+        ],
+        "Barn Owl": [
+            5,
+            3
+        ],
+        "Barn Swallow": [
+            2,
+            3
+        ],
+        "Barred Owl": [
+            3,
+            3
+        ],
+        "Barrow's Goldeneye": [
+            6,
+            -1
+        ],
+        "Bay-breasted Warbler": [
+            5,
+            3
+        ],
+        "Bell's Vireo": [
+            3,
+            3
+        ],
+        "Belted Kingfisher": [
+            2,
+            3
+        ],
+        "Berylline Hummingbird": [
+            6,
+            -1
+        ],
+        "Bewick's Wren": [
+            2,
+            3
+        ],
+        "Black Phoebe": [
+            3,
+            2
+        ],
+        "Black Rail": [
+            5,
+            3
+        ],
+        "Black Scoter": [
+            5,
+            3
+        ],
+        "Black Skimmer": [
+            3,
+            3
+        ],
+        "Black Swan": [
+            6,
+            -1
+        ],
+        "Black Swift": [
+            6,
+            -1
+        ],
+        "Black Tern": [
+            3,
+            3
+        ],
+        "Black Turnstone": [
+            6,
+            -1
+        ],
+        "Black Vulture": [
+            1,
+            3
+        ],
+        "Black-and-white Warbler": [
+            3,
+            3
+        ],
+        "Black-bellied Plover": [
+            2,
+            3
+        ],
+        "Black-bellied Whistling-Duck": [
+            2,
+            2
+        ],
+        "Black-billed Cuckoo": [
+            5,
+            2
+        ],
+        "Black-billed Magpie": [
+            6,
+            -1
+        ],
+        "Black-capped Vireo": [
+            3,
+            1
+        ],
+        "Black-chinned Hummingbird": [
+            2,
+            3
+        ],
+        "Black-chinned Sparrow": [
+            5,
+            2
+        ],
+        "Black-crested Titmouse": [
+            1,
+            1
+        ],
+        "Black-crowned Night-Heron": [
+            2,
+            3
+        ],
+        "Black-headed Grosbeak": [
+            3,
+            3
+        ],
+        "Black-headed Gull": [
+            6,
+            -1
+        ],
+        "Black-headed Nightingale-Thrush": [
+            6,
+            -1
+        ],
+        "Black-legged Kittiwake": [
+            5,
+            2
+        ],
+        "Black-necked Stilt": [
+            2,
+            3
+        ],
+        "Black-tailed Gnatcatcher": [
+            5,
+            2
+        ],
+        "Black-tailed Godwit": [
+            6,
+            -1
+        ],
+        "Black-tailed Gull": [
+            6,
+            -1
+        ],
+        "Black-throated Blue Warbler": [
+            5,
+            3
+        ],
+        "Black-throated Gray Warbler": [
+            5,
+            3
+        ],
+        "Black-throated Green Warbler": [
+            3,
+            3
+        ],
+        "Black-throated Sparrow": [
+            3,
+            2
+        ],
+        "Black-vented Oriole": [
+            6,
+            -1
+        ],
+        "Black-whiskered Vireo": [
+            6,
+            -1
+        ],
+        "Blackburnian Warbler": [
+            3,
+            3
+        ],
+        "Blackpoll Warbler": [
+            5,
+            3
+        ],
+        "Blue Bunting": [
+            5,
+            1
+        ],
+        "Blue Grosbeak": [
+            3,
+            3
+        ],
+        "Blue Jay": [
+            1,
+            2
+        ],
+        "Blue Mockingbird": [
+            6,
+            -1
+        ],
+        "Blue-gray Gnatcatcher": [
+            2,
+            3
+        ],
+        "Blue-headed Vireo": [
+            2,
+            2
+        ],
+        "Blue-throated Mountain-gem": [
+            5,
+            1
+        ],
+        "Blue-winged Teal": [
+            2,
+            3
+        ],
+        "Blue-winged Warbler": [
+            5,
+            2
+        ],
+        "Boat-tailed Grackle": [
+            3,
+            2
+        ],
+        "Bobolink": [
+            6,
+            -1
+        ],
+        "Bohemian Waxwing": [
+            6,
+            -1
+        ],
+        "Bonaparte's Gull": [
+            3,
+            3
+        ],
+        "Botteri's Sparrow": [
+            5,
+            1
+        ],
+        "Brant": [
+            6,
+            -1
+        ],
+        "Brewer's Blackbird": [
+            3,
+            3
+        ],
+        "Brewer's Sparrow": [
+            5,
+            2
+        ],
+        "Bridled Tern": [
+            6,
+            -1
+        ],
+        "Broad-billed Hummingbird": [
+            5,
+            2
+        ],
+        "Broad-tailed Hummingbird": [
+            5,
+            3
+        ],
+        "Broad-winged Hawk": [
+            3,
+            3
+        ],
+        "Bronze Mannikin": [
+            5,
+            2
+        ],
+        "Bronzed Cowbird": [
+            3,
+            3
+        ],
+        "Brown Booby": [
+            5,
+            3
+        ],
+        "Brown Creeper": [
+            3,
+            3
+        ],
+        "Brown Jay": [
+            5,
+            1
+        ],
+        "Brown Noddy": [
+            6,
+            -1
+        ],
+        "Brown Pelican": [
+            2,
+            3
+        ],
+        "Brown Thrasher": [
+            2,
+            3
+        ],
+        "Brown-crested Flycatcher": [
+            3,
+            3
+        ],
+        "Brown-headed Cowbird": [
+            2,
+            3
+        ],
+        "Brown-headed Nuthatch": [
+            4,
+            2
+        ],
+        "Budgerigar": [
+            6,
+            -1
+        ],
+        "Buff-bellied Hummingbird": [
+            2,
+            2
+        ],
+        "Buff-breasted Flycatcher": [
+            6,
+            -1
+        ],
+        "Buff-breasted Sandpiper": [
+            3,
+            2
+        ],
+        "Bufflehead": [
+            3,
+            3
+        ],
+        "Bullock's Oriole": [
+            3,
+            3
+        ],
+        "Burrowing Owl": [
+            5,
+            3
+        ],
+        "Bushtit": [
+            5,
+            2
+        ],
+        "Cackling Goose": [
+            5,
+            3
+        ],
+        "Cactus Wren": [
+            3,
+            2
+        ],
+        "California Gull": [
+            5,
+            3
+        ],
+        "Calliope Hummingbird": [
+            5,
+            3
+        ],
+        "Canada Goose": [
+            2,
+            3
+        ],
+        "Canada Warbler": [
+            3,
+            2
+        ],
+        "Canvasback": [
+            3,
+            3
+        ],
+        "Canyon Towhee": [
+            3,
+            1
+        ],
+        "Canyon Wren": [
+            3,
+            2
+        ],
+        "Cape May Warbler": [
+            5,
+            1
+        ],
+        "Carolina Chickadee": [
+            1,
+            2
+        ],
+        "Carolina Wren": [
+            1,
+            2
+        ],
+        "Caspian Tern": [
+            2,
+            3
+        ],
+        "Cassin's Finch": [
+            5,
+            2
+        ],
+        "Cassin's Kingbird": [
+            3,
+            2
+        ],
+        "Cassin's Sparrow": [
+            3,
+            1
+        ],
+        "Cassin's Vireo": [
+            5,
+            2
+        ],
+        "Cattle Egret": [
+            2,
+            3
+        ],
+        "Cave Swallow": [
+            2,
+            2
+        ],
+        "Cedar Waxwing": [
+            2,
+            3
+        ],
+        "Cerulean Warbler": [
+            6,
+            -1
+        ],
+        "Chestnut-collared Longspur": [
+            5,
+            2
+        ],
+        "Chestnut-fronted Macaw": [
+            6,
+            -1
+        ],
+        "Chestnut-sided Warbler": [
+            3,
+            3
+        ],
+        "Chihuahuan Raven": [
+            3,
+            1
+        ],
+        "Chimney Swift": [
+            2,
+            2
+        ],
+        "Chipping Sparrow": [
+            2,
+            3
+        ],
+        "Chuck-will's-widow": [
+            3,
+            2
+        ],
+        "Cinnamon Teal": [
+            3,
+            3
+        ],
+        "Clapper Rail": [
+            3,
+            2
+        ],
+        "Clark's Grebe": [
+            5,
+            2
+        ],
+        "Clark's Nutcracker": [
+            6,
+            -1
+        ],
+        "Clay-colored Sparrow": [
+            3,
+            3
+        ],
+        "Clay-colored Thrush": [
+            3,
+            1
+        ],
+        "Cliff Swallow": [
+            2,
+            3
+        ],
+        "Colima Warbler": [
+            5,
+            1
+        ],
+        "Collared Plover": [
+            6,
+            -1
+        ],
+        "Common Black Hawk": [
+            5,
+            1
+        ],
+        "Common Crane": [
+            6,
+            -1
+        ],
+        "Common Eider": [
+            6,
+            -1
+        ],
+        "Common Gallinule": [
+            2,
+            3
+        ],
+        "Common Goldeneye": [
+            3,
+            3
+        ],
+        "Common Grackle": [
+            2,
+            2
+        ],
+        "Common Ground Dove": [
+            2,
+            3
+        ],
+        "Common Loon": [
+            3,
+            3
+        ],
+        "Common Merganser": [
+            5,
+            2
+        ],
+        "Common Nighthawk": [
+            3,
+            3
+        ],
+        "Common Pauraque": [
+            3,
+            1
+        ],
+        "Common Poorwill": [
+            5,
+            2
+        ],
+        "Common Raven": [
+            2,
+            2
+        ],
+        "Common Redpoll": [
+            6,
+            -1
+        ],
+        "Common Tern": [
+            5,
+            3
+        ],
+        "Common Yellowthroat": [
+            2,
+            3
+        ],
+        "Connecticut Warbler": [
+            6,
+            -1
+        ],
+        "Cooper's Hawk": [
+            2,
+            3
+        ],
+        "Cordilleran Flycatcher": [
+            5,
+            1
+        ],
+        "Cory's Shearwater": [
+            6,
+            -1
+        ],
+        "Costa's Hummingbird": [
+            6,
+            -1
+        ],
+        "Couch's Kingbird": [
+            2,
+            2
+        ],
+        "Crested Caracara": [
+            2,
+            3
+        ],
+        "Crimson-collared Grosbeak": [
+            5,
+            1
+        ],
+        "Crissal Thrasher": [
+            5,
+            2
+        ],
+        "Curlew Sandpiper": [
+            6,
+            -1
+        ],
+        "Curve-billed Thrasher": [
+            2,
+            2
+        ],
+        "Dark-eyed Junco": [
+            3,
+            3
+        ],
+        "Dickcissel": [
+            3,
+            2
+        ],
+        "Double-crested Cormorant": [
+            2,
+            3
+        ],
+        "Double-toothed Kite": [
+            6,
+            -1
+        ],
+        "Downy Woodpecker": [
+            1,
+            3
+        ],
+        "Dunlin": [
+            3,
+            3
+        ],
+        "Dusky Flycatcher": [
+            5,
+            2
+        ],
+        "Dusky-capped Flycatcher": [
+            5,
+            2
+        ],
+        "Eared Grebe": [
+            3,
+            3
+        ],
+        "Eastern Bluebird": [
+            2,
+            2
+        ],
+        "Eastern Kingbird": [
+            3,
+            3
+        ],
+        "Eastern Meadowlark": [
+            2,
+            2
+        ],
+        "Eastern Phoebe": [
+            1,
+            3
+        ],
+        "Eastern Screech-Owl": [
+            3,
+            2
+        ],
+        "Eastern Towhee": [
+            5,
+            2
+        ],
+        "Eastern Whip-poor-will": [
+            5,
+            2
+        ],
+        "Eastern Wood-Pewee": [
+            3,
+            2
+        ],
+        "Egyptian Goose": [
+            4,
+            2
+        ],
+        "Elegant Tern": [
+            6,
+            -1
+        ],
+        "Elegant Trogon": [
+            6,
+            -1
+        ],
+        "Elf Owl": [
+            5,
+            1
+        ],
+        "Eurasian Collared-Dove": [
+            2,
+            3
+        ],
+        "Eurasian Wigeon": [
+            6,
+            -1
+        ],
+        "European Goldfinch": [
+            6,
+            -1
+        ],
+        "European Starling": [
+            1,
+            3
+        ],
+        "Evening Grosbeak": [
+            6,
+            -1
+        ],
+        "Fan-tailed Warbler": [
+            6,
+            -1
+        ],
+        "Ferruginous Hawk": [
+            5,
+            3
+        ],
+        "Ferruginous Pygmy-Owl": [
+            5,
+            1
+        ],
+        "Field Sparrow": [
+            2,
+            2
+        ],
+        "Fish Crow": [
+            5,
+            2
+        ],
+        "Flame-colored Tanager": [
+            6,
+            -1
+        ],
+        "Flammulated Owl": [
+            5,
+            2
+        ],
+        "Fork-tailed Flycatcher": [
+            5,
+            1
+        ],
+        "Forster's Tern": [
+            2,
+            3
+        ],
+        "Fox Sparrow": [
+            3,
+            3
+        ],
+        "Franklin's Gull": [
+            3,
+            3
+        ],
+        "Fulvous Whistling-Duck": [
+            3,
+            2
+        ],
+        "Gadwall": [
+            2,
+            3
+        ],
+        "Gambel's Quail": [
+            5,
+            2
+        ],
+        "Garganey": [
+            6,
+            -1
+        ],
+        "Glaucous Gull": [
+            5,
+            3
+        ],
+        "Glaucous-winged Gull": [
+            6,
+            -1
+        ],
+        "Glossy Ibis": [
+            5,
+            2
+        ],
+        "Golden Eagle": [
+            5,
+            2
+        ],
+        "Golden-cheeked Warbler": [
+            3,
+            1
+        ],
+        "Golden-crowned Kinglet": [
+            3,
+            3
+        ],
+        "Golden-crowned Sparrow": [
+            5,
+            2
+        ],
+        "Golden-crowned Warbler": [
+            5,
+            1
+        ],
+        "Golden-fronted Woodpecker": [
+            1,
+            1
+        ],
+        "Golden-winged Warbler": [
+            5,
+            2
+        ],
+        "Grace's Warbler": [
+            5,
+            2
+        ],
+        "Grasshopper Sparrow": [
+            3,
+            3
+        ],
+        "Gray Catbird": [
+            2,
+            3
+        ],
+        "Gray Flycatcher": [
+            5,
+            2
+        ],
+        "Gray Hawk": [
+            3,
+            1
+        ],
+        "Gray Kingbird": [
+            6,
+            -1
+        ],
+        "Gray Vireo": [
+            5,
+            2
+        ],
+        "Gray-cheeked Thrush": [
+            6,
+            -1
+        ],
+        "Gray-crowned Rosy-Finch": [
+            6,
+            -1
+        ],
+        "Gray-crowned Yellowthroat": [
+            5,
+            1
+        ],
+        "Great Black Hawk": [
+            6,
+            -1
+        ],
+        "Great Black-backed Gull": [
+            5,
+            2
+        ],
+        "Great Blue Heron": [
+            1,
+            3
+        ],
+        "Great Crested Flycatcher": [
+            3,
+            2
+        ],
+        "Great Egret": [
+            1,
+            3
+        ],
+        "Great Horned Owl": [
+            2,
+            3
+        ],
+        "Great Kiskadee": [
+            2,
+            2
+        ],
+        "Great Shearwater": [
+            6,
+            -1
+        ],
+        "Great-tailed Grackle": [
+            1,
+            3
+        ],
+        "Greater Flamingo": [
+            6,
+            -1
+        ],
+        "Greater Pewee": [
+            5,
+            1
+        ],
+        "Greater Prairie-Chicken": [
+            5,
+            1
+        ],
+        "Greater Roadrunner": [
+            2,
+            3
+        ],
+        "Greater Scaup": [
+            5,
+            3
+        ],
+        "Greater White-fronted Goose": [
+            3,
+            3
+        ],
+        "Greater Yellowlegs": [
+            2,
+            3
+        ],
+        "Green Heron": [
+            2,
+            3
+        ],
+        "Green Jay": [
+            2,
+            1
+        ],
+        "Green Kingfisher": [
+            3,
+            1
+        ],
+        "Green Parakeet": [
+            5,
+            1
+        ],
+        "Green-breasted Mango": [
+            6,
+            -1
+        ],
+        "Green-tailed Towhee": [
+            5,
+            3
+        ],
+        "Green-winged Teal": [
+            2,
+            3
+        ],
+        "Groove-billed Ani": [
+            3,
+            2
+        ],
+        "Gull-billed Tern": [
+            3,
+            3
+        ],
+        "Gyrfalcon": [
+            6,
+            -1
+        ],
+        "Hairy Woodpecker": [
+            5,
+            3
+        ],
+        "Hammond's Flycatcher": [
+            5,
+            2
+        ],
+        "Harris's Hawk": [
+            2,
+            2
+        ],
+        "Harris's Sparrow": [
+            3,
+            3
+        ],
+        "Heermann's Gull": [
+            6,
+            -1
+        ],
+        "Helmeted Guineafowl": [
+            6,
+            -1
+        ],
+        "Henslow's Sparrow": [
+            5,
+            2
+        ],
+        "Hepatic Tanager": [
+            5,
+            2
+        ],
+        "Hermit Thrush": [
+            3,
+            3
+        ],
+        "Hermit Warbler": [
+            6,
+            -1
+        ],
+        "Herring Gull": [
+            3,
+            3
+        ],
+        "Hooded Merganser": [
+            3,
+            3
+        ],
+        "Hooded Oriole": [
+            3,
+            2
+        ],
+        "Hooded Warbler": [
+            3,
+            3
+        ],
+        "Hook-billed Kite": [
+            5,
+            1
+        ],
+        "Horned Grebe": [
+            5,
+            3
+        ],
+        "Horned Lark": [
+            3,
+            3
+        ],
+        "House Finch": [
+            1,
+            3
+        ],
+        "House Sparrow": [
+            1,
+            3
+        ],
+        "House Wren": [
+            2,
+            3
+        ],
+        "Hudsonian Godwit": [
+            5,
+            1
+        ],
+        "Hutton's Vireo": [
+            5,
+            2
+        ],
+        "Iceland Gull": [
+            5,
+            3
+        ],
+        "Inca Dove": [
+            2,
+            3
+        ],
+        "Indian Peafowl": [
+            6,
+            -1
+        ],
+        "Indigo Bunting": [
+            2,
+            3
+        ],
+        "Jabiru": [
+            6,
+            -1
+        ],
+        "Juniper Titmouse": [
+            5,
+            2
+        ],
+        "Kelp Gull": [
+            6,
+            -1
+        ],
+        "Kentucky Warbler": [
+            3,
+            2
+        ],
+        "Killdeer": [
+            1,
+            3
+        ],
+        "King Eider": [
+            6,
+            -1
+        ],
+        "King Rail": [
+            5,
+            2
+        ],
+        "Ladder-backed Woodpecker": [
+            1,
+            2
+        ],
+        "Lapland Longspur": [
+            5,
+            2
+        ],
+        "Lark Bunting": [
+            4,
+            2
+        ],
+        "Lark Sparrow": [
+            2,
+            3
+        ],
+        "Laughing Gull": [
+            2,
+            3
+        ],
+        "Lawrence's Goldfinch": [
+            6,
+            -1
+        ],
+        "Lazuli Bunting": [
+            5,
+            2
+        ],
+        "LeConte's Sparrow": [
+            5,
+            2
+        ],
+        "Leach's Storm-Petrel": [
+            6,
+            -1
+        ],
+        "Least Bittern": [
+            3,
+            3
+        ],
+        "Least Flycatcher": [
+            3,
+            3
+        ],
+        "Least Grebe": [
+            3,
+            1
+        ],
+        "Least Sandpiper": [
+            2,
+            3
+        ],
+        "Least Tern": [
+            3,
+            3
+        ],
+        "Lesser Black-backed Gull": [
+            5,
+            3
+        ],
+        "Lesser Goldfinch": [
+            2,
+            2
+        ],
+        "Lesser Nighthawk": [
+            3,
+            2
+        ],
+        "Lesser Prairie-Chicken": [
+            6,
+            -1
+        ],
+        "Lesser Scaup": [
+            3,
+            3
+        ],
+        "Lesser Yellowlegs": [
+            2,
+            3
+        ],
+        "Lewis's Woodpecker": [
+            5,
+            2
+        ],
+        "Lilac-crowned Parrot": [
+            5,
+            2
+        ],
+        "Lincoln's Sparrow": [
+            2,
+            3
+        ],
+        "Little Blue Heron": [
+            2,
+            3
+        ],
+        "Little Gull": [
+            5,
+            2
+        ],
+        "Loggerhead Shrike": [
+            2,
+            3
+        ],
+        "Long-billed Curlew": [
+            2,
+            3
+        ],
+        "Long-billed Dowitcher": [
+            2,
+            3
+        ],
+        "Long-billed Thrasher": [
+            2,
+            1
+        ],
+        "Long-eared Owl": [
+            5,
+            2
+        ],
+        "Long-tailed Duck": [
+            5,
+            3
+        ],
+        "Long-tailed Jaeger": [
+            6,
+            -1
+        ],
+        "Louisiana Waterthrush": [
+            3,
+            2
+        ],
+        "Lucifer Hummingbird": [
+            5,
+            1
+        ],
+        "Lucy's Warbler": [
+            5,
+            2
+        ],
+        "MacGillivray's Warbler": [
+            5,
+            3
+        ],
+        "Magnificent Frigatebird": [
+            5,
+            2
+        ],
+        "Magnolia Warbler": [
+            3,
+            3
+        ],
+        "Mallard": [
+            2,
+            3
+        ],
+        "Mangrove Cuckoo": [
+            6,
+            -1
+        ],
+        "Manx Shearwater": [
+            6,
+            -1
+        ],
+        "Marbled Godwit": [
+            3,
+            3
+        ],
+        "Marsh Wren": [
+            3,
+            3
+        ],
+        "Masked Booby": [
+            5,
+            3
+        ],
+        "Masked Duck": [
+            5,
+            1
+        ],
+        "McCown's Longspur": [
+            5,
+            1
+        ],
+        "Merlin": [
+            3,
+            3
+        ],
+        "Mew Gull": [
+            6,
+            -1
+        ],
+        "Mexican Duck": [
+            5,
+            1
+        ],
+        "Mexican Jay": [
+            5,
+            1
+        ],
+        "Mexican Violetear": [
+            6,
+            -1
+        ],
+        "Mexican Whip-poor-will": [
+            5,
+            1
+        ],
+        "Mississippi Kite": [
+            3,
+            2
+        ],
+        "Mitred Parakeet": [
+            6,
+            -1
+        ],
+        "Monk Parakeet": [
+            3,
+            2
+        ],
+        "Montezuma Quail": [
+            5,
+            1
+        ],
+        "Morelet's Seedeater": [
+            5,
+            1
+        ],
+        "Mottled Duck": [
+            2,
+            2
+        ],
+        "Mountain Bluebird": [
+            5,
+            2
+        ],
+        "Mountain Chickadee": [
+            5,
+            2
+        ],
+        "Mountain Plover": [
+            5,
+            2
+        ],
+        "Mourning Dove": [
+            1,
+            3
+        ],
+        "Mourning Warbler": [
+            3,
+            1
+        ],
+        "Muscovy Duck": [
+            5,
+            1
+        ],
+        "Mute Swan": [
+            5,
+            2
+        ],
+        "Nanday Parakeet": [
+            6,
+            -1
+        ],
+        "Nashville Warbler": [
+            3,
+            3
+        ],
+        "Nelson's Sparrow": [
+            5,
+            3
+        ],
+        "Neotropic Cormorant": [
+            2,
+            3
+        ],
+        "Northern Beardless-Tyrannulet": [
+            5,
+            1
+        ],
+        "Northern Bobwhite": [
+            3,
+            2
+        ],
+        "Northern Cardinal": [
+            1,
+            3
+        ],
+        "Northern Flicker": [
+            2,
+            3
+        ],
+        "Northern Gannet": [
+            5,
+            3
+        ],
+        "Northern Goshawk": [
+            6,
+            -1
+        ],
+        "Northern Harrier": [
+            2,
+            3
+        ],
+        "Northern Jacana": [
+            5,
+            1
+        ],
+        "Northern Mockingbird": [
+            1,
+            3
+        ],
+        "Northern Parula": [
+            3,
+            3
+        ],
+        "Northern Pintail": [
+            3,
+            3
+        ],
+        "Northern Pygmy-Owl": [
+            6,
+            -1
+        ],
+        "Northern Red Bishop": [
+            5,
+            2
+        ],
+        "Northern Rough-winged Swallow": [
+            2,
+            3
+        ],
+        "Northern Saw-whet Owl": [
+            6,
+            -1
+        ],
+        "Northern Shoveler": [
+            2,
+            3
+        ],
+        "Northern Shrike": [
+            6,
+            -1
+        ],
+        "Northern Waterthrush": [
+            3,
+            3
+        ],
+        "Northern Wheatear": [
+            6,
+            -1
+        ],
+        "Nutting's Flycatcher": [
+            6,
+            -1
+        ],
+        "Olive Sparrow": [
+            2,
+            1
+        ],
+        "Olive Warbler": [
+            6,
+            -1
+        ],
+        "Olive-sided Flycatcher": [
+            3,
+            2
+        ],
+        "Orange-cheeked Waxbill": [
+            6,
+            -1
+        ],
+        "Orange-crowned Warbler": [
+            2,
+            3
+        ],
+        "Orchard Oriole": [
+            3,
+            3
+        ],
+        "Osprey": [
+            2,
+            3
+        ],
+        "Ovenbird": [
+            3,
+            3
+        ],
+        "Pacific Golden-Plover": [
+            6,
+            -1
+        ],
+        "Pacific Loon": [
+            5,
+            2
+        ],
+        "Pacific-slope Flycatcher": [
+            6,
+            -1
+        ],
+        "Painted Bunting": [
+            3,
+            3
+        ],
+        "Painted Redstart": [
+            5,
+            2
+        ],
+        "Palm Warbler": [
+            5,
+            3
+        ],
+        "Parasitic Jaeger": [
+            6,
+            -1
+        ],
+        "Pectoral Sandpiper": [
+            3,
+            3
+        ],
+        "Peregrine Falcon": [
+            3,
+            3
+        ],
+        "Phainopepla": [
+            5,
+            2
+        ],
+        "Philadelphia Vireo": [
+            3,
+            2
+        ],
+        "Pied-billed Grebe": [
+            2,
+            3
+        ],
+        "Pileated Woodpecker": [
+            2,
+            3
+        ],
+        "Pin-tailed Whydah": [
+            6,
+            -1
+        ],
+        "Pine Grosbeak": [
+            6,
+            -1
+        ],
+        "Pine Siskin": [
+            3,
+            3
+        ],
+        "Pine Warbler": [
+            2,
+            3
+        ],
+        "Pinyon Jay": [
+            6,
+            -1
+        ],
+        "Piping Plover": [
+            3,
+            2
+        ],
+        "Piratic Flycatcher": [
+            6,
+            -1
+        ],
+        "Plain Chachalaca": [
+            2,
+            1
+        ],
+        "Plumbeous Vireo": [
+            5,
+            2
+        ],
+        "Pomarine Jaeger": [
+            5,
+            3
+        ],
+        "Prairie Falcon": [
+            5,
+            2
+        ],
+        "Prairie Warbler": [
+            5,
+            3
+        ],
+        "Prothonotary Warbler": [
+            3,
+            3
+        ],
+        "Purple Finch": [
+            5,
+            3
+        ],
+        "Purple Gallinule": [
+            3,
+            2
+        ],
+        "Purple Martin": [
+            2,
+            3
+        ],
+        "Purple Sandpiper": [
+            6,
+            -1
+        ],
+        "Pygmy Nuthatch": [
+            5,
+            2
+        ],
+        "Pyrrhuloxia": [
+            2,
+            1
+        ],
+        "Red Crossbill": [
+            5,
+            2
+        ],
+        "Red Knot": [
+            5,
+            3
+        ],
+        "Red Phalarope": [
+            6,
+            -1
+        ],
+        "Red-bellied Woodpecker": [
+            1,
+            2
+        ],
+        "Red-billed Pigeon": [
+            5,
+            1
+        ],
+        "Red-billed Tropicbird": [
+            6,
+            -1
+        ],
+        "Red-breasted Merganser": [
+            3,
+            3
+        ],
+        "Red-breasted Nuthatch": [
+            3,
+            3
+        ],
+        "Red-breasted Sapsucker": [
+            6,
+            -1
+        ],
+        "Red-cockaded Woodpecker": [
+            5,
+            2
+        ],
+        "Red-crowned Parrot": [
+            5,
+            2
+        ],
+        "Red-eyed Vireo": [
+            3,
+            3
+        ],
+        "Red-faced Warbler": [
+            6,
+            -1
+        ],
+        "Red-headed Woodpecker": [
+            3,
+            2
+        ],
+        "Red-legged Honeycreeper": [
+            6,
+            -1
+        ],
+        "Red-lored Parrot": [
+            5,
+            2
+        ],
+        "Red-naped Sapsucker": [
+            5,
+            2
+        ],
+        "Red-necked Grebe": [
+            6,
+            -1
+        ],
+        "Red-necked Phalarope": [
+            5,
+            2
+        ],
+        "Red-necked Stint": [
+            6,
+            -1
+        ],
+        "Red-shouldered Hawk": [
+            2,
+            3
+        ],
+        "Red-tailed Hawk": [
+            2,
+            3
+        ],
+        "Red-throated Loon": [
+            5,
+            2
+        ],
+        "Red-vented Bulbul": [
+            5,
+            1
+        ],
+        "Red-winged Blackbird": [
+            1,
+            3
+        ],
+        "Reddish Egret": [
+            2,
+            3
+        ],
+        "Redhead": [
+            3,
+            3
+        ],
+        "Ring-billed Gull": [
+            2,
+            3
+        ],
+        "Ring-necked Duck": [
+            3,
+            3
+        ],
+        "Ring-necked Pheasant": [
+            5,
+            2
+        ],
+        "Ringed Kingfisher": [
+            3,
+            2
+        ],
+        "Ringed Teal": [
+            6,
+            -1
+        ],
+        "Rivoli's Hummingbird": [
+            5,
+            1
+        ],
+        "Roadside Hawk": [
+            6,
+            -1
+        ],
+        "Rock Pigeon": [
+            1,
+            3
+        ],
+        "Rock Wren": [
+            4,
+            2
+        ],
+        "Rose-breasted Grosbeak": [
+            3,
+            3
+        ],
+        "Rose-throated Becard": [
+            5,
+            1
+        ],
+        "Roseate Spoonbill": [
+            2,
+            2
+        ],
+        "Roseate Tern": [
+            6,
+            -1
+        ],
+        "Ross's Goose": [
+            3,
+            3
+        ],
+        "Rosy-faced Lovebird": [
+            6,
+            -1
+        ],
+        "Rough-legged Hawk": [
+            5,
+            2
+        ],
+        "Royal Tern": [
+            2,
+            3
+        ],
+        "Ruby-crowned Kinglet": [
+            2,
+            3
+        ],
+        "Ruby-throated Hummingbird": [
+            2,
+            2
+        ],
+        "Ruddy Duck": [
+            2,
+            3
+        ],
+        "Ruddy Ground Dove": [
+            6,
+            -1
+        ],
+        "Ruddy Turnstone": [
+            2,
+            3
+        ],
+        "Ruff": [
+            6,
+            -1
+        ],
+        "Rufous Hummingbird": [
+            3,
+            3
+        ],
+        "Rufous-backed Robin": [
+            6,
+            -1
+        ],
+        "Rufous-capped Warbler": [
+            5,
+            1
+        ],
+        "Rufous-crowned Sparrow": [
+            3,
+            2
+        ],
+        "Rusty Blackbird": [
+            5,
+            3
+        ],
+        "Sabine's Gull": [
+            5,
+            2
+        ],
+        "Sage Thrasher": [
+            5,
+            2
+        ],
+        "Sagebrush Sparrow": [
+            5,
+            2
+        ],
+        "Sanderling": [
+            2,
+            3
+        ],
+        "Sandhill Crane": [
+            3,
+            3
+        ],
+        "Sandwich Tern": [
+            3,
+            2
+        ],
+        "Savannah Sparrow": [
+            2,
+            3
+        ],
+        "Say's Phoebe": [
+            3,
+            3
+        ],
+        "Scaled Quail": [
+            3,
+            1
+        ],
+        "Scaly-breasted Munia": [
+            5,
+            2
+        ],
+        "Scarlet Tanager": [
+            3,
+            3
+        ],
+        "Scissor-tailed Flycatcher": [
+            2,
+            3
+        ],
+        "Scott's Oriole": [
+            3,
+            2
+        ],
+        "Seaside Sparrow": [
+            5,
+            2
+        ],
+        "Sedge Wren": [
+            3,
+            2
+        ],
+        "Semipalmated Plover": [
+            3,
+            3
+        ],
+        "Semipalmated Sandpiper": [
+            3,
+            3
+        ],
+        "Sharp-shinned Hawk": [
+            2,
+            3
+        ],
+        "Sharp-tailed Sandpiper": [
+            6,
+            -1
+        ],
+        "Shiny Cowbird": [
+            6,
+            -1
+        ],
+        "Short-billed Dowitcher": [
+            3,
+            3
+        ],
+        "Short-eared Owl": [
+            5,
+            3
+        ],
+        "Short-tailed Hawk": [
+            6,
+            -1
+        ],
+        "Slate-throated Redstart": [
+            6,
+            -1
+        ],
+        "Slaty-backed Gull": [
+            6,
+            -1
+        ],
+        "Smith's Longspur": [
+            6,
+            -1
+        ],
+        "Snail Kite": [
+            6,
+            -1
+        ],
+        "Snow Bunting": [
+            6,
+            -1
+        ],
+        "Snow Goose": [
+            3,
+            3
+        ],
+        "Snowy Egret": [
+            1,
+            3
+        ],
+        "Snowy Owl": [
+            6,
+            -1
+        ],
+        "Snowy Plover": [
+            3,
+            3
+        ],
+        "Social Flycatcher": [
+            6,
+            -1
+        ],
+        "Solitary Sandpiper": [
+            3,
+            3
+        ],
+        "Song Sparrow": [
+            3,
+            3
+        ],
+        "Sooty Shearwater": [
+            6,
+            -1
+        ],
+        "Sooty Tern": [
+            5,
+            2
+        ],
+        "Sora": [
+            3,
+            3
+        ],
+        "South Polar Skua": [
+            6,
+            -1
+        ],
+        "Spotted Owl": [
+            6,
+            -1
+        ],
+        "Spotted Sandpiper": [
+            2,
+            3
+        ],
+        "Spotted Towhee": [
+            2,
+            3
+        ],
+        "Sprague's Pipit": [
+            5,
+            2
+        ],
+        "Steller's Jay": [
+            5,
+            2
+        ],
+        "Stilt Sandpiper": [
+            3,
+            3
+        ],
+        "Streak-backed Oriole": [
+            6,
+            -1
+        ],
+        "Striped Sparrow": [
+            6,
+            -1
+        ],
+        "Sulphur-bellied Flycatcher": [
+            6,
+            -1
+        ],
+        "Summer Tanager": [
+            2,
+            3
+        ],
+        "Surf Scoter": [
+            5,
+            3
+        ],
+        "Surfbird": [
+            6,
+            -1
+        ],
+        "Swainson's Hawk": [
+            2,
+            3
+        ],
+        "Swainson's Thrush": [
+            3,
+            3
+        ],
+        "Swainson's Warbler": [
+            5,
+            2
+        ],
+        "Swallow-tailed Kite": [
+            5,
+            2
+        ],
+        "Swamp Sparrow": [
+            3,
+            3
+        ],
+        "Swan Goose": [
+            6,
+            -1
+        ],
+        "Tamaulipas Crow": [
+            5,
+            1
+        ],
+        "Tennessee Warbler": [
+            3,
+            3
+        ],
+        "Thick-billed Kingbird": [
+            6,
+            -1
+        ],
+        "Townsend's Solitaire": [
+            5,
+            2
+        ],
+        "Townsend's Warbler": [
+            5,
+            2
+        ],
+        "Tree Swallow": [
+            2,
+            3
+        ],
+        "Tricolored Heron": [
+            2,
+            3
+        ],
+        "Tropical Kingbird": [
+            3,
+            3
+        ],
+        "Tropical Mockingbird": [
+            6,
+            -1
+        ],
+        "Tropical Parula": [
+            5,
+            1
+        ],
+        "Trumpeter Swan": [
+            6,
+            -1
+        ],
+        "Tufted Flycatcher": [
+            6,
+            -1
+        ],
+        "Tufted Titmouse": [
+            2,
+            2
+        ],
+        "Tundra Swan": [
+            6,
+            -1
+        ],
+        "Turkey Vulture": [
+            1,
+            3
+        ],
+        "Upland Sandpiper": [
+            3,
+            2
+        ],
+        "Varied Bunting": [
+            5,
+            1
+        ],
+        "Varied Thrush": [
+            5,
+            2
+        ],
+        "Variegated Flycatcher": [
+            6,
+            -1
+        ],
+        "Veery": [
+            5,
+            1
+        ],
+        "Verdin": [
+            2,
+            2
+        ],
+        "Vermilion Flycatcher": [
+            2,
+            3
+        ],
+        "Vesper Sparrow": [
+            2,
+            3
+        ],
+        "Violet-crowned Hummingbird": [
+            6,
+            -1
+        ],
+        "Violet-green Swallow": [
+            5,
+            2
+        ],
+        "Virginia Rail": [
+            5,
+            3
+        ],
+        "Virginia's Warbler": [
+            5,
+            2
+        ],
+        "Warbling Vireo": [
+            3,
+            3
+        ],
+        "West Indian Whistling-Duck": [
+            6,
+            -1
+        ],
+        "Western Bluebird": [
+            5,
+            2
+        ],
+        "Western Grebe": [
+            5,
+            3
+        ],
+        "Western Gull": [
+            6,
+            -1
+        ],
+        "Western Kingbird": [
+            3,
+            3
+        ],
+        "Western Meadowlark": [
+            3,
+            3
+        ],
+        "Western Sandpiper": [
+            3,
+            3
+        ],
+        "Western Screech-Owl": [
+            5,
+            2
+        ],
+        "Western Tanager": [
+            3,
+            3
+        ],
+        "Western Wood-Pewee": [
+            3,
+            2
+        ],
+        "Whimbrel": [
+            3,
+            3
+        ],
+        "White Ibis": [
+            2,
+            2
+        ],
+        "White Wagtail": [
+            6,
+            -1
+        ],
+        "White-breasted Nuthatch": [
+            3,
+            3
+        ],
+        "White-cheeked Pintail": [
+            6,
+            -1
+        ],
+        "White-crested Elaenia": [
+            6,
+            -1
+        ],
+        "White-crowned Pigeon": [
+            6,
+            -1
+        ],
+        "White-crowned Sparrow": [
+            2,
+            3
+        ],
+        "White-eared Hummingbird": [
+            6,
+            -1
+        ],
+        "White-eyed Vireo": [
+            2,
+            2
+        ],
+        "White-faced Ibis": [
+            2,
+            3
+        ],
+        "White-fronted Parrot": [
+            5,
+            1
+        ],
+        "White-rumped Sandpiper": [
+            3,
+            2
+        ],
+        "White-tailed Hawk": [
+            3,
+            2
+        ],
+        "White-tailed Kite": [
+            3,
+            3
+        ],
+        "White-tailed Tropicbird": [
+            6,
+            -1
+        ],
+        "White-throated Sparrow": [
+            2,
+            3
+        ],
+        "White-throated Swift": [
+            5,
+            2
+        ],
+        "White-throated Thrush": [
+            6,
+            -1
+        ],
+        "White-tipped Dove": [
+            2,
+            1
+        ],
+        "White-winged Crossbill": [
+            6,
+            -1
+        ],
+        "White-winged Dove": [
+            1,
+            3
+        ],
+        "White-winged Parakeet": [
+            6,
+            -1
+        ],
+        "White-winged Scoter": [
+            5,
+            3
+        ],
+        "Whooping Crane": [
+            5,
+            2
+        ],
+        "Wild Turkey": [
+            3,
+            3
+        ],
+        "Willet": [
+            2,
+            3
+        ],
+        "Williamson's Sapsucker": [
+            5,
+            2
+        ],
+        "Willow Flycatcher": [
+            3,
+            2
+        ],
+        "Wilson's Phalarope": [
+            3,
+            3
+        ],
+        "Wilson's Plover": [
+            3,
+            2
+        ],
+        "Wilson's Snipe": [
+            2,
+            3
+        ],
+        "Wilson's Warbler": [
+            3,
+            3
+        ],
+        "Winter Wren": [
+            3,
+            2
+        ],
+        "Wood Duck": [
+            2,
+            3
+        ],
+        "Wood Stork": [
+            3,
+            3
+        ],
+        "Wood Thrush": [
+            3,
+            2
+        ],
+        "Woodhouse's Scrub-Jay": [
+            2,
+            2
+        ],
+        "Worm-eating Warbler": [
+            3,
+            3
+        ],
+        "Yellow Grosbeak": [
+            6,
+            -1
+        ],
+        "Yellow Rail": [
+            5,
+            2
+        ],
+        "Yellow Warbler": [
+            3,
+            3
+        ],
+        "Yellow-bellied Flycatcher": [
+            3,
+            2
+        ],
+        "Yellow-bellied Sapsucker": [
+            3,
+            3
+        ],
+        "Yellow-billed Cuckoo": [
+            3,
+            2
+        ],
+        "Yellow-billed Loon": [
+            6,
+            -1
+        ],
+        "Yellow-breasted Chat": [
+            3,
+            3
+        ],
+        "Yellow-crowned Night-Heron": [
+            2,
+            3
+        ],
+        "Yellow-crowned Parrot": [
+            6,
+            -1
+        ],
+        "Yellow-eyed Junco": [
+            6,
+            -1
+        ],
+        "Yellow-faced Grassquit": [
+            6,
+            -1
+        ],
+        "Yellow-green Vireo": [
+            5,
+            1
+        ],
+        "Yellow-headed Blackbird": [
+            3,
+            3
+        ],
+        "Yellow-headed Parrot": [
+            5,
+            2
+        ],
+        "Yellow-legged Gull": [
+            6,
+            -1
+        ],
+        "Yellow-nosed Albatross": [
+            6,
+            -1
+        ],
+        "Yellow-rumped Warbler": [
+            2,
+            3
+        ],
+        "Yellow-throated Vireo": [
+            3,
+            3
+        ],
+        "Yellow-throated Warbler": [
+            3,
+            3
+        ],
+        "Zone-tailed Hawk": [
+            5,
+            2
+        ]
     }
 }
