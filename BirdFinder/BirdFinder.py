@@ -222,6 +222,7 @@ def getPlaceResults(place:str, placedata:dict, regiondata:dict, state:str) -> st
 
     for b in placedata["seen"]:
         birdfrequency = init.birdstatus[regiondata[state][b][0]]
+
         if len(birdpriority[birdfrequency]) > 0:
             birdpriority[birdfrequency].append(b)
         else:
